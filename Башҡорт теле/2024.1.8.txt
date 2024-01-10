@@ -1,0 +1,92 @@
+таб
+
+мин  табайым    I find
+һин  табайһың   you find
+ул   табай      he find
+беҙ  табайбыҙ   we find
+һеҙ  табайһығыҙ you find
+улар табайҙар   they find
+
+мин  табасакмын   I 
+һин  табасакһың   you 
+ул   табасак      he 
+беҙ  табасакбыҙ   we 
+һеҙ  табасакһығыҙ you 
+улар табасактар   they
+
+мин  табырмын   I would
+һин  табырһың   you would
+ул   табыр      he would
+беҙ  табырбыҙ   we would
+һеҙ  табырһығыҙ you would
+улар табырҙар   they would
+
+
+
+мин  тапмайым    I donot find
+һин  тапмайһың   you donot find
+ул   тапмай      he donot find
+беҙ  тапмайбыҙ   we donot find
+һеҙ  тапмайһығыҙ you donot find
+улар тапмайҙар   they donot find
+
+мин  тапмаясакмын
+һин  тапмаясакһың
+ул   тапмаясак
+беҙ  тапмаясакбыҙ
+һеҙ  тапмаясакһығыҙ
+улар тапмаясактар
+
+мин  тапмаҫмын
+һин  тапмаҫһың
+ул   тапмаҫ
+беҙ  тапмаҫбыҙ
+һеҙ  тапмаҫһығыҙ
+улар тапмаҫтар
+
+
+мин  таптым    I have found
+һин  таптың    you have found
+ул   тапты     he has found
+беҙ  таптыҡ    we have found 
+һеҙ  таптығыҙ  you have found
+улар таптылар  they have found
+
+мин  тапманым   I havenot found
+һин  тапманың   you hasnot found
+ул   тапманы    he havenot found
+беҙ  тапманыҡ   we havenot found
+һеҙ  тапманығыҙ you havenot found
+улар тапманылар they havenot found
+
+мин  тапҡанмын    I have found
+һиң  тапҡанһың    you have found
+ул   тапҡан       he has found
+беҙ  тапҡанбыҙ    we have found
+һеҙ  тапҡанһығыҙ  you have found
+улар тапҡандар    they have found
+
+мин  тапмағанмын   I havenot found
+һин  тапмағанһың   you hasnot found
+ул   тапмаған      he havenot found
+беҙ  тапмағанбыҙ   we havenot found
+һеҙ  тапмағанһығыҙ you havenot found
+улар тапмағандар   they havenot found
+
+мин  тапһам      if I will find
+һин  тапһаң      if you will find
+ул   тапһа       if he will find
+беҙ  тапһаҡ      if we will find
+һеҙ  тапһағыҙ    if you will find
+улар тапһалар    if they will find
+
+
+минең  тапҡым    килә  I want  
+һинең  тапҡың you want
+ул   тапҡыһы he want
+беҙ  тапҡыҡ
+һеҙ  тапҡығыҙ
+уларҙы тапҡылары
+
+
+
