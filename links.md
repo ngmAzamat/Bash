@@ -1,0 +1,2 @@
+- https://google.com
+- https://en.wikipedia.org/wiki/Armorial_of_dependent_territories#External_territories
