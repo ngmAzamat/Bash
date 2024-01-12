@@ -4,6 +4,7 @@
 - https://theartofbattle.com/battle-of-bannockburn-1314/
 - https://en.wikipedia.org/wiki/List_of_sovereign_states_and_dependent_territories_in_Africa
 - https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Ottoman_Empire
+- https://maxlang.ru/100-grecheskix-slov.html?ysclid=lqneyl87rq290527631
 ### Byzantine
 - https://upload.wikimedia.org/wikipedia/commons/3/3f/4KBYZ.gif
 - https://en.wikipedia.org/wiki/Problem_of_two_emperors
