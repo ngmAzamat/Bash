@@ -23,12 +23,12 @@
 
 
 
-мин  тапмайым    I donot find
-һин  тапмайһың   you donot find
-ул   тапмай      he donot find
-беҙ  тапмайбыҙ   we donot find
-һеҙ  тапмайһығыҙ you donot find
-улар тапмайҙар   they donot find
+мин  тапмайым    I do not find
+һин  тапмайһың   you do not find
+ул   тапмай      he do not find
+беҙ  тапмайбыҙ   we do not find
+һеҙ  тапмайһығыҙ you do not find
+улар тапмайҙар   they do not find
 
 мин  тапмаясакмын
 һин  тапмаясакһың
@@ -52,12 +52,12 @@
 һеҙ  таптығыҙ  you have found
 улар таптылар  they have found
 
-мин  тапманым   I havenot found
-һин  тапманың   you hasnot found
-ул   тапманы    he havenot found
-беҙ  тапманыҡ   we havenot found
-һеҙ  тапманығыҙ you havenot found
-улар тапманылар they havenot found
+мин  тапманым   I have not found
+һин  тапманың   you has not found
+ул   тапманы    he have not found
+беҙ  тапманыҡ   we have not found
+һеҙ  тапманығыҙ you have not found
+улар тапманылар they have not found
 
 мин  тапҡанмын    I have found
 һиң  тапҡанһың    you have found
@@ -66,12 +66,12 @@
 һеҙ  тапҡанһығыҙ  you have found
 улар тапҡандар    they have found
 
-мин  тапмағанмын   I havenot found
-һин  тапмағанһың   you hasnot found
-ул   тапмаған      he havenot found
-беҙ  тапмағанбыҙ   we havenot found
-һеҙ  тапмағанһығыҙ you havenot found
-улар тапмағандар   they havenot found
+мин  тапмағанмын   I have not found
+һин  тапмағанһың   you has not found
+ул   тапмаған      he have not found
+беҙ  тапмағанбыҙ   we have not found
+һеҙ  тапмағанһығыҙ you have not found
+улар тапмағандар   they have not found
 
 мин  тапһам      if I will find
 һин  тапһаң      if you will find
@@ -83,7 +83,7 @@
 
 минең  тапҡым    килә  I want  
 һинең  тапҡың you want
-ул   тапҡыһы he want
+ул   тапҡыһы he wants 
 беҙ  тапҡыҡ
 һеҙ  тапҡығыҙ
 уларҙы тапҡылары

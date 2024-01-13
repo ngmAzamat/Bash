@@ -5,12 +5,12 @@
 һеҙ  киләһегеҙ    you come
 улар киләләр      they come
 
-мин  килмәйем     I comenot
-һин  килмәйһең    you comenot
-ул   килмәй       he comenot
-беҙ  килмәйбеҙ    we comenot
-һеҙ  килмәйһегеҙ  you comenot
-улар килмәйҙәр    they comenot
+мин  килмәйем     I come not
+һин  килмәйһең    you come not
+ул   килмәй       he come not
+беҙ  килмәйбеҙ    we come not
+һеҙ  килмәйһегеҙ  you come not
+улар килмәйҙәр    they come not
 
 мин  килдем   I    come
 һин  килдең   you  come
@@ -19,12 +19,12 @@
 һеҙ  килдегеҙ you  come
 улар килделәр they come
 
-мин  килмәнем   I    come
-һин  килмәнең   you  come
+мин  килмәнем   I    come 
+һин  килмәнең   you  come 
 ул   килмәне    he   come 
 беҙ  килмәнек   we   come 
 һеҙ  килмәнегеҙ you  come 
-улар килмәнеләр they come 
+улар килмәнеләр they come  
 
 мин  килгәнмен   I    come
 һин  килгәнһең   you  come
