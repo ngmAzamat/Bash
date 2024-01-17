@@ -1,41 +1,41 @@
 broken
-мин  ватам     I
-һин  ватаһың   you
-ул   вата      he
-беҙ  ватабыҙ   we
-һеҙ  ватаһығыҙ you
-улар ваталар   they
+мин  ватам     I    break
+һин  ватаһың   you  break
+ул   вата      he   break
+беҙ  ватабыҙ   we   break
+һеҙ  ватаһығыҙ you  break
+улар ваталар   they break
 
-мин  ватмайым
-һин  ватмайһың
-ул   ватмай
-беҙ  ватмайбыҙ
-һеҙ  ватмайһығыҙ
-улар ватмайҙар
+мин  ватмайым    I    break
+һин  ватмайһың   you  break
+ул   ватмай      he   break
+беҙ  ватмайбыҙ   we   break
+һеҙ  ватмайһығыҙ you  break
+улар ватмайҙар   they break
 
-мин  ваттым
-һин  ваттың
-ул   ватты
-беҙ  ваттыҡ
-һеҙ  ваттығыҙ
-улар ваттылар
-
-
+мин  ваттым    I have broken
+һин  ваттың    you has broken
+ул   ватты     he have broken
+беҙ  ваттыҡ    we have broken
+һеҙ  ваттығыҙ  you have broken
+улар ваттылар  they have broken
 
 
-мин  ватманым
-һин  ватманың
-ул   ватманы
-беҙ  ватманыҡ
-һеҙ  ватманығыҙ
-улар ватманылар
 
-мин  ватҡанмын
-һин  ватҡанһың
-ул   ватҡан
-беҙ  ватҡанбыҙ
-һеҙ  ватҡанһыығҙ
-улар ватҡандар
+
+мин  ватманым   I    have not broken
+һин  ватманың   you  have not broken
+ул   ватманы    he   have not broken
+беҙ  ватманыҡ   we   have not broken
+һеҙ  ватманығыҙ you  have not broken
+улар ватманылар they have not broken
+
+мин  ватҡанмын   I    brok
+һин  ватҡанһың   you  brok
+ул   ватҡан      he   brok
+беҙ  ватҡанбыҙ   we   brok
+һеҙ  ватҡанһыығҙ you  brok
+улар ватҡандар   they brok
 
 
 
