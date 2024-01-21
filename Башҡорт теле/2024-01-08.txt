@@ -14,12 +14,12 @@
 һеҙ  табасакһығыҙ you 
 улар табасактар   they
 
-мин  табырмын   I would
-һин  табырһың   you would
-ул   табыр      he would
-беҙ  табырбыҙ   we would
-һеҙ  табырһығыҙ you would
-улар табырҙар   they would
+мин  табырмын   I would find
+һин  табырһың   you would find
+ул   табыр      he would find
+беҙ  табырбыҙ   we would find
+һеҙ  табырһығыҙ you would find
+улар табырҙар   they would find
 
 
 
