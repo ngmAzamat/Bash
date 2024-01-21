@@ -59,19 +59,19 @@
 һеҙ  тоймаҫһығыҙ you  wouldn't feel
 улар тоймаҫтар   they wouldn't feel
 
-мин  тотасакмын   I
-һин  тотасакһың   you
-ул   тотасак      he
-беҙ  тотасакбыҙ   we
-һеҙ  тотасакһығыҙ you
-улар тотасактар   they
+мин  тотасакмын   I    would feel
+һин  тотасакһың   you  would feel
+ул   тотасак      he   would feel
+беҙ  тотасакбыҙ   we   would feel
+һеҙ  тотасакһығыҙ you  would feel
+улар тотасактар   they would feel
 
-мин  тотмаясакмын   I    wo
-һин  тотмаясакһың   you  wo
-ул   тотмаясак      he   wo
-беҙ  тотмаясакбыҙ   we   wo
-һеҙ  тотмаясакһығыҙ you  wo
-улар тотмаясактар   they wo
+мин  тотмаясакмын   I    wouldn't feel
+һин  тотмаясакһың   you  wouldn't feel
+ул   тотмаясак      he   wouldn't feel
+беҙ  тотмаясакбыҙ   we   wouldn't feel
+һеҙ  тотмаясакһығыҙ you  wouldn't feel
+улар тотмаясактар   they wouldn't feel
 
 мин  тотһам   if I    feel
 һин  тотһаң   if you  feel
