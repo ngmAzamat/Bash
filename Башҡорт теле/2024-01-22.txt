@@ -1,45 +1,94 @@
-мин  эсәм
-һин  эсәһең
-ул   эсә
-беҙ  эсәбеҙ
-һеҙ  эсәһегеҙ
-улар эсәләр
+мин  эсәм     I    drinking
+һин  эсәһең   you  drinking
+ул   эсә      he   drinking
+беҙ  эсәбеҙ   we   drinking
+һеҙ  эсәһегеҙ you  drinking
+улар эсәләр   they drinking
 
-мин
-һин
-
-
-
-
-мин
-мин
-мин
+мин  эсмәйем    I    do not drink
+һин  эсмәйһең   you  do not drink
+ул   эсмәй      he   do not drink
+беҙ  эсмәйбеҙ   we   do not drink
+һеҙ  эсмәйһегеҙ you  do not drink
+улар эсмәйҙәр   they do not drink
 
 
 
+мин  эстем   I    have drink
+һин  эстең   you  have drink
+ул   эсте    he   has  drink
+беҙ  эстек   we   have drink
+һеҙ  эстегеҙ you  have drink
+улар эстеләр they have drink
+
+мин  эсмәнем   I    have not drink
+һин  эсмәнең   you  have not drink
+ул   эсмәне    he   has  not drink
+беҙ  эсмәнек   we   have not drink
+һеҙ  эсмәнегеҙ you  have not drink
+улар эсмәнеләр they have not drink
+
+мин  эскәнмен   I    have drink
+һин  эскәнһең   you  have drink
+ул   эскән      he   has  drink
+беҙ  эскәнбеҙ   we   have drink
+һеҙ  эскәнһегеҙ you  have drink
+улар эскәндәр   they have drink
 
 
 
+мин  эсмәгәнмен   I    have not drink
+һин  эсмәгәнһең   you  have not drink
+ул   эсмәгән      he   has  not drink
+беҙ  эсмәгәнбеҙ   we   have not drink
+һеҙ  эсмәгәнһегеҙ you  have not drink
+улар эсмәгәндәр   they have not drink
 
 
 
+мин  эсермен   I    
+һин  эсерһең   you  
+ул   эсер      he   
+беҙ  эсербеҙ   we   
+һеҙ  эсерһегеҙ you  
+улар эсертәр   they 
 
 
+мин  эсмәҫмен   I    
+һин  эсмәҫһең   you  
+ул   эсмәҫ      he   
+беҙ  эсмәҫбеҙ   we   
+һеҙ  эсмәҫһегеҙ you  
+улар эсмәҫтәр   they 
+
+мин  эсәсәкмен   I
+һин  эсәсәкһең   you
+ул   эсәсәк      he
+беҙ  эсәсәкбеҙ   we
+һеҙ  эсәсәкһегеҙ you
+улар эсәсәктәр   they
 
 
+мин  эсмәйәсәкмен   I
+һин  эсмәйәсәкһең   you
+ул   эсмәйәсәк      he
+беҙ  эсмәйәсәкбеҙ   we
+һеҙ  эсмәйәсәкһегеҙ you
+улар эсмәйәсәктәр   they
 
+мин  эсһәм   if I    will drink
+һин  эсһәң   if you  will drink
+ул   эсһә    if he   will drink
+беҙ  эсһәк   if we   will drink
+һеҙ  эсһәгеҙ if you  will drink
+улар эсһәләр if they will drink
 
-
-
-
-
-
-
-
-
-
-
-
+мин  эскем    I    want to drink
+һин  эскең    you  want to drink
+ул   эске     he   want to drink
+беҙ  эскек    we   want to drink
+һеҙ  эскегеҙ  you  want to drink
+улар эскеләре they want to drink
 
 
 
