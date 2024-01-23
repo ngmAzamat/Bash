@@ -1,0 +1,91 @@
+мин  онотам     I    forget
+һин  онотаһың   you  forget
+ул   онота      he   forget
+беҙ  онотабыҙ   we   forget
+һеҙ  онотаһығыҙ you  forget
+улар оноталар   they forget
+
+мин  онотмай I    do   not forget
+һин  онотмай you  do   not forget
+ул   онотмай he   does not forget
+беҙ  онотмай we   do   not forget
+һеҙ  онотмай you  do   not forget
+улар онотмай they do   not forget
+
+
+мин  оноттом   I    have forgot
+һин  оноттоң   you  have forgot
+ул   онотто    he   has  forgot
+беҙ  оноттоҡ   we   have forgot
+һеҙ  оноттоғоҙ you  have forgot
+улар оноттолар they have forgot
+
+мин  онотманым   I    have not forgot
+һин  онотманың   you  have not forgot
+ул   онотманы    he   has  not forgot
+беҙ  онотманыҡ   we   have not forgot
+һеҙ  онотманығоҙ you  have not forgot
+улар онотманылар they have not forgot
+
+
+мин  онотҡанмын   I    have forgot
+һин  онотҡанһың   you  have forgot
+ул   онотҡан      he   has  forgot
+беҙ  онотҡанбыҙ   we   have forgot
+һеҙ  онотҡанһығыҙ you  have forgot
+улар онотҡандар   they have forgot
+
+
+
+мин  онотмағанмын   I    have not forgot
+һин  онотмағанһың   you  have not forgot
+ул   онотмаған      he   has  not forgot
+беҙ  онотмағанбыҙ   we   have not forgot
+һеҙ  онотмағанһығыҙ you  have not forgot
+улар онотмағандар   they have not forgot
+
+мин  онотормон   I    would forget
+һин  оноторһоң   you  would forget
+ул   онотор      he   would forget
+беҙ  оноторбоҙ   we   would forget
+һеҙ  оноторһоғоҙ you  would forget
+улар оноторҙар   they would forget
+
+
+
+
+мин  онотмаҫмын   I    wouldn't forget
+һин  онотмаҫһың   you  wouldn't forget
+ул   онотмаҫ      he   wouldn't forget
+беҙ  онотмаҫбыҙ   we   wouldn't forget
+һеҙ  онотмаҫһығыҙ you  wouldn't forget
+улар онотмаҫтар   they wouldn't forget
+
+мин  онотасакмын   I    will forget
+һин  онотасакһың   you  will forget
+ул   онотасак      he   will forget
+беҙ  онотасакбыҙ   we   will forget
+һеҙ  онотасакһығыҙ you  will forget
+улар онотасактар   they will forget
+
+мин  онотмаясакмын   I    willn't forget
+һин  онотмаясакһың   you  willn't forget
+ул   онотмаясак      he   willn't forget
+беҙ  онотмаясакбыҙ   we   willn't forget
+һеҙ  онотмаясакһығыҙ you  willn't forget
+улар онотмаясактар   they willn't forget
+
+мин  онотһам   if I    will forget
+һин  онотһаң   if you  will forget
+ул   онотһа    if we   will forget
+беҙ  онотһаҡ   if he   will forget
+һеҙ  онотһағыҙ if you  will forget
+улар онотһалар if they will forget
+
+мин  онотҡом    I    want  to forget
+һин  онотҡоң    you  want  to forget
+ул   онотҡоһо   he   wants to forget
+беҙ  онотҡоҡ    we   want  to forget
+һеҙ  онотҡоғоҙ  you  want  to forget
+улар онотҡолары they want  to forget
+ 
