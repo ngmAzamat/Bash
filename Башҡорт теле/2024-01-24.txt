@@ -1,0 +1,92 @@
+мин  юғалтам     I    am  losing
+һин  юғалтаһың   you  are losing
+ул   юғалта      he   is  losing
+беҙ  юғалтабыҙ   we   are losing
+һеҙ  юғалтаһығыҙ you  are losing
+улар юғалталар   they are losing
+  
+мин  юғалтмайым    I    don't   lose
+һин  юғалтмайһың   you  don't   lose
+ул   юғалтмай      he   doesn't lose
+беҙ  юғалтмайбыҙ   we   don't   lose
+һеҙ  юғалтмайһығыҙ you  don't   lose
+улар юғалтмайҙар   they don't   lose
+
+мин  юғалттым   I    have lost
+һин  юғалттың   you  have lost
+ул   юғалтты    he   has  lost
+беҙ  юғалттыҡ   we   have lost
+һеҙ  юғалттығыҙ you  have lost
+улар юғалттылар they have lost
+
+мин  юғалтманым   I    haven't lost
+һин  юғалтманың   you  haven't lost
+ул   юғалтманы    he   hasn't  lost
+беҙ  юғалтманыҡ   we   haven't lost
+һеҙ  юғалтманығыҙ you  haven't lost
+улар юғалтманылар they haven't lost
+
+
+мин  юғалтҡанмын   I    have lost
+һин  юғалтҡанһың   you  have lost
+ул   юғалтҡан      he   has  lost
+беҙ  юғалтҡанбыҙ   we   have lost
+һеҙ  юғалтҡанһығыҙ you  have lost
+улар юғалтҡандар   they have lost
+ 
+мин  юғалтмағанмын   I    haven't lost
+һин  юғалтмағанһың   you  haven't lost
+ул   юғалтмаған      he   hasn't  lost
+беҙ  юғалтмағанбыҙ   we   haven't lost
+һеҙ  юғалтмағанһығыҙ you  haven't lost
+улар юғалтмағандар   they haven't lost
+
+
+
+
+ 
+мин  юғалтырмын   I    would lose
+һин  юғалтырһың   you  would lose
+ул   юғалтыр      he   would lose
+беҙ  юғалтырбыҙ   we   would lose
+һеҙ  юғалтырһығыҙ you  would lose
+улар юғалтырҙар   they would lose
+ 
+мин  юғалтмаҫмын   I    wouldn't lose
+һин  юғалтмаҫһың   you  wouldn't lose
+ул   юғалтмаҫ      he   wouldn't lose
+беҙ  юғалтмаҫбыҙ   we   wouldn't lose
+һеҙ  юғалтмаҫһығыҙ you  wouldn't lose
+улра юғалтмаҫтар   they wouldn't lose
+
+
+мин  юғалтасакмын   I    will lose
+һин  юғалтасакһың   you  will lose
+ул   юғалтасак      he   will lose
+беҙ  юғалтасакбыҙ   we   will lose
+һеҙ  юғалтасакһығыҙ you  will lose
+улар юғалтасактар   they will lose
+
+мин  юғалтмаясакмын   I    willn't lose
+һин  юғалтмаясакһың   you  willn't lose
+ул   юғалтмаясак      he   willn't lose
+беҙ  юғалтмаясакбыҙ   we   willn't lose
+һеҙ  юғалтмаясакһығыҙ you  willn't lose
+улар юғалтмаясактар   they willn't lose
+
+мин  юғалтһам   if I    will lose
+һин  юғалтһаң   if you  will lose
+ул   юғалтһа    if he   will lose
+беҙ  юғалтһаҡ   if we   will lose
+һеҙ  юғалтһағыҙ if you  will lose
+улар юғалтһалар if they will lose
+
+мин  юғалтҡым    килә I    want  to lose
+һин  юғалтҡың    килә you  want  to lose
+ул   юғалтҡыһы   килә he   wants to lose
+беҙ  юғалтҡыҡ    килә we   want  to lose
+һеҙ  юғалтҡығыҙ  килә you  want  to lose
+улар юғалтҡылары килә they want  to lose
+
+
+
