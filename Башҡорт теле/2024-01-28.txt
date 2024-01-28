@@ -1,0 +1,85 @@
+мин  килтерәм     I    am  brinking
+һин  килтерәһең   you  are brinking
+ул   килтерә      he   is  brinking
+беҙ  килтерәбеҙ   we   are brinking
+һеҙ  килтерәһегеҙ you  are brinking
+улар килтерәҙәр   they are brinking
+
+мин  килтермәйем    I    do not brink
+һин  килтермәйһең   you  do not brink
+ул   килтермәй      he   do not brink
+беҙ  килтермәйбеҙ   we   do not brink
+һеҙ  килтермәйһегеҙ you  do not brink
+улар килтермәйҙәр   they do not brink
+
+мин  килтерҙем   I    have bronk
+һин  килтерҙең   you  have bronk
+ул   килтерҙе    he   has  bronk
+беҙ  килтерҙек   we   have bronk
+һеҙ  килтерҙегеҙ you  have bronk
+улар килтерҙеләр they have bronk
+
+мин  килтермәне I    have not bronk
+һин  килтермәне you  have not bronk
+ул   килтермәне he   has  not bronk
+беҙ  килтермәне we   have not bronk
+һеҙ  килтермәне you  have not bronk
+улар килтермәне they have not bronk
+
+мин  килтергәнмен   I    have bronk
+һин  килтергәнһең   you  have bronk
+ул   килтергән      he   has  bronk
+беҙ  килтергәнбеҙ   we   have bronk
+һеҙ  килтергәнһегеҙ you  have bronk
+улар килтергәндәр   they have bronk
+
+
+мин  килтермәгәнмен   I    have not bronk
+һин  килтермәгәнһең   you  have not bronk
+ул   килтермәгән      he   has  not bronk
+беҙ  килтермәгәнбеҙ   we   have not bronk
+һеҙ  килтермәгәнһегеҙ you  have not bronk
+улар килтермәгәндәр   they have not bronk
+
+мин  килтерермен   I    would brink
+һин  килтерерһең   you  would brink
+ул   килтерер      he   would brink
+беҙ  килтерербеҙ   we   would brink
+һеҙ  килтерерһегеҙ you  would brink
+улар килтерерҙәр   they would brink
+
+мин  килтермәҫмен   I    wouldn't brink
+һин  килтермәҫһен   you  wouldn't brink
+ул   килтермәҫ      he   wouldn't brink
+беҙ  килтермәҫбеҙ   we   wouldn't brink
+һеҙ  килтермәҫһегеҙ you  wouldn't brink
+улар килтермәҫтәр   they wouldn't brink
+
+мин  килтерәсәкмен   I    will brink
+һин  килтерәсәкһең   you  will brink
+ул   килтерәсәк      he   will brink
+беҙ  килтерәсәкбеҙ   we   will brink
+һеҙ  килтерәсәкһегеҙ you  will brink
+улар килтерәсәктәр   they will brink
+
+мин  килтермәйәсәкмен   I    willn't brink
+һин  килтермәйәсәкһең   you  willn't brink
+ул   килтермәйәсәк      he   willn't brink
+беҙ  килтермәйәсәкбеҙ   we   willn't brink
+һеҙ  килтермәйәсәкһегеҙ you  willn't brink
+улар килтермәйәсәктәр   they willn't brink
+
+мин  килтерһәм   if I    will brink
+һин  килтерһәң   if you  will brink
+ул   килтерһә    if he   will brink
+беҙ  килтерһәк   if we   will brink
+һеҙ  килтерһәгеҙ if you  will brink
+улар килтерһәләр if they will brink
+
+мин  килтергем   килә I    want to brink
+һин  килтергең   килә you  want to brink
+ул   килтерге    килә he   want to brink
+беҙ  килтергек   килә we   want to brink
+һеҙ  килтергегеҙ килә you  want to brink
+улар килтергеләр килә they want to brink
+

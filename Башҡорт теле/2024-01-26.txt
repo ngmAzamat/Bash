@@ -1,0 +1,94 @@
+
+мин  осам     I    am  fly
+һин  осаһың   you  are fly
+ул   оса      he   is  fly
+беҙ  осабыҙ   we   are fly
+һеҙ  осаһығыҙ you  are fly
+улар осалар   they are fly
+
+мин  осмайым    I    do not fly
+һин  осмайһың   you  do not fly
+ул   осмай      he   do not fly
+беҙ  осмайбыҙ   we   do not fly
+һеҙ  осмайһығыҙ you  do not fly
+улар осмайҙар   they do not fly
+
+
+
+мин  остом   I    have fly
+һин  остоң   you  have fly
+ул   осто    he   has  fly
+беҙ  остоҡ   we   have fly
+һеҙ  остоғоҙ you  have fly
+улар остолар they have fly
+
+мин  османым   I    have not fl
+һин  османың   you  have not fl
+ул   османы    he   has  not fl
+беҙ  османыҡ   we   have not fl
+һеҙ  османығыҙ you  have not fl
+улар османылар they have not fl
+
+
+мин  о I    have fl
+һин  о you  have fl
+ул   о he   has  fl
+беҙ  о we   have fl
+һеҙ  о you  have fl
+улар о they have fl
+
+мин  I    have not fl
+һин  you  have not fl
+ул   he   has  not fl
+беҙ  we   have not fl
+һеҙ  you  have not fl
+улар they have not fl
+
+
+мин  осормон   I    would fly
+һин  осорһоң   you  would fly
+ул   осор      he   would fly
+беҙ  осорбоҙ   we   would fly
+һеҙ  осорһоғоҙ you  would fly
+улар осорҙар   they would fly
+
+мин  осмаҫ I    wouldn't fly
+һин  осмаҫ you  wouldn't fly
+ул   осмаҫ he   wouldn't fly
+беҙ  осмаҫ we   wouldn't fly
+һеҙ  осмаҫ you  wouldn't fly
+улар осмаҫ they wouldn't fly
+
+мин  осасакмын   I    will fly
+һин  осасакһың   you  will fly
+ул   осасак      he   will fly
+беҙ  осасакбыҙ   we   will fly
+һеҙ  осасакһығыҙ you  will fly
+улар осасактар   they will fly
+
+мин  осмаясакмын    I    willn't fly
+һин  осмаясакһың    you  willn't fly
+ул   осмаясак       he   willn't fly
+беҙ  осмаясакбыҙ    we   willn't fly
+һеҙ  осмаясакһығыҙ  you  willn't fly
+улар осмаясактар    they willn't fly
+
+
+
+мин  осһам   if I    will fly
+һин  осһаң   if you  will fly
+ул   осһа    if he   will fly
+беҙ  осһаҡ   if we   will fly
+һеҙ  осһағыҙ if you  will fly
+улар осһалар if they will fly
+
+мин  осҡым    килә I    want to fly
+һин  осҡың    килә you  want to fly
+ул   осҡыһы   килә he   want to fly
+беҙ  осҡыҡ    килә we   want to fly
+һеҙ  осҡығыҙ  килә you  want to fly
+улар осҡылары килә they want to fly
+
+
+
+
