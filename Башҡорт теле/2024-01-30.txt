@@ -1,75 +1,100 @@
-мин яҙ
-мин 
-мин
-мин
-һин
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+мин  яҙам     I    am  write
+һин  яҙаһың   you  are write
+ул   яҙа      he   is  write
+беҙ  яҙабыҙ   we   are write
+һеҙ  яҙаһығыҙ you  are write
+улар яҙалар   they are write
+
+мин  яҙмайым    I    don't write
+һин  яҙмайһың   you  don't write
+ул   яҙмай      he   don't write
+беҙ  яҙмайбыҙ   we   don't write
+һеҙ  яҙмайһығыҙ you  don't write
+улар яҙмайҙар   they don't write
+ 
+мин  яҙҙым   I    have write
+һин  яҙҙың   you  have write
+ул   яҙҙы    he   has  write
+беҙ  яҙҙыҡ   we   have write
+һеҙ  яҙҙығыҙ you  have write
+улар яҙҙылар they have write
+
+мин  яҙманым   I    haven't write
+һин  яҙманың   you  haven't write
+ул   яҙманы    he   haven't write
+беҙ  яҙманыҡ   we   haven't write
+һеҙ  яҙманығыҙ you  haven't write
+улар яҙманылар they haven't write
+
+
+
+
+
+
+мин  яҙғанмын   I    have write
+һин  яҙғанһың   you  have write
+ул   яҙған      he   has  write
+беҙ  яҙғанбыҙ   we   have write
+һеҙ  яҙғанһығыҙ you  have write
+улар яҙғандар   they have write
+
+мин  яҙмағанмын   I    have not write
+һин  яҙмағанһың   you  have not write
+ул   яҙмаған      he   has  not write
+беҙ  яҙмағанбыҙ   we   have not write
+һеҙ  яҙмағанһығыҙ you  have not write
+улар яҙмағандар   they have not write
+
+мин  яҙырмын   I    would write
+һин  яҙырһың   you  would write
+ул   яҙыр      he   would write
+беҙ  яҙырбыҙ   we   would write
+һеҙ  яҙырһығыҙ you  would write
+улар яҙырҙар   they would write
+
+мин  яҙмаҫмын   I    wouldn't write
+һин  яҙмаҫһың   you  wouldn't write
+ул   яҙмаҫ      he   wouldn't write
+беҙ  яҙмаҫбыҙ   we   wouldn't write
+һеҙ  яҙмаҫһығыҙ you  wouldn't write
+улар яҙмаҫтар   they wouldn't write
+
+мин  яҙасакмын   I    will write
+һин  яҙасакһың   you  will write
+ул   яҙасак      he   will write
+беҙ  яҙасакбыҙ   we   will write
+һеҙ  яҙасакһығыҙ you  will write
+улар яҙасактар   they will write
+
+
+
+
+
+
+мин  яҙмаясакмын   I    willn't write
+һин  яҙмаясакһың   you  willn't write
+ул   яҙмаясак      we   willn't write
+беҙ  яҙмаясакбыҙ   he   willn't write
+һеҙ  яҙмаясакһығыҙ you  willn't write
+улар яҙмаясактар   they willn't write
+
+
+
+
+
+мин  яҙһам   if I    will write
+һин  яҙһаң   if you  will write
+ул   яҙһа    if he   will write
+беҙ  яҙһаҡ   if we   will write
+һеҙ  яҙһағыҙ if you  will write
+улар яҙһалар if they will write
+
+мин  яҙғым    килә I    want to write
+һин  яҙғың    килә you  want to write
+ул   яҙғыһы   килә he   want to write
+беҙ  яҙғыҡ    килә we   want to write
+һеҙ  яҙғығыҙ  килә you  want to write
+улар яҙғылары килә they want to write
 
 
 
