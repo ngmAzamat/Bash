@@ -20,71 +20,68 @@
 улар тешләнеләр they have bit
 
 
-мин  тешләмәнем   I    have not
-һин  тешләмәнең   you  have not
-ул   тешләмәне    he   has  not
-беҙ  тешләмәнек   we   have not
-һеҙ  тешләмәнегеҙ you  have not
-улар тешләмәнеләр they have not
+мин  тешләмәнем   I    have not bit
+һин  тешләмәнең   you  have not bit
+ул   тешләмәне    he   has  not bit
+беҙ  тешләмәнек   we   have not bit
+һеҙ  тешләмәнегеҙ you  have not bit
+улар тешләмәнеләр they have not bit
 
-мин  тешләгәнмен   I    have 
-һин  тешләгәнһең   you  have 
-ул   тешләгән      he   has  
-беҙ  тешләгәнбеҙ   we   have 
-һеҙ  тешләгәнһегеҙ you  have 
-улар тешләгәндәр   they have 
+мин  тешләгәнмен   I    have bitten
+һин  тешләгәнһең   you  have bitten
+ул   тешләгән      he   has  bitten
+беҙ  тешләгәнбеҙ   we   have bitten
+һеҙ  тешләгәнһегеҙ you  have bitten
+улар тешләгәндәр   they have bitten
 
-мин  тешләмәгәнмен   I
-һин  тешләмәгәнһең   you
-ул   тешләмәгән      he
-беҙ  тешләмәгәнбеҙ   we
-һеҙ  тешләмәгәнһегеҙ you
-улар тешләмәгәндәр   they
+мин  тешләмәгәнмен   I    haven't bitten
+һин  тешләмәгәнһең   you  haven't bitten
+ул   тешләмәгән      he   hasn't  bitten
+беҙ  тешләмәгәнбеҙ   we   haven't bitten
+һеҙ  тешләмәгәнһегеҙ you  haven't bitten
+улар тешләмәгәндәр   they haven't bitten
 
-мин  тешлә
-һин  тешлә
-ул   тешлә
-беҙ  тешлә
-һеҙ  тешлә
-улар тешлә
+мин  тешләрмен   I    would bite
+һин  тешләрһең   you  would bite
+ул   тешләр      he   would bite
+беҙ  тешләрбеҙ   we   would bite
+һеҙ  тешләрһегеҙ you  would bite
+улар тешләрҙәр   they would bite
 
+мин  тешләмәҫмен   I    wouldn't bite
+һин  тешләмәҫһең   you  wouldn't bite
+ул   тешләмәҫ      he   wouldn't bite
+беҙ  тешләмәҫбеҙ   we   wouldn't bite
+һеҙ  тешләмәҫһегеҙ you  wouldn't bite
+улар тешләмәҫтәр   they wouldn't bite
 
-мин  тешлә
-һин  тешлә
-ул   тешлә
-беҙ  тешлә
-һеҙ  тешлә
-улар тешлә
+мин  тешләйәсәкмен   I    will bite
+һин  тешләйәсәкһең   you  will bite
+ул   тешләйәсәк      he   will bite
+беҙ  тешләйәсәкбеҙ   we   will bite
+һеҙ  тешләйәсәкһегеҙ you  will bite
+улар тешләйәсәктәр   they will bite
 
-мин  тешлә
-һин  тешлә
-ул   тешлә
-беҙ  тешлә
-һеҙ  тешлә
-улар тешлә
+мин  тешләмәйәсәкмен   I    willn't bite
+һин  тешләмәйәсәкһең   you  willn't bite
+ул   тешләмәйәсәк      he   willn't bite
+беҙ  тешләмәйәсәкбеҙ   we   willn't bite
+һеҙ  тешләмәйәсәкһегеҙ you  willn't bite
+улар тешләмәйәсәктәр   they willn't bite
 
+мин  тешләһәм   if I    will bite
+һин  тешләһәң   if you  will bite
+ул   тешләһә    if he   will bite
+беҙ  тешләһәк   if we   will bite
+һеҙ  тешләһәгеҙ if you  will bite
+улар тешләһәләр if they will bite
 
-мин  тешлә
-һин  тешлә
-ул   тешлә
-беҙ  тешлә
-һеҙ  тешлә
-улар тешлә
-
-
-мин  тешлә
-һин  тешлә
-ул   тешлә
-беҙ  тешлә
-һеҙ  тешлә
-улар тешлә
-
-мин  
-һин  
-ул   
-беҙ  
-һеҙ  
-улар 
+мин  тешләгем   I    want  to bite
+һин  тешләгең   you  want  to bite
+ул   тешләге    he   wants to bite
+беҙ  тешләгек   we   want  to bite
+һеҙ  тешләгегеҙ you  want  to bite
+улар тешләгеләр they want  to bite
 
 
 
