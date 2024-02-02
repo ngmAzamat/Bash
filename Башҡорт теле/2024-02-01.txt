@@ -5,40 +5,40 @@
 һеҙ  күтәреләһегеҙ you   are  rise
 улар күтәреләҙәр   they  are  rise
 
-мин  күтерелмәйем    I    don't rise
-һин  күтерелмәйһең   you  don't rise
-ул   күтерелмәй      he   don't rise
-беҙ  күтерелмәйбеҙ   we   don't rise
-һеҙ  күтерелмәйһегеҙ you  don't rise
-улар күтерелмәйҙәр   they don't rise
+мин  күтәрелмәйем    I    don't rise
+һин  күтәрелмәйһең   you  don't rise
+ул   күтәрелмәй      he   does't rise
+беҙ  күтәрелмәйбеҙ   we   don't rise
+һеҙ  күтәрелмәйһегеҙ you  don't rise
+улар күтәрелмәйҙәр   they don't rise
 
-мин  күтерелҙем   I    have rise
-һин  күтерелҙең   you  have rise
-ул   күтерелҙе    he   has  rise
-беҙ  күтерелҙек   we   have rise
-һеҙ  күтерелҙегеҙ you  have rise
-улар күтерелҙеләр they have rise
+мин  күтәрелҙем   I    have rissen
+һин  күтәрелҙең   you  have rissen
+ул   күтәрелҙе    he   has  rissen
+беҙ  күтәрелҙек   we   have rissen
+һеҙ  күтәрелҙегеҙ you  have rissen
+улар күтәрелҙеләр they have rissen
 
-мин  күтерелмәнем   I    have not rise
-һин  күтерелмәнең   you  have not rise
-ул   күтерелмәне    he   has  not rise
-беҙ  күтерелмәнек   we   have not rise
-һеҙ  күтерелмәнегеҙ you  have not rise
-улар күтерелмәнеләр they have not rise
+мин  күтәрелмәнем   I    have not rissen
+һин  күтәрелмәнең   you  have not rissen
+ул   күтәрелмәне    he   has  not rissen
+беҙ  күтәрелмәнек   we   have not rissen
+һеҙ  күтәрелмәнегеҙ you  have not rissen
+улар күтәрелмәнеләр they have not rissen
 
-мин  күтәрелгәнмен   I    have rise
-һин  күтәрелгәнһең   you  have rise
-ул   күтәрелгән      he   has  rise
-беҙ  күтәрелгәнбеҙ   we   have rise
-һеҙ  күтәрелгәнһегеҙ you  have rise
-улар күтәрелгәндәр   they have rise
+мин  күтәрелгәнмен   I    have rissen
+һин  күтәрелгәнһең   you  have rissen
+ул   күтәрелгән      he   has  rissen
+беҙ  күтәрелгәнбеҙ   we   have rissen
+һеҙ  күтәрелгәнһегеҙ you  have rissen
+улар күтәрелгәндәр   they have rissen
 
-мин  күтәрелмәгәнмен   I    have not rise
-һин  күтәрелмәгәнһең   you  have not rise
-ул   күтәрелмәгән      he   has  not rise
-беҙ  күтәрелмәгәнбеҙ   we   have not rise
-һеҙ  күтәрелмәгәнһегеҙ you  have not rise
-улар күтәрелмәгәндәр   they have not rise
+мин  күтәрелмәгәнмен   I    have not rissen
+һин  күтәрелмәгәнһең   you  have not rissen
+ул   күтәрелмәгән      he   has  not rissen
+беҙ  күтәрелмәгәнбеҙ   we   have not rissen
+һеҙ  күтәрелмәгәнһегеҙ you  have not rissen
+улар күтәрелмәгәндәр   they have not rissen
 
 мин  күтәрелермен   I    would rise
 һин  күтәрелерһең   you  would rise
@@ -47,12 +47,12 @@
 һеҙ  күтәрелерһегеҙ you  would rise
 улар күтәрелерҙәр   they would rise
 
-мин  күтерелмәҫмен   I    wouldn't rise
-һин  күтерелмәҫһең   you  wouldn't rise
-ул   күтерелмәҫ      he   wouldn't rise
-беҙ  күтерелмәҫбеҙ   we   wouldn't rise
-һеҙ  күтерелмәҫһегеҙ you  wouldn't rise
-улар күтерелмәҫтәр   they wouldn't rise
+мин  күтәрелмәҫмен   I    wouldn't rise
+һин  күтәрелмәҫһең   you  wouldn't rise
+ул   күтәрелмәҫ      he   wouldn't rise
+беҙ  күтәрелмәҫбеҙ   we   wouldn't rise
+һеҙ  күтәрелмәҫһегеҙ you  wouldn't rise
+улар күтәрелмәҫтәр   they wouldn't rise
 
 мин  күтәреләсәкмен   I    will rise
 һин  күтәреләсәкһең   you  will rise
@@ -68,12 +68,12 @@
 һеҙ  күтәрелмәйәсәкһегеҙ you  willn't rise
 улар күтәрелмәйәсәктәр   they willn't rise
 
-мин  күтерелһәм   if I    will rise
-һин  күтерелһәң   if you  will rise
-ул   күтерелһә    if he   will rise
-беҙ  күтерелһәк   if we   will rise
-һеҙ  күтерелһәгеҙ if you  will rise
-улар күтерелһәләр if they will rise
+мин  күтәрелһәм   if I    will rise
+һин  күтәрелһәң   if you  will rise
+ул   күтәрелһә    if he   will rise
+беҙ  күтәрелһәк   if we   will rise
+һеҙ  күтәрелһәгеҙ if you  will rise
+улар күтәрелһәләр if they will rise
 
 мин  күтәрелгем    килә I     want  to rise
 һин  күтәрелгең    килә you   want  to rise
