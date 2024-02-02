@@ -1,9 +1,9 @@
-мин  күтәреләм     I     am   rise
-һин  күтәреләһең   you   are  rise
-ул   күтәрелә      he    is   rise
-беҙ  күтәреләбеҙ   we    are  rise
-һеҙ  күтәреләһегеҙ you   are  rise
-улар күтәреләҙәр   they  are  rise
+мин  күтәреләм     I     am   rising
+һин  күтәреләһең   you   are  rising
+ул   күтәрелә      he    is   rising
+беҙ  күтәреләбеҙ   we    are  rising
+һеҙ  күтәреләһегеҙ you   are  rising
+улар күтәреләҙәр   they  are  rising
 
 мин  күтәрелмәйем    I    don't rise
 һин  күтәрелмәйһең   you  don't rise
@@ -12,33 +12,33 @@
 һеҙ  күтәрелмәйһегеҙ you  don't rise
 улар күтәрелмәйҙәр   they don't rise
 
-мин  күтәрелҙем   I    have rissen
-һин  күтәрелҙең   you  have rissen
-ул   күтәрелҙе    he   has  rissen
-беҙ  күтәрелҙек   we   have rissen
-һеҙ  күтәрелҙегеҙ you  have rissen
-улар күтәрелҙеләр they have rissen
+мин  күтәрелҙем   I    have risen
+һин  күтәрелҙең   you  have risen
+ул   күтәрелҙе    he   has  risen
+беҙ  күтәрелҙек   we   have risen
+һеҙ  күтәрелҙегеҙ you  have risen
+улар күтәрелҙеләр they have risen
 
-мин  күтәрелмәнем   I    have not rissen
-һин  күтәрелмәнең   you  have not rissen
-ул   күтәрелмәне    he   has  not rissen
-беҙ  күтәрелмәнек   we   have not rissen
-һеҙ  күтәрелмәнегеҙ you  have not rissen
-улар күтәрелмәнеләр they have not rissen
+мин  күтәрелмәнем   I    have not risen
+һин  күтәрелмәнең   you  have not risen
+ул   күтәрелмәне    he   has  not risen
+беҙ  күтәрелмәнек   we   have not risen
+һеҙ  күтәрелмәнегеҙ you  have not risen
+улар күтәрелмәнеләр they have not risen
 
-мин  күтәрелгәнмен   I    have rissen
-һин  күтәрелгәнһең   you  have rissen
-ул   күтәрелгән      he   has  rissen
-беҙ  күтәрелгәнбеҙ   we   have rissen
-һеҙ  күтәрелгәнһегеҙ you  have rissen
-улар күтәрелгәндәр   they have rissen
+мин  күтәрелгәнмен   I    have risen
+һин  күтәрелгәнһең   you  have risen
+ул   күтәрелгән      he   has  risen
+беҙ  күтәрелгәнбеҙ   we   have risen
+һеҙ  күтәрелгәнһегеҙ you  have risen
+улар күтәрелгәндәр   they have risen
 
-мин  күтәрелмәгәнмен   I    have not rissen
-һин  күтәрелмәгәнһең   you  have not rissen
-ул   күтәрелмәгән      he   has  not rissen
-беҙ  күтәрелмәгәнбеҙ   we   have not rissen
-һеҙ  күтәрелмәгәнһегеҙ you  have not rissen
-улар күтәрелмәгәндәр   they have not rissen
+мин  күтәрелмәгәнмен   I    have not risen
+һин  күтәрелмәгәнһең   you  have not risen
+ул   күтәрелмәгән      he   has  not risen
+беҙ  күтәрелмәгәнбеҙ   we   have not risen
+һеҙ  күтәрелмәгәнһегеҙ you  have not risen
+улар күтәрелмәгәндәр   they have not risen
 
 мин  күтәрелермен   I    would rise
 һин  күтәрелерһең   you  would rise
