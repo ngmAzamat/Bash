@@ -12,12 +12,12 @@
 һеҙ  тешләмәйһегеҙ you  don't bite
 улар тешләмәйҙәр   they don't bite
 
-мин  тешләнем   I    have bit
-һин  тешләнең   you  have bit
-ул   тешләне    he   has  bit
-беҙ  тешләнек   we   have bit
-һеҙ  тешләнегеҙ you  have bit
-улар тешләнеләр they have bit
+мин  тешләнем   I    have bitte
+һин  тешләнең   you  have bitte
+ул   тешләне    he   has  bitte
+беҙ  тешләнек   we   have bitte
+һеҙ  тешләнегеҙ you  have bitte
+улар тешләнеләр they have bitte
 
 
 мин  тешләмәнем   I    have not bit
