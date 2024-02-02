@@ -1,9 +1,9 @@
-мин  яҙам     I    am  write
-һин  яҙаһың   you  are write
-ул   яҙа      he   is  write
-беҙ  яҙабыҙ   we   are write
-һеҙ  яҙаһығыҙ you  are write
-улар яҙалар   they are write
+мин  яҙам     I    am  writing
+һин  яҙаһың   you  are writing
+ул   яҙа      he   is  writing
+беҙ  яҙабыҙ   we   are writing
+һеҙ  яҙаһығыҙ you  are writing
+улар яҙалар   they are writing
 
 мин  яҙмайым    I    don't write
 һин  яҙмайһың   you  don't write

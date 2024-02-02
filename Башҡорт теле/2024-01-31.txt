@@ -1,13 +1,13 @@
-мин  тешләйем    I    am  bite
-һин  тешләйһең   you  are bite
-ул   тешләй      he   is  bite
-беҙ  тешләйбеҙ   we   are bite
-һеҙ  тешләйһегеҙ you  are bite
-улар тешләйҙәр   they are bite
+мин  тешләйем    I    am  biting
+һин  тешләйһең   you  are biting
+ул   тешләй      he   is  biting
+беҙ  тешләйбеҙ   we   are biting
+һеҙ  тешләйһегеҙ you  are biting
+улар тешләйҙәр   they are biting
 
 мин  тешләмәйем    I    don't bite
 һин  тешләмәйһең   you  don't bite
-ул   тешләмәй      he   don't bite
+ул   тешләмәй      he   does't bite
 беҙ  тешләмәйҙәр   we   don't bite
 һеҙ  тешләмәйһегеҙ you  don't bite
 улар тешләмәйҙәр   they don't bite
