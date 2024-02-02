@@ -7,7 +7,7 @@
 
 мин  уйла I    don't think
 һин  уйла you  don't think
-ул   уйла he   don't think
+ул   уйла he   does't think
 беҙ  уйла we   don't think
 һеҙ  уйла you  don't think
 улар уйла they don't think
@@ -21,7 +21,7 @@
 
 мин  уйла I    haven't think
 һин  уйла you  haven't think
-ул   уйла he   haven't think
+ул   уйла he   hasn't think
 беҙ  уйла we   haven't think
 һеҙ  уйла you  haven't think
 улар уйла they haven't think
