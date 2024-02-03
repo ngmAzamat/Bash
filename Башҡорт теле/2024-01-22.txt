@@ -44,12 +44,12 @@
 һеҙ  эсмәгәнһегеҙ you  have not drink
 улар эсмәгәндәр   they have not drink
 
-мин  эсермен   I    would
-һин  эсерһең   you  would
-ул   эсер      he   would
-беҙ  эсербеҙ   we   would
-һеҙ  эсерһегеҙ you  would
-улар эсертәр   they would
+мин  эсермен   I    would drink
+һин  эсерһең   you  would drink
+ул   эсер      he   would drink
+беҙ  эсербеҙ   we   would drink
+һеҙ  эсерһегеҙ you  would drink
+улар эсертәр   they would drink
 
 
 мин  эсмәҫмен   I    wouldn't drink
@@ -66,12 +66,12 @@
 һеҙ  эсәсәкһегеҙ you  will drink
 улар эсәсәктәр   they will drink
 
-мин  эсмәйәсәкмен   I    willn't
-һин  эсмәйәсәкһең   you  willn't
-ул   эсмәйәсәк      he   willn't
-беҙ  эсмәйәсәкбеҙ   we   willn't
-һеҙ  эсмәйәсәкһегеҙ you  willn't
-улар эсмәйәсәктәр   they willn't
+мин  эсмәйәсәкмен   I    willn't drink
+һин  эсмәйәсәкһең   you  willn't drink
+ул   эсмәйәсәк      he   willn't drink
+беҙ  эсмәйәсәкбеҙ   we   willn't drink
+һеҙ  эсмәйәсәкһегеҙ you  willn't drink
+улар эсмәйәсәктәр   they willn't drink
 
 мин  эсһәм   if I    will drink
 һин  эсһәң   if you  will drink
