@@ -44,37 +44,34 @@
 һеҙ  эсмәгәнһегеҙ you  have not drink
 улар эсмәгәндәр   they have not drink
 
+мин  эсермен   I    would
+һин  эсерһең   you  would
+ул   эсер      he   would
+беҙ  эсербеҙ   we   would
+һеҙ  эсерһегеҙ you  would
+улар эсертәр   they would
 
 
-мин  эсермен   I    
-һин  эсерһең   you  
-ул   эсер      he   
-беҙ  эсербеҙ   we   
-һеҙ  эсерһегеҙ you  
-улар эсертәр   they 
+мин  эсмәҫмен   I    wouldn't
+һин  эсмәҫһең   you  wouldn't
+ул   эсмәҫ      he   wouldn't
+беҙ  эсмәҫбеҙ   we   wouldn't
+һеҙ  эсмәҫһегеҙ you  wouldn't
+улар эсмәҫтәр   they wouldn't
 
+мин  эсәсәкмен   I    will
+һин  эсәсәкһең   you  will
+ул   эсәсәк      he   will
+беҙ  эсәсәкбеҙ   we   will
+һеҙ  эсәсәкһегеҙ you  will
+улар эсәсәктәр   they will
 
-мин  эсмәҫмен   I    
-һин  эсмәҫһең   you  
-ул   эсмәҫ      he   
-беҙ  эсмәҫбеҙ   we   
-һеҙ  эсмәҫһегеҙ you  
-улар эсмәҫтәр   they 
-
-мин  эсәсәкмен   I
-һин  эсәсәкһең   you
-ул   эсәсәк      he
-беҙ  эсәсәкбеҙ   we
-һеҙ  эсәсәкһегеҙ you
-улар эсәсәктәр   they
-
-
-мин  эсмәйәсәкмен   I
-һин  эсмәйәсәкһең   you
-ул   эсмәйәсәк      he
-беҙ  эсмәйәсәкбеҙ   we
-һеҙ  эсмәйәсәкһегеҙ you
-улар эсмәйәсәктәр   they
+мин  эсмәйәсәкмен   I    willn't
+һин  эсмәйәсәкһең   you  willn't
+ул   эсмәйәсәк      he   willn't
+беҙ  эсмәйәсәкбеҙ   we   willn't
+һеҙ  эсмәйәсәкһегеҙ you  willn't
+улар эсмәйәсәктәр   they willn't
 
 мин  эсһәм   if I    will drink
 һин  эсһәң   if you  will drink
