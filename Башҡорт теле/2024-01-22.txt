@@ -59,12 +59,12 @@
 һеҙ  эсмәҫһегеҙ you  wouldn't drink
 улар эсмәҫтәр   they wouldn't drink
 
-мин  эсәсәкмен   I    will   dri
-һин  эсәсәкһең   you  will drin
-ул   эсәсәк      he   will drinn
-беҙ  эсәсәкбеҙ   we   will drin
-һеҙ  эсәсәкһегеҙ you  will drin
-улар эсәсәктәр   they will drin
+мин  эсәсәкмен   I    will drink
+һин  эсәсәкһең   you  will drink
+ул   эсәсәк      he   will drink
+беҙ  эсәсәкбеҙ   we   will drink
+һеҙ  эсәсәкһегеҙ you  will drink
+улар эсәсәктәр   they will drink
 
 мин  эсмәйәсәкмен   I    willn't
 һин  эсмәйәсәкһең   you  willn't
