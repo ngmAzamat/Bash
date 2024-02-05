@@ -32,23 +32,25 @@
 
 
 
+https://hobbygames.ru/istorija-ricarja/rules
 
 
+https://hobbygames.ru/tjulpanomanija
 
 
+https://hobbygames.ru/ost-indskaja-kompanija/rules
+
+https://hobbygames.ru/vzrivnie-kotjata#product-questions
 
 
+https://hobbygames.ru/ganzejskij-sojuz#main-content
+
+https://hobbygames.ru/sumerechnaja-borba/rules
+
+https://tesera.ru/game/imperial-struggle/
 
 
-
-
-
-
-
-
-
-
-
+https://tesera.ru/game/memy-veselo-i-v-tochku/
 
 
 
