@@ -1,7 +1,89 @@
 
-мин  тыңла
-һин  тыңла
-ул   тыңла
-беҙ  тыңла
-һеҙ  тыңла
-улар тыңла
+мин  уҡыйым    I    am  reading
+һин  уҡыйһың   you  are reading
+ул   уҡый      he   is  reading
+беҙ  уҡыйбыҙ   we   are reading
+һеҙ  уҡыйһығыҙ you  are reading
+улар уҡыйҙар   they are reading
+
+
+
+мин  уҡымайым    I    don't read
+һин  уҡымайһың   you  don't read
+ул   уҡымай      he   does't read
+беҙ  уҡымайбыҙ   we   don't read
+һеҙ  уҡымайһығыҙ you  don't read
+улар уҡымайҙар   they don't read
+
+мин  уҡыным   I    have read
+һин  уҡының   you  have read
+ул   уҡыны    he   has  read
+беҙ  уҡыныҡ   we   have read
+һеҙ  уҡынығыҙ you  have read
+улар уҡынылар they have read
+
+мин  уҡыманым   I    haven't read
+һин  уҡыманың   you  haven't read
+ул   уҡыманы    he   hasn't  read
+беҙ  уҡыманыҡ   we   haven't read
+һеҙ  уҡыманыығҙ you  haven't read
+улар уҡыманылар they haven't read
+
+мин  уҡығанмын   I    have read
+һин  уҡығанһың   you  have read
+ул   уҡыған      he   has  read
+беҙ  уҡығанбыҙ   we   have read
+һеҙ  уҡығанһығыҙ you  have read
+улар уҡығандар   they have read
+
+мин  уҡымағанмын   haven't read
+һин  уҡымағанһың   haven't read
+ул   уҡымаған      hasn't  read
+беҙ  уҡымағанбыҙ   haven't read
+һеҙ  уҡымағанһығыҙ haven't read
+улар уҡымағандар   haven't read
+
+мин  уҡырмын   I    would read
+һин  уҡырһың   you  would read
+ул   уҡыр      he   would read
+беҙ  уҡырбыҙ   we   would read
+һеҙ  уҡырһығыҙ you  would read
+улар уҡырҙар   they would read
+
+мин  уҡымаҫмын   I    wouldn't read
+һин  уҡымаҫһың   you  wouldn't read
+ул   уҡымаҫ      he   wouldn't read
+беҙ  уҡымаҫбыҙ   we   wouldn't read
+һеҙ  уҡымаҫһығыҙ you  wouldn't read
+улар уҡымаҫтар   they wouldn't read
+
+
+мин  уҡыясакмын   I    will read
+һин  уҡыясакһың   you  will read
+ул   уҡыясак      he   will read
+беҙ  уҡыясакбыҙ   we   will read
+һеҙ  уҡыясакһығыҙ you  will read
+улар уҡыясактар   they will read
+
+мин  уҡымаясакмын   I    willn't read
+һин  уҡымаясакһың   you  willn't read
+ул   уҡымаясак      he   willn't read
+беҙ  уҡымаясакбыҙ   we   willn't read
+һеҙ  уҡымаясакһығыҙ you  willn't read
+улар уҡымаясактар   they willn't read
+
+мин  уҡыһам   if I    will read
+һин  уҡыһаң   if you  will read
+ул   уҡыһа    if he   will read
+беҙ  уҡыһаҡ   if we   will read
+һеҙ  уҡыһағыҙ if you  will read
+улар уҡыһалар if they will read
+
+мин  уҡығым    килә I    want  to read
+һин  уҡығың    килә you  want  to read
+ул   уҡығы     килә he   wants to read
+беҙ  уҡығыҡ    килә we   want  to read
+һеҙ  уҡығығыҙ  килә you  want  to read
+улар уҡығылары килә they want  to read
+
+
