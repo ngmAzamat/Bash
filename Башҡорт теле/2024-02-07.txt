@@ -1,0 +1,90 @@
+хайла
+
+chose
+
+мин  хайлайым    I    am  chosing
+һин  хайлайһың   you  are chosing
+ул   хайлай      he   is  chosing
+беҙ  хайлайбыҙ   we   are chosing
+һеҙ  хайлайһығыҙ you  are chosing
+улар хайлайҙар   they are chosing
+
+мин  хайламайым    I    don't chose
+һин  хайламайһың   you  don't chose
+ул   хайламай      he   don't chose
+беҙ  хайламайбыҙ   we   don't chose
+һеҙ  хайламайһығыҙ you  don't chose
+улар хайламайҙар   they don't chose
+
+мин  хайланым   I    have chose
+һин  хайланың   you  have chose
+ул   хайланы    he   has  chose
+беҙ  хайланыҡ   we   have chose
+һеҙ  хайланығыҙ you  have chose
+улар хайланылар they have chose
+
+мин  хайламаным   I    haven't chose
+һин  хайламаның   you  haven't chose
+ул   хайламаны    he   hasn't  chose
+беҙ  хайламаныҡ   we   haven't chose
+һеҙ  хайламанығыҙ you  haven't chose
+улар хайламанылар they haven't chose
+
+мин  хайлағанмын   I    have chose
+һин  хайлағанһың   you  have chose
+ул   хайлаған      he   has  chose
+беҙ  хайлағанбыҙ   we   have chose
+һеҙ  хайлағанһығыҙ you  have chose
+улар хайлағандар   they have chose
+
+мин  хайламағанмын   I    haven't chose
+һин  хайламағанһың   you  haven't chose
+ул   хайламаған      he   hasn't  chose
+беҙ  хайламағанбыҙ   we   haven't chose
+һеҙ  хайламағанһығыҙ you  haven't chose
+улар хайламағандар   they haven't chose
+
+мин  хайлармын   I    would chose
+һин  хайларһың   you  would chose
+ул   хайлар      he   would chose
+беҙ  хайларбыҙ   we   would chose
+һеҙ  хайларһығыҙ you  would chose
+улар хайларҙар   they would chose
+
+мин  хайламаҫмын   I    wouldn't chose
+һин  хайламаҫһың   you  wouldn't chose
+ул   хайламаҫ      he   wouldn't chose
+беҙ  хайламаҫбыҙ   we   wouldn't chose
+һеҙ  хайламаҫһығыҙ you  wouldn't chose
+улар хайламаҫтар   they wouldn't chose
+
+мин  хайлаясакмын   I    will chose
+мин  хайлаясакһың   you  will chose
+ул   хайлаясак      he   will chose
+беҙ  хайлаясакбыҙ   we   will chose
+һеҙ  хайлаясакһығыҙ you  will chose
+улар хайлаясактар   they will chose
+
+мин  хайламаясакмын   I    willn't chose
+һин  хайламаясакһың   you  willn't chose
+ул   хайламаясак      he   willn't chose
+беҙ  хайламаясакбыҙ   we   willn't chose
+һеҙ  хайламаясакһығыҙ you  willn't chose
+улар хайламаясактар   they willn't chose
+
+
+мин  хайлаһам   if I    will chose
+һин  хайлаһаң   if you  will chose
+ул   хайлаһа    if he   will chose
+беҙ  хайлаһаҡ   if we   will chose
+һеҙ  хайлаһағыҙ if you  will chose
+улар хайлаһалар if they will chose
+
+мин  хайлағым    килә I    want  to chose
+һин  хайлағың    килә you  want  to chose
+ул   хайлағыһы   килә he   wants to chose
+беҙ  хайлағыҡ    килә we   want  to chose
+һеҙ  хайлағығыҙ  килә you  want  to chose
+улар хайлағылары килә they want  to chose
+
+
