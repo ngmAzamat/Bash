@@ -5,90 +5,90 @@ feet
 
 fed
 
-мин  ашатам     I
-һин  ашатаһың   you
-ул   ашата      he
-беҙ  ашатабыҙ   we
-һеҙ  ашатаһығыҙ you
-улар ашаталар   they
+мин  ашатам     I    am  feeting
+һин  ашатаһың   you  are feeting
+ул   ашата      he   is  feeting
+беҙ  ашатабыҙ   we   are feeting
+һеҙ  ашатаһығыҙ you  are feeting
+улар ашаталар   they are feeting
 
-мин  ашатмайым    I
-һин  ашатмайһың   you
-ул   ашатмай      he
-беҙ  ашатмайбыҙ   we
-һеҙ  ашатмайһығыҙ you
-улар ашатмайҙар   they
+мин  ашатмайым    I    don't feet
+һин  ашатмайһың   you  don't feet
+ул   ашатмай      he   don't feet
+беҙ  ашатмайбыҙ   we   don't feet
+һеҙ  ашатмайһығыҙ you  don't feet
+улар ашатмайҙар   they don't feet
 
-мин  ашаттым   I
-һин  ашаттың   you
-ул   ашатты    he
-беҙ  ашаттыҡ   we
-һеҙ  ашаттығыҙ you
-улар ашаттылар they
+мин  ашаттым   I    have fed
+һин  ашаттың   you  have fed
+ул   ашатты    he   has  fed
+беҙ  ашаттыҡ   we   have fed
+һеҙ  ашаттығыҙ you  have fed
+улар ашаттылар they have fed
 
-мин  ашатманым   I
-һин  ашатманың   you
-ул   ашатманы    he
-беҙ  ашатманыҡ   we
-һеҙ  ашатманығыҙ you
-улар ашатманылар they
+мин  ашатманым   I    haven't fed
+һин  ашатманың   you  haven't fed
+ул   ашатманы    he   hasn't  fed
+беҙ  ашатманыҡ   we   haven't fed
+һеҙ  ашатманығыҙ you  haven't fed
+улар ашатманылар they haven't fed
 
-мин  ашатҡанмын
-һин  ашатҡанһың
-ул   ашатҡан
-беҙ  ашатҡанбыҙ
-һеҙ  ашатҡанһығыҙ
-улар ашатҡандар
+мин  ашатҡанмын   I    have fed
+һин  ашатҡанһың   you  have fed
+ул   ашатҡан      he   has  fed
+беҙ  ашатҡанбыҙ   we   have fed
+һеҙ  ашатҡанһығыҙ you  have fed
+улар ашатҡандар   they have fed
 
-мин  ашатмағанмын
-һин  ашатмағанһың
-ул   ашатмаған
-беҙ  ашатмағанбыҙ
-һеҙ  ашатмағанһығыҙ
-улар ашатмағанҙар
+мин  ашатмағанмын   I    haven't feet
+һин  ашатмағанһың   you  haven't feet
+ул   ашатмаған      he   hasn't  feet
+беҙ  ашатмағанбыҙ   we   haven't feet
+һеҙ  ашатмағанһығыҙ you  haven't feet
+улар ашатмағанҙар   they haven't feet
 
-мин  ашатырмын
-һин  ашатырһың
-ул   ашатыр
-беҙ  ашатырбыҙ
-һеҙ  ашатырһығыҙ
-улар ашатырҙар
+мин  ашатырмын   I    would feet
+һин  ашатырһың   you  would feet
+ул   ашатыр      he   would feet
+беҙ  ашатырбыҙ   we   would feet
+һеҙ  ашатырһығыҙ you  would feet
+улар ашатырҙар   they would feet
 
-мин  ашатмаҫмын
-һин  ашатмаҫһың
-ул   ашатмаҫ
-беҙ  ашатмаҫбыҙ
-һеҙ  ашатмаҫһығыҙ
-улар ашатмаҫтар
+мин  ашатмаҫмын   I    wouldn't feet
+һин  ашатмаҫһың   you  wouldn't feet
+ул   ашатмаҫ      he   wouldn't feet
+беҙ  ашатмаҫбыҙ   we   wouldn't feet
+һеҙ  ашатмаҫһығыҙ you  wouldn't feet
+улар ашатмаҫтар   they wouldn't feet
 
-мин  ашатасакмын
-һин  ашатасакһың
-ул   ашатасак
-беҙ  ашатасакбыҙ
-һеҙ  ашатасакһығыҙ
-улар ашатасактар
+мин  ашатасакмын   I    will feet
+һин  ашатасакһың   you  will feet
+ул   ашатасак      he   will feet
+беҙ  ашатасакбыҙ   we   will feet
+һеҙ  ашатасакһығыҙ you  will feet
+улар ашатасактар   they will feet
 
-мин  ашатмаясакмын
-һин  ашатмаясакһың
-ул   ашатмаясак
-беҙ  ашатмаясакбыҙ
-һеҙ  ашатмаясакһығыҙ
-улар ашатмаясактар
+мин  ашатмаясакмын   I    willn't feet
+һин  ашатмаясакһың   you  willn't feet
+ул   ашатмаясак      he   willn't feet
+беҙ  ашатмаясакбыҙ   we   willn't feet
+һеҙ  ашатмаясакһығыҙ you  willn't feet
+улар ашатмаясактар   they willn't feet
 
 
-мин  ашатһам
-һин  ашатһаң
-ул   ашатһа
-беҙ  ашатһаҡ
-һеҙ  ашатһағыҙ
-улар ашатһалар
+мин  ашатһам   if I    will feel
+һин  ашатһаң   if you  will feel
+ул   ашатһа    if he   will feel
+беҙ  ашатһаҡ   if we   will feel
+һеҙ  ашатһағыҙ if you  will feel
+улар ашатһалар if they will feel
 
-мин  ашатҡым   килә
-һин  ашатҡың   килә
-ул   ашатҡыһы  килә
-беҙ  ашатҡыҡ   килә
-һеҙ  ашатҡығыҙ килә
-улар ашатҡылар килә
+мин  ашатҡым   килә I    want  to feet
+һин  ашатҡың   килә you  want  to feet
+ул   ашатҡыһы  килә he   wants to feet
+беҙ  ашатҡыҡ   килә we   want  to feet
+һеҙ  ашатҡығыҙ килә you  want  to feet
+улар ашатҡылар килә they want  to feet
 
 
 
