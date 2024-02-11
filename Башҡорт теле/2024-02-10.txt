@@ -1,86 +1,88 @@
-мин  беләм
-һин  беләһең
-ул   белә
-беҙ  белә
-һеҙ  беләһегеҙ
-улар беләҙәр
+мин  беләм     I    am  knowing
+һин  беләһең   you  are knowing
+ул   белә      he   is  knowing
+беҙ  беләбеҙ   we   are knowing
+һеҙ  беләһегеҙ you  are knowing
+улар беләҙәр   they are knowing
 
 
-мин  белмәйем
-һин  белмәйһең
-ул   белмәй
-беҙ  белмәйбеҙ
-һеҙ  белмәйһегеҙ
-улар белмәйҙәр
+мин  белмәйем    I    don't know
+һин  белмәйһең   you  don't know
+ул   белмәй      he   don't know
+беҙ  белмәйбеҙ   we   don't know
+һеҙ  белмәйһегеҙ you  don't know
+улар белмәйҙәр   they don't know
 
-мин  белҙем
-һин  белҙең
-уд   белҙе
-беҙ  белҙек
-һеҙ  белҙегеҙ
-улар белҙеләр
+мин  белҙем   I    have known
+һин  белҙең   you  have known
+ул   белҙе    he   has  known
+беҙ  белҙек   we   have known
+һеҙ  белҙегеҙ you  have known
+улар белҙеләр they have known
 
-мин  белмәнем
-һин  белмәнең
-ул   белмәне
-беҙ  белмәнек
-һеҙ  белмәнегеҙ
-улар белмәнеләр
+мин  белмәнем   I    haven't known
+һин  белмәнең   you  haven't known
+ул   белмәне    he   hasn't  known
+беҙ  белмәнек   we   haven't known
+һеҙ  белмәнегеҙ you  haven't known
+улар белмәнеләр they haven't known
 
-мин  бел
-һин  бел
-ул   бел
-беҙ  бел
-һеҙ  бел
-улар бел
+мин  белгәнмен   I    have known
+һин  белгәнһең   you  have known
+ул   белгән      he   has  known
+беҙ  белгәнбеҙ   we   have known
+һеҙ  белгәнһегеҙ you  have known
+улар белгәндәр   they have known
 
-мин
-һин
-ул
-беҙ
-һеҙ
-улар
-
-
-мин
-мин
-мин
-мин
-мин
-мин
-мин
+мин  белмәгәнмен   I    haven't known
+һин  белмәгәнһең   you  haven't known
+ул   белмәгән      he   hasn't  known
+беҙ  белмәгәнбеҙ   we   haven't known
+һеҙ  белмәгәнһегеҙ you  haven't known
+улар белмәгәндәәр  they haven't known
 
 
+мин  белермен   I    would know
+һин  белерһең   you  would know
+ул   белер      he   would know
+беҙ  белербеҙ   we   would know
+һеҙ  белерһегеҙ you  would know
+улар белерҙәр   they would know
 
+мин  белмәҫмен   I    wouldn't know
+һин  белмәҫһең   you  wouldn't know
+ул   белмәҫ      he   wouldn't know
+беҙ  белмәҫбеҙ   we   wouldn't know
+һеҙ  белмәҫһегеҙ you  wouldn't know
+улар белмәҫтәр   they wouldn't know
 
+мин  беләсәкмен   I    will know
+һин  беләсәкһең   you  will know
+ул   беләсәк      he   will know
+беҙ  беләсәкбеҙ   we   will know
+һеҙ  беләсәкһегеҙ you  will know
+улар беләсәктәр   they will know
 
+мин  белмәйәсәкмен   I    willn't know
+һин  белмәйәсәкһең   you  willn't know
+ул   белмәйәсәк      he   willn't know
+беҙ  белмәйәсәкбеҙ   we   willn't know
+һеҙ  белмәйәсәкһегеҙ you  willn't know
+улар белмәйәсәктәр   they willn't know
 
+мен  белһәм   if I    will know
+һин  белһәң   if you  will know
+ул   белһә    if he   will know
+беҙ  белһәк   if we   will know
+һеҙ  белһәгеҙ if you  will know
+улар белһәләр if they will know
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+мин  белгем    килә I    want  to know
+һин  белгең    килә you  want  to know
+ул   белгеһе   килә he   wants to know
+беҙ  белгек    килә we   want  to know
+һеҙ  белгегеҙ  килә you  want  to know
+улар белгеләре килә they want  to know
 
 
 
