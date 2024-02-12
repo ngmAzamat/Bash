@@ -1,16 +1,88 @@
-мин
-һин
-ул
-беҙ
-һеҙ
-улар
+мин  йоҡлаям     I    am  sleeping
+һин  йоҡлаяһың   you  are sleeping
+ул   йоҡлая      he   is  sleeping
+беҙ  йоҡлаябыҙ   we   are sleeping
+һеҙ  йоҡлаяһығыҙ you  are sleeping
+улар йоҡлаялар   they are sleeping
 
-мин
-мин
-мин
-мин
-мин
-мин
+мин  йоҡлаймаймын   I    don't  sleep
+һин  йоҡлаймайһың   you  don't  sleep
+ул   йоҡлаймай      he   does't sleep
+беҙ  йоҡлаймайбыҙ   we   don't  sleep
+һеҙ  йоҡлаймайһығыҙ you  don't  sleep
+улар йоҡлаймайҙар   they don't  sleep
+
+мин  йоҡлайҙым   I    have slept
+һин  йоҡлайҙың   you  have slept
+ул   йоҡлайҙы    he   has  slept
+беҙ  йоҡлайҙыҡ   we   have slept
+һеҙ  йоҡлайҙығыҙ you  have slept
+улар йоҡлайҙылар they have slept
+
+мин  йоҡлайманым   I    slept
+һин  йоҡлайманың   you  slept
+ул   йоҡлайманы    he   spept
+беҙ  йоҡлайманыҡ   we   spept
+һеҙ  йоҡлайманығыҙ you  spept
+улар йоҡлайманылар they spept
+
+мин  йоҡлайғанмын   I    have slept
+һин  йоҡлайғанһың   you  have slept
+ул   йоҡлайған      he   has  slept
+беҙ  йоҡлайғанбыҙ   we   have slept
+һеҙ  йоҡлайғанһығыҙ you  have slept
+улар йоҡлайғандар   they have slept
+
+мин  йоҡлаймағанмын   I    haven't 
+һин  йоҡлаймағанһың   you  haven't 
+ул   йоҡлаймаған      he   hasn't  
+беҙ  йоҡлаймағанбыҙ   we   haven't 
+һеҙ  йоҡлаймағанһығыҙ you  haven't 
+улар йоҡлаймағандар   they haven't
+
+
+
+мин  йоҡлайырмын   I    would sleep
+һин  йоҡлайырһың   you  would sleep
+ул   йоҡлайыр      he   would sleep
+беҙ  йоҡлайырбыҙ   we   would sleep
+һеҙ  йоҡлайырһығыҙ you  would sleep
+улар йоҡлайырҙар   they would sleep
+
+мин  йоҡлаймәҫмен   I    wouldn't sleep
+һин  йоҡлаймәҫһең   you  wouldn't sleep
+ул   йоҡлаймәҫ      he   wouldn't sleep
+беҙ  йоҡлаймәҫбеҙ   we   wouldn't sleep
+һеҙ  йоҡлаймәҫһегеҙ you  wouldn't sleep
+улар йоҡлаймәҫтәр   they wouldn't sleep
+
+мин  йоҡлаясакмын   I    will sleep
+һин  йоҡлаясакһың   you  will sleep
+ул   йоҡлаясак      he   will sleep
+беҙ  йоҡлаясакбыҙ   we   will sleep
+һеҙ  йоҡлаясакһығыҙ you  will sleep
+улар йоҡлаясактар   they will sleep
+
+мин  йоҡлаймаясакмын   I    willn't sleep
+һин  йоҡлаймаясакһың   you  willn't sleep
+ул   йоҡлаймаясак      he   willn't sleep
+беҙ  йоҡлаймаясакбыҙ   we   willn't sleep
+һеҙ  йоҡлаймаясакһығыҙ you  willn't sleep
+улар йоҡлаймаясактар   they willn't sleep
+
+мин  йоҡлайһам   if I    will sleep
+һин  йоҡлайһаң   if you  will sleep
+ул   йоҡлайһа    if we   will sleep
+беҙ  йоҡлайһаҡ   if he   will sleep
+һеҙ  йоҡлайһағыҙ if you  will sleep
+улар йоҡлайһалар if they will sleep
+
+мин  йоҡлайғым    килә I    want  to sleep
+һин  йоҡлайғың    килә you  want  to sleep
+ул   йоҡлайғыһы   килә he   wants to sleep
+беҙ  йоҡлайғыҡ    килә we   want  to sleep
+һеҙ  йоҡлайғығыҙ  килә you  want  to sleep
+улар йоҡлайғылары килә they want  to sleep
 
 
 
@@ -19,15 +91,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+slept
