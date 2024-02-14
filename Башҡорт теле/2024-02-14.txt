@@ -1,62 +1,88 @@
 
+мин  эйтәм     I    am  speaking
+һин  эйтәһең   you  are speaking
+ул   эйтә      he   is  speaking
+беҙ  эйтәбеҙ   we   are speaking
+һеҙ  эйтәһегеҙ you  are speaking
+улар эйтәләр   they are speaking
+
+мин  эйтмәйем    I    don't speak
+һин  эйтмәйһең   you  don't speak
+ул   эйтмәй      he   don't speak
+беҙ  эйтмәйбеҙ   we   don't speak
+һеҙ  эйтмәйһегеҙ you  don't speak
+улар эйтмәйҙәр   they don't speak
+
+мин  эйттем   I    have spoken
+һин  эйттең   you  have spoken
+ул   эйтте    he   has  spoken
+беҙ  эйттек   we   have spoken
+һеҙ  эйттегеҙ you  have spoken
+улар эйттеләр they have spoken
+
+
+мин  эйтмәнем   I    haven't spoken
+һин  эйтмәнең   you  haven't spoken
+ул   эйтмәне    he   hasn't  spoken
+беҙ  эйтмәнек   we   haven't spoken
+һеҙ  эйтмәнегеҙ you  haven't spoken
+улар эйтмәнеләр they haven't spoken
+
+мин  эйт
+һин  эйт
+ул   эйт
+беҙ  эйт
+һеҙ  эйт
+улар эйт
+
+мин  эйт
+һин  эйт
+ул   эйт
+беҙ  эйт
+һеҙ  эйт
+улар эйт
+
 мин
+һин
+ул
+беҙ
+һеҙ
+улар
+
 мин
+һин
+ул
+беҙ
+һеҙ
+улар
+
 мин
+һин
+ул
+беҙ
+һеҙ
+улар
+
 мин
+һин
+ул
+беҙ
+һеҙ
+улар
+
 мин
+һин
+ул
+беҙ
+һеҙ
+улар
+
 мин
-мин
-мин
-мин
-мин
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+һин
+ул
+беҙ
+һеҙ
+улар
 
 
 
