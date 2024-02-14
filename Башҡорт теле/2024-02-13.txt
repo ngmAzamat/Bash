@@ -1,0 +1,90 @@
+мин  һөйләйем    I    am  saying
+һин  һөйләйһең   you  are saying
+ул   һөйләй      he   is  saying
+беҙ  һөйләйбеҙ   we   are saying
+һеҙ  һөйләйһегеҙ you  are saying
+улар һөйләйҙәр   they are saying
+
+мин  һөйләмәйем    I    don't say
+һин  һөйләмәйһең   you  don't say
+ул   һөйләмәй      he   does't say
+беҙ  һөйләмәйбеҙ   we   don't say
+һеҙ  һөйләмәйһегеҙ you  don't say
+улар һөйләмәйҙәр   they don't say
+
+мин  һөйләнем   I    have said
+һин  һөйләнең   you  have said
+ул   һөйләне    he   has  said
+беҙ  һөйләнек   we   have said
+һеҙ  һөйләнегеҙ you  have said
+улар һөйләнеләр they have said
+
+мин  һөйләмәнем   I    haven't said
+һин  һөйләмәнең   you  haven't said
+ул   һөйләмәне    he   hasn't  said
+беҙ  һөйләмәнек   we   haven't said
+һеҙ  һөйләмәнегеҙ you  haven't said
+улар һөйләмәнеләр they haven't said
+
+мин  һөйләгәнмен   I    have said
+һин  һөйләгәнһең   you  have said
+ул   һөйләгән      he   has  said
+беҙ  һөйләгәнбеҙ   we   have said
+һеҙ  һөйләгәнһегеҙ you  have said
+улар һөйләгәндәр   they have said
+
+мин  һөйләмәгәнмен   I    haven't said
+һин  һөйләмәгәнһең   you  haven't said
+ул   һөйләмәгән      he   hasn't  said
+беҙ  һөйләмәгәнбеҙ   we   haven't said
+һеҙ  һөйләмәгәнһегеҙ you  haven't said
+улар һөйләмәгәндәр   they haven't said
+
+мин  һөйләрмен   I    would say
+һин  һөйләрһең   you  would say
+ул   һөйләр      he   would say
+беҙ  һөйләрбеҙ   we   would say
+һеҙ  һөйләрһегеҙ you  would say
+улар һөйләрҙәр   they would say
+
+мин  һөйләмәҫмен   I    wouldn't say
+һин  һөйләмәҫһең   you  wouldn't say
+ул   һөйләмәҫ      he   wouldn't say
+беҙ  һөйләмәҫбеҙ   we   wouldn't say
+һеҙ  һөйләмәҫһегеҙ you  wouldn't say
+улар һөйләмәҫтәр   they wouldn't say
+
+мин  һөйләйәсәкмен   I    will say
+һин  һөйләйәсәкһең   you  will say
+ул   һөйләйәсәк      he   will say
+беҙ  һөйләйәсәкбеҙ   we   will say
+һеҙ  һөйләйәсәкһегеҙ you  will say
+улар һөйләйәсәкҙәр   they will say
+
+мин  һөйләмәйәкмен   I    willn't say
+һин  һөйләмәйәкһең   you  willn't say
+ул   һөйләмәйәк      he   willn't say
+беҙ  һөйләмәйәкбеҙ   we   willn't say
+һеҙ  һөйләмәйәкһегеҙ you  willn't say
+улар һөйләмәйәктәр   they willn't say
+
+мин  һөйләһәм   if I    will say
+һин  һөйләһәң   if you  will say
+ул   һөйләһә    if he   will say
+беҙ  һөйләһәк   if we   will say
+һеҙ  һөйләһәгеҙ if you  will say
+улар һөйләһәләр if they will say
+
+мин  һөйләгем    килә I    want  to say
+һин  һөйләгең    килә you  want  to say
+ул   һөйләгеһе   килә he   wants to say
+беҙ  һөйләгек    килә we   want  to say
+һеҙ  һөйләгегеҙ  килә you  want  to say
+улар һөйләгеләре килә they want  to say
+
+
+
+
+
+
+
