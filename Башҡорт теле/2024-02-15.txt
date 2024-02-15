@@ -1,0 +1,104 @@
+мин  халам     I    am  puting
+һин  халаһың   you  are puting
+ул   хала      he   is  puting
+беҙ  халабыҙ   we   are puting
+һеҙ  халаһығыҙ you  are puting
+улар халалар   they are puting
+
+мин  халмайым    I    don't  put
+һин  халмайһың   you  don't  put
+ул   халмай      he   does't put
+беҙ  халмайбыҙ   we   don't  put
+һеҙ  халмайһығыҙ you  don't  put
+улар халмайҙар   they don't  put
+
+
+
+мин  халдым   I    have put
+һин  халдың   you  have put
+ул   халды    he   has  put
+беҙ  халдыҡ   we   have put
+һеҙ  халдығыҙ you  have put
+улар халдылар they have put
+
+
+
+мин  халманым   I    haven't put
+һин  халманың   you  haven't put
+ул   халманы    he   hasn't  put
+беҙ  халманыҡ   we   haven't put
+һеҙ  халманығыҙ you  haven't put
+улар халманылар they haven't put
+
+
+мин  халғанмын   I    have put
+һин  халғанһың   you  have put
+ул   халған      he   has  put
+беҙ  халғанбыҙ   we   have put
+һеҙ  халғанһығыҙ you  have put
+улар халғандар   they have put
+
+мин  халмағанмын   I    haven't put
+һин  халмағанһың   you  haven't put
+ул   халмаған      he   hasn't  put
+беҙ  халмағанбыҙ   we   haven't put
+һеҙ  халмағанһығыҙ you  haven't put
+улар халмағандар   they haven't put
+
+мин  халырмын   I    would put
+һин  халырһың   you  would put
+ул   халыр      he   would put
+быҙ  халырбыҙ   we   would put
+һыҙ  халырһығыҙ you  would put
+улар халырҙар   they would put
+
+мин  халмаҫмен   I    wouldn't put
+һин  халмаҫһең   you  wouldn't put
+ул   халмаҫ      he   wouldn't put
+беҙ  халмаҫбыҙ   we   wouldn't put
+һеҙ  халмаҫһығыҙ you  wouldn't put
+улар халмаҫтар   they wouldn't put
+
+
+
+
+
+мин  халасакмын   I    will put
+һин  халасакһың   you  will put
+ул   халасак      he   will put
+беҙ  халасакбыҙ   we   will put
+һеҙ  халасакһығыҙ you  will put
+улар халасактар   they will put
+
+мин  халмаясакмын   I    willn't put
+һин  халмаясакһың   you  willn't put
+ул   халмаясак      he   willn't put
+беҙ  халмаясакбыҙ   we   willn't put
+һеҙ  халмаясакһығыҙ you  willn't put
+улар халмаясактар   they willn't put
+
+
+мин  халһам   if I    will put
+һин  халһаң   if you  will put
+ул   халһа    if he   will put
+беҙ  халһаҡ   if we   will put
+һеҙ  халһағыҙ if you  will put
+улар халһалар if they will put
+
+мин  халғым    килә I    want  to put
+һин  халғың    килә you  want  to put
+ул   халғыһы   килә he   wants to put
+беҙ  халғыҡ    килә we   want  to put
+һеҙ  халғығыҙ  килә you  want  to put
+улар халғылары килә they want  to put
+
+
+
+
+
+
+
+
+
+
+
