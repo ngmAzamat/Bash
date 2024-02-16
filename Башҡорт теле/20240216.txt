@@ -1,0 +1,101 @@
+мин  колайым    I    am  falling
+һин  колайһың   you  are falling
+ул   колай      he   is  falling
+беҙ  колайбыҙ   we   are falling
+һеҙ  колайһығыҙ you  are falling
+улар колайҙар   they are falling
+
+
+
+мин  коламайым    I    don't  fall
+һин  коламайһың   you  don't  fall
+ул   коламай      he   does't fall
+беҙ  коламайбыҙ   we   don't  fall
+һеҙ  коламайһығыҙ you  don't  fall
+улар коламайҙар   they don't  fall
+
+
+мин  коланым   I    have fall
+һин  коланың   you  have fall
+ул   коланы    he   has  fall
+беҙ  коланыҡ   we   have fall
+һеҙ  коланығыҙ you  have fall
+улар коланылар they have fall
+
+
+
+
+
+
+
+
+мин  коламаным   I    haven't fall
+һин  коламаның   you  haven't fall
+ул   коламаны    he   hasn't  fall
+беҙ  коламаныҡ   we   haven't fall
+һеҙ  коламанығыҙ you  haven't fall
+улар коламанылар they haven't fall
+
+мин  колғанмын   I    have fall
+һин  колғанһың   you  have fall
+ул   колған      he   has  fall
+беҙ  колғанбыҙ   we   have fall
+һеҙ  колғанһығыҙ you  have fall
+улар колғандар   they have falL
+
+мин  коламағанмын   I    haven't fall
+һин  коламағанһың   you  haven't fall
+ул   коламаған      he   hasn't  fall
+беҙ  коламағанбыҙ   we   haven't fall
+һеҙ  коламағанһығыҙ you  haven't fall
+улар коламағандар   they haven't fall
+
+мин  колармын   I    would fall
+һин  коларһың   you  would fall
+ул   колар      he   would fall
+беҙ  коларбыҙ   we   would fall
+һеҙ  коларһығыҙ you  would fall
+улар коларҙар   they would fall
+
+мин  коламаҫмын   I    wouldn't fall
+һин  коламаҫһың   you  wouldn't fall
+ул   коламаҫ      he   wouldn't fall
+беҙ  коламаҫбыҙ   we   wouldn't fall
+һеҙ  коламаҫһығыҙ you  wouldn't fall
+улар коламаҫтар   they wouldn't fall
+
+
+
+
+
+
+мин  колаясакмын   I    will fall
+һин  колаясакһың   you  will fall
+ул   колаясак      he   will fall
+беҙ  колаясакюбыҙ  we   will fall
+һеҙ  колаясакһығыҙ you  will fall
+улар колаясактар   they will fall
+
+мин  коламаясакмын   I    willn't 
+һин  коламаясакһың   you  willn't 
+ул   коламаясак      he   willn't 
+беҙ  коламаясакбыҙ   we   willn't 
+һеҙ  коламаясакһығыҙ you  willn't 
+улар коламаясакҙар   they willn't 
+
+мин  колаһам   if I    will fall
+һин  колаһаң   if you  will fall
+ул   колаһа    if he   will fall
+беҙ  колаһаҡ   if we   will fall
+һеҙ  колаһағыҙ if you  will fall
+улар колаһалар if they will fall
+
+мин  колағым    килә I    want  to fall
+һин  колағың    килә you  want  to fall
+ул   колағы     килә he   wants to fall
+беҙ  колағыҡ    килә we   want  to fall
+һеҙ  колағығыҙ  килә you  want  to fall
+улар колағылары килә they want  to fall
+
+
+
