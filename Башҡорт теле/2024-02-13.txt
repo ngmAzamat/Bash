@@ -12,12 +12,12 @@
 һеҙ  һөйләмәйһегеҙ you  don't say
 улар һөйләмәйҙәр   they don't say
 
-мин  һөйләнем   I    have said
-һин  һөйләнең   you  have said
+мин  һөйләнем   I've      said
+һин  һөйләнең   you've    said
 ул   һөйләне    he   has  said
-беҙ  һөйләнек   we   have said
-һеҙ  һөйләнегеҙ you  have said
-улар һөйләнеләр they have said
+беҙ  һөйләнек   we've     said
+һеҙ  һөйләнегеҙ you've    said
+улар һөйләнеләр they've   said
 
 мин  һөйләмәнем   I    haven't said
 һин  һөйләмәнең   you  haven't said
@@ -26,12 +26,12 @@
 һеҙ  һөйләмәнегеҙ you  haven't said
 улар һөйләмәнеләр they haven't said
 
-мин  һөйләгәнмен   I    have said
-һин  һөйләгәнһең   you  have said
-ул   һөйләгән      he   has  said
-беҙ  һөйләгәнбеҙ   we   have said
-һеҙ  һөйләгәнһегеҙ you  have said
-улар һөйләгәндәр   they have said
+мин  һөйләгәнмен   I    've said
+һин  һөйләгәнһең   you  've said
+ул   һөйләгән      he   has said
+беҙ  һөйләгәнбеҙ   we   've said
+һеҙ  һөйләгәнһегеҙ you  've said
+улар һөйләгәндәр   they 've said
 
 мин  һөйләмәгәнмен   I    haven't said
 һин  һөйләмәгәнһең   you  haven't said
@@ -61,12 +61,12 @@
 һеҙ  һөйләйәсәкһегеҙ you  will say
 улар һөйләйәсәкҙәр   they will say
 
-мин  һөйләмәйәкмен   I    willn't say
-һин  һөйләмәйәкһең   you  willn't say
-ул   һөйләмәйәк      he   willn't say
-беҙ  һөйләмәйәкбеҙ   we   willn't say
-һеҙ  һөйләмәйәкһегеҙ you  willn't say
-улар һөйләмәйәктәр   they willn't say
+мин  һөйләмәйәкмен   I    won't say
+һин  һөйләмәйәкһең   you  won't say
+ул   һөйләмәйәк      he   won't say
+беҙ  һөйләмәйәкбеҙ   we   won't say
+һеҙ  һөйләмәйәкһегеҙ you  won't say
+улар һөйләмәйәктәр   they won't say
 
 мин  һөйләһәм   if I    will say
 һин  һөйләһәң   if you  will say

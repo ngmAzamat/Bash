@@ -76,12 +76,12 @@
 һеҙ  колаясакһығыҙ you  will fall
 улар колаясактар   they will fall
 
-мин  коламаясакмын   I    willn't 
-һин  коламаясакһың   you  willn't 
-ул   коламаясак      he   willn't 
-беҙ  коламаясакбыҙ   we   willn't 
-һеҙ  коламаясакһығыҙ you  willn't 
-улар коламаясакҙар   they willn't 
+мин  коламаясакмын   I    won't fall
+һин  коламаясакһың   you  won't fall
+ул   коламаясак      he   won't fall
+беҙ  коламаясакбыҙ   we   won't fall
+һеҙ  коламаясакһығыҙ you  won't fall
+улар коламаясакҙар   they won't fall
 
 мин  колаһам   if I    will fall
 һин  колаһаң   if you  will fall

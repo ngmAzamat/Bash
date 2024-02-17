@@ -1,94 +1,106 @@
 Ҡыуанырға
 
-ҡыуанам
-ҡыуанаһың
-ҡыуана
-ҡыуанабыҙ
-ҡыуанаһығыҙ
-ҡыуаналар
+мин  ҡыуанам     I    am  rejoise
+һин  ҡыуанаһың   you  are rejoise
+ул   ҡыуана      he   is  rejoise
+беҙ  ҡыуанабыҙ   we   are rejoise
+һеҙ  ҡыуанаһығыҙ you  are rejoise
+улар ҡыуаналар   they are rejoise
 
 
-ҡыуанырмын
-ҡыуанырһың
-ҡыуаныр
-ҡыуанырбыҙ
-ҡыуанырһығыҙ
-ҡыуанырҙар
+мин  ҡыуанырмын   I    would rejoise
+һин  ҡыуанырһың   you  would rejoise
+ул   ҡыуаныр      he   would rejoise
+беҙ  ҡыуанырбыҙ   we   would rejoise
+һеҙ  ҡыуанырһығыҙ you  would rejoise
+улар ҡыуанырҙар   they would rejoise
 
-ҡыуанасакмын
-ҡыуанасакһың
-ҡыуанасак
-ҡыуанасакбыҙ
-ҡыуанасакһығыҙ
-ҡыуанасактар
+мин  ҡыуанасакмын   I    will rejoise
+һин  ҡыуанасакһың   you  will rejoise
+ул   ҡыуанасак      he   will rejoise
+беҙ  ҡыуанасакбыҙ   we   will rejoise
+һеҙ  ҡыуанасакһығыҙ you  will rejoise
+улар ҡыуанасактар   they will rejoise
 
-ҡыуанғанмын
-ҡыуанғанһың
-ҡыуанған
-ҡыуанғанбыҙ
-ҡыуанғанһығыҙ
-ҡыуанғандар
-
-ҡыуанһам
-ҡыуанһаң
-ҡыуанһа
-ҡыуанһаҡ
-ҡыуанһағыҙ
-ҡыуанһалар
-
-ҡыуанғым     килә
-ҡыуанғың
-ҡыуанғыһы
-ҡыуанғыҡ
-ҡыуанғығыҙ
-ҡыуанғылары
-
-ҡыуандым
-ҡыуандың
-ҡыуанды
-ҡыуандыҡ
-ҡыуандығыҙ
-ҡыуандылар
-
-ҡыуанмағанмын
-ҡыуанмағанһың
-ҡыуанмаған
-ҡыуанмағанбыҙ
-ҡыуанмағанһығыҙ
-ҡыуанмағандар
-
-
-
-ҡыуанмаҫмын
-ҡыуанмаҫһың
-ҡыуанмаҫ
-ҡыуанмаҫбыҙ
-ҡыуанмаҫһығыҙ
-ҡыуанмаҫтар
+мин  ҡыуанғанмын   I    've rejoise
+һин  ҡыуанғанһың   you  've rejoise
+ул   ҡыуанған      he   has rejoise
+беҙ  ҡыуанғанбыҙ   we   've rejoise
+һеҙ  ҡыуанғанһығыҙ you  've rejoise
+улар ҡыуанғандар   they 've rejoise
 
 
 
 
-ҡыуанманым
-ҡыуанманың
-ҡыуанманы
-ҡыуанманыҡ
-ҡыуанманығыҙ
-ҡыуанманылар
+мин  ҡыуанһам   if I    will rejoise
+һин  ҡыуанһаң   if you  will rejoise
+ул   ҡыуанһа    if he   will rejoise
+беҙ  ҡыуанһаҡ   if we   will rejoise
+һеҙ  ҡыуанһағыҙ if you  will rejoise
+улар ҡыуанһалар if they will rejoise
 
 
-ҡыуанмайым
-ҡыуанмайһың
-ҡыуанмай
-ҡыуанмайбыҙ
-ҡыуанмайһығыҙ
-ҡыуанмайҙар
+мин  ҡыуанғым     килә I    want  to rejoise
+һин  ҡыуанғың     килә you  want  to rejoise
+ул   ҡыуанғыһы    килә he   wants to rejoise
+беҙ  ҡыуанғыҡ     килә we   want  to rejoise
+һеҙ  ҡыуанғығыҙ   килә you  want  to rejoise
+улар ҡыуанғылары  килә they want  to rejoise
 
 
 
-ҡыуанмаясакмын
-ҡыуанмаясакһың
-ҡыуанмаясак
-ҡыуанмаясакбыҙ
-ҡыуанмаясакһығыҙ
-ҡыуанмаясактар
+мин  ҡыуандым   I    've rejoise
+һин  ҡыуандың   you  've rejoise
+ул   ҡыуанды    he   has rejoise
+беҙ  ҡыуандыҡ   we   've rejoise
+һеҙ  ҡыуандығыҙ you  've rejoise
+улар ҡыуандылар they 've rejoise
+
+мин  ҡыуанмағанмын   I    haven't rejoise
+һин  ҡыуанмағанһың   you  haven't rejoise
+ул   ҡыуанмаған      he   hasn't  rejoise
+беҙ  ҡыуанмағанбыҙ   we   haven't rejoise
+һеҙ  ҡыуанмағанһығыҙ you  haven't rejoise
+улар ҡыуанмағандар   they haven't rejoise
+
+
+
+мин  ҡыуанмаҫмын   I    wouldn't rejoise
+һин  ҡыуанмаҫһың   you  wouldn't rejoise
+ул   ҡыуанмаҫ      he   wouldn't rejoise
+беҙ  ҡыуанмаҫбыҙ   we   wouldn't rejoise
+һеҙ  ҡыуанмаҫһығыҙ you  wouldn't rejoise
+улар ҡыуанмаҫтар   they wouldn't rejoise
+
+
+
+
+
+мин  ҡыуанманым   I    haven't rejoise
+һин  ҡыуанманың   you  haven't rejoise
+ул   ҡыуанманы    he   hasn't  rejoise
+беҙ  ҡыуанманыҡ   we   haven't rejoise
+һеҙ  ҡыуанманығыҙ you  haven't rejoise
+улар ҡыуанманылар they haven't rejoise
+
+
+мин  ҡыуанмайым    I    don't rejoise
+һин  ҡыуанмайһың   you  don't rejoise
+ул   ҡыуанмай      he   doesn't rejoise
+беҙ  ҡыуанмайбыҙ   we   don't rejoise
+һеҙ  ҡыуанмайһығыҙ you  don't rejoise
+улар ҡыуанмайҙар   they don't rejoise
+
+
+
+мин  ҡыуанмаясакмын   I   'll not rejoise
+һин  ҡыуанмаясакһың   you 'll not rejoise
+ул   ҡыуанмаясак      he  'll not rejoise
+беҙ  ҡыуанмаясакбыҙ   we  'll not rejoise
+һеҙ  ҡыуанмаясакһығыҙ you 'll not rejoise
+улар ҡыуанмаясактар   they'll not rejoise
+
+
+
+
+

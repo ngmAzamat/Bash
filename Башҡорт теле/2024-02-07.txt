@@ -65,12 +65,12 @@ chose
 һеҙ  хайлаясакһығыҙ you  will chose
 улар хайлаясактар   they will chose
 
-мин  хайламаясакмын   I    willn't chose
-һин  хайламаясакһың   you  willn't chose
-ул   хайламаясак      he   willn't chose
-беҙ  хайламаясакбыҙ   we   willn't chose
-һеҙ  хайламаясакһығыҙ you  willn't chose
-улар хайламаясактар   they willn't chose
+мин  хайламаясакмын   I'll    not chose
+һин  хайламаясакһың   you'll  not chose
+ул   хайламаясак      he'll   not chose
+беҙ  хайламаясакбыҙ   we'll   not chose
+һеҙ  хайламаясакһығыҙ you'll  not chose
+улар хайламаясактар   they'll not chose
 
 
 мин  хайлаһам   if I    will chose

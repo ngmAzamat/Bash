@@ -1,25 +1,25 @@
-мин  халам     I    am  puting
-һин  халаһың   you  are puting
-ул   хала      he   is  puting
-беҙ  халабыҙ   we   are puting
-һеҙ  халаһығыҙ you  are puting
-улар халалар   they are puting
+мин  һалам     I    am  puting
+һин  һалаһың   you  are puting
+ул   һала      he   is  puting
+беҙ  һалабыҙ   we   are puting
+һеҙ  һалаһығыҙ you  are puting
+улар һалалар   they are puting
 
-мин  халмайым    I    don't  put
-һин  халмайһың   you  don't  put
-ул   халмай      he   does't put
-беҙ  халмайбыҙ   we   don't  put
-һеҙ  халмайһығыҙ you  don't  put
-улар халмайҙар   they don't  put
+мин  һалмайым    I    don't  put
+һин  һалмайһың   you  don't  put
+ул   һалмай      he   does't put
+беҙ  һалмайбыҙ   we   don't  put
+һеҙ  һалмайһығыҙ you  don't  put
+улар һалмайҙар   they don't  put
 
 
 
-мин  халдым   I    have put
-һин  халдың   you  have put
-ул   халды    he   has  put
-беҙ  халдыҡ   we   have put
-һеҙ  халдығыҙ you  have put
-улар халдылар they have put
+мин  һалдым   I    have put
+һин  һалдың   you  have put
+ул   һалды    he   has  put
+беҙ  һалдыҡ   we   have put
+һеҙ  һалдығыҙ you  have put
+улар һалдылар they have put
 
 
 
@@ -31,19 +31,19 @@
 улар халманылар they haven't put
 
 
-мин  халғанмын   I    have put
-һин  халғанһың   you  have put
-ул   халған      he   has  put
-беҙ  халғанбыҙ   we   have put
-һеҙ  халғанһығыҙ you  have put
-улар халғандар   they have put
+мин  һалғанмын   I    have put
+һин  һалғанһың   you  have put
+ул   һалған      he   has  put
+беҙ  һалғанбыҙ   we   have put
+һеҙ  һалғанһығыҙ you  have put
+улар һалғандар   they have put
 
-мин  халмағанмын   I    haven't put
-һин  халмағанһың   you  haven't put
-ул   халмаған      he   hasn't  put
-беҙ  халмағанбыҙ   we   haven't put
-һеҙ  халмағанһығыҙ you  haven't put
-улар халмағандар   they haven't put
+мин  һалмағанмын   I    haven't put
+һин  һалмағанһың   you  haven't put
+ул   һалмаған      he   hasn't  put
+беҙ  һалмағанбыҙ   we   haven't put
+һеҙ  һалмағанһығыҙ you  haven't put
+улар һалмағандар   they haven't put
 
 мин  халырмын   I    would put
 һин  халырһың   you  would put
@@ -70,27 +70,27 @@
 һеҙ  халасакһығыҙ you  will put
 улар халасактар   they will put
 
-мин  халмаясакмын   I    willn't put
-һин  халмаясакһың   you  willn't put
-ул   халмаясак      he   willn't put
-беҙ  халмаясакбыҙ   we   willn't put
-һеҙ  халмаясакһығыҙ you  willn't put
-улар халмаясактар   they willn't put
+мин  һалмаясакмын   I    won't put
+һин  һалмаясакһың   you  won't put
+ул   һалмаясак      he   won't put
+беҙ  һалмаясакбыҙ   we   won't put
+һеҙ  һалмаясакһығыҙ you  won't put
+улар һалмаясактар   they won't put
 
 
-мин  халһам   if I    will put
-һин  халһаң   if you  will put
-ул   халһа    if he   will put
-беҙ  халһаҡ   if we   will put
-һеҙ  халһағыҙ if you  will put
-улар халһалар if they will put
+мин  һалһам   if I    will put
+һин  һалһаң   if you  will put
+ул   һалһа    if he   will put
+беҙ  һхалһаҡ  if we   will put
+һеҙ  һалһағыҙ if you  will put
+улар һалһалар if they will put
 
-мин  халғым    килә I    want  to put
-һин  халғың    килә you  want  to put
-ул   халғыһы   килә he   wants to put
-беҙ  халғыҡ    килә we   want  to put
-һеҙ  халғығыҙ  килә you  want  to put
-улар халғылары килә they want  to put
+мин  һалғым    килә I    want  to put
+һин  һалғың    килә you  want  to put
+ул   һалғыһы   килә he   wants to put
+беҙ  һалғыҡ    килә we   want  to put
+һеҙ  һалғығыҙ  килә you  want  to put
+улар һалғылары килә they want  to put
 
 
 

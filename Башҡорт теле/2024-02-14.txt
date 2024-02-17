@@ -63,11 +63,11 @@
 һеҙ  эйтәсәкһегеҙ you  will speak
 улар эйтәсәкҙәр   they will speak
 
-мин  эйтмәйәсәкмен   I    willn't speak
-һин  эйтмәйәсәкһең   you  willn't speak
-ул   эйтмәйәсәк      he   willn't speak
-беҙ  эйтмәйәсәкбеҙ   we   willn't speak
-һеҙ  эйтмәйәсәкһегеҙ you  willn't speak
+мин  эйтмәйәсәкмен   I    won't speak
+һин  эйтмәйәсәкһең   you  won't speak
+ул   эйтмәйәсәк      he   won't speak
+беҙ  эйтмәйәсәкбеҙ   we   won't speak
+һеҙ  эйтмәйәсәкһегеҙ you  won't speak
 улар эйтмәйәсәктәр   they willn't speak
 
 мин  эйтһәм   if I    will speak
