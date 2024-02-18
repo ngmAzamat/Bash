@@ -36,12 +36,12 @@
 һеҙ  уҡығанһығыҙ you  have read
 улар уҡығандар   they have read
 
-мин  уҡымағанмын   haven't read
-һин  уҡымағанһың   haven't read
-ул   уҡымаған      hasn't  read
-беҙ  уҡымағанбыҙ   haven't read
-һеҙ  уҡымағанһығыҙ haven't read
-улар уҡымағандар   haven't read
+мин  уҡымағанмын   I    haven't read
+һин  уҡымағанһың   you  haven't read
+ул   уҡымаған      he   hasn't  read
+беҙ  уҡымағанбыҙ   we   haven't read
+һеҙ  уҡымағанһығыҙ you  haven't read
+улар уҡымағандар   they haven't read
 
 мин  уҡырмын   I    would read
 һин  уҡырһың   you  would read
@@ -58,19 +58,19 @@
 улар уҡымаҫтар   they wouldn't read
 
 
-мин  уҡыясакмын   I    will read
-һин  уҡыясакһың   you  will read
-ул   уҡыясак      he   will read
-беҙ  уҡыясакбыҙ   we   will read
-һеҙ  уҡыясакһығыҙ you  will read
-улар уҡыясактар   they will read
+мин  уҡыясаҡмын   I    will read
+һин  уҡыясаҡһың   you  will read
+ул   уҡыясаҡ      he   will read
+беҙ  уҡыясаҡбыҙ   we   will read
+һеҙ  уҡыясаҡһығыҙ you  will read
+улар уҡыясаҡтар   they will read
 
-мин  уҡымаясакмын   I    willn't read
-һин  уҡымаясакһың   you  willn't read
-ул   уҡымаясак      he   willn't read
-беҙ  уҡымаясакбыҙ   we   willn't read
-һеҙ  уҡымаясакһығыҙ you  willn't read
-улар уҡымаясактар   they willn't read
+мин  уҡымаясаҡмын   I    willn't read
+һин  уҡымаясаҡһың   you  willn't read
+ул   уҡымаясаҡ      he   willn't read
+беҙ  уҡымаясаҡбыҙ   we   willn't read
+һеҙ  уҡымаясаҡһығыҙ you  willn't read
+улар уҡымаясаҡтар   they willn't read
 
 мин  уҡыһам   if I    will read
 һин  уҡыһаң   if you  will read
