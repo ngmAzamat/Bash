@@ -19,7 +19,7 @@
 ул   йүгерҙе    he   has  run
 беҙ  йүгерҙек   we   have run
 һеҙ  йүгерҙегеҙ you  have run
-улар йүгерҙедәр they have run
+улар йүгерҙеләр they have run
 
 мин  йүгермәнем   I    haven't run
 һин  йүгермәнең   you  haven't run
@@ -33,7 +33,7 @@
 ул   йүгергән      he   has  run
 беҙ  йүгергәнбеҙ   we   have run
 һеҙ  йүгергәнһегеҙ you  have run
-улар йүгергәнләр   they have run
+улар йүгергәндәр   they have run
 
 мин  йүгермәгәнмен   I    haven't run
 һин  йүгермәгәнһең   you  haven't run
