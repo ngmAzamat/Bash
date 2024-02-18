@@ -63,19 +63,19 @@
 
 
 
-мин  һаласакмын   I    will putt
-һин  һаласакһың   you  will putt
-ул   һаласак      he   will putt
-беҙ  һаласакбыҙ   we   will putt
-һеҙ  һаласакһығыҙ you  will putt
-улар һаласактар   they will putt
+мин  һаласамын   I    will putt
+һин  һаласаһың   you  will putt
+ул   һаласа      he   will putt
+беҙ  һаласабыҙ   we   will putt
+һеҙ  һаласаһығыҙ you  will putt
+улар һаласатар   they will putt
 
-мин  һалмаясакмын   I    won't putt
-һин  һалмаясакһың   you  won't putt
-ул   һалмаясак      he   won't putt
-беҙ  һалмаясакбыҙ   we   won't putt
-һеҙ  һалмаясакһығыҙ you  won't putt
-улар һалмаясактар   they won't putt
+мин  һалмаясамын   I    won't putt
+һин  һалмаясаһың   you  won't putt
+ул   һалмаяса      he   won't putt
+беҙ  һалмаясабыҙ   we   won't putt
+һеҙ  һалмаясаһығыҙ you  won't putt
+улар һалмаясатар   they won't putt
 
 
 мин  һалһам   if I    will putt

@@ -68,7 +68,7 @@
 ул   эйтмәйәсәк      he   won't speak
 беҙ  эйтмәйәсәкбеҙ   we   won't speak
 һеҙ  эйтмәйәсәкһегеҙ you  won't speak
-улар эйтмәйәсәктәр   they willn't speak
+улар эйтмәйәсәктәр   they won't speak
 
 мин  эйтһәм   if I    will speak
 һин  эйтһәң   if you  will speak
