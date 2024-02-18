@@ -1,11 +1,11 @@
 
 
-мин  йүгерәм     I    am  runing
-һин  йүгерәһең   you  are runing
-ул   йүгерә      he   is  runing
-беҙ  йүгерәбеҙ   we   are runing
-һеҙ  йүгерәһегеҙ you  are runing
-улар йүгерәҙәр   they are runing
+мин  йүгерәм     I    am  running
+һин  йүгерәһең   you  are running
+ул   йүгерә      he   is  running
+беҙ  йүгерәбеҙ   we   are running
+һеҙ  йүгерәһегеҙ you  are running
+улар йүгерәләр   they are running
 
 мин  йүгермәйем    I    don't run
 һин  йүгермәйһең   you  don't run
