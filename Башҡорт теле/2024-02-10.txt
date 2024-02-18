@@ -13,12 +13,12 @@
 һеҙ  белмәйһегеҙ you  don't know
 улар белмәйҙәр   they don't know
 
-мин  белҙем   I    have known
-һин  белҙең   you  have known
-ул   белҙе    he   has  known
-беҙ  белҙек   we   have known
-һеҙ  белҙегеҙ you  have known
-улар белҙеләр they have known
+мин  белдем   I    have known
+һин  белдең   you  have known
+ул   белде    he   has  known
+беҙ  белдек   we   have known
+һеҙ  белдегеҙ you  have known
+улар белделәр they have known
 
 мин  белмәнем   I    haven't known
 һин  белмәнең   you  haven't known
@@ -39,7 +39,7 @@
 ул   белмәгән      he   hasn't  known
 беҙ  белмәгәнбеҙ   we   haven't known
 һеҙ  белмәгәнһегеҙ you  haven't known
-улар белмәгәндәәр  they haven't known
+улар белмәгәндәр  they haven't known
 
 
 мин  белермен   I    would know

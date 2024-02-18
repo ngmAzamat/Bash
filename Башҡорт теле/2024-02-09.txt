@@ -56,19 +56,19 @@
 һеҙ  йүгермәҫһегеҙ you  wouldn't run
 улар йүгермәҫтәр   they wouldn't run
 
-мин  йүгерәсәкмен   I    will run
-һин  йүгерәсәкһең   you  will run
-ул   йүгерәсәк      he   will run
-беҙ  йүгерәсәкбеҙ   we   will run
-һеҙ  йүгерәсәкһегеҙ you  will run
-улар йүгерәсәктәр   they will run
+мин  йүгерәсәҡмен   I    will run
+һин  йүгерәсәҡһең   you  will run
+ул   йүгерәсәҡ      he   will run
+беҙ  йүгерәсәҡбеҙ   we   will run
+һеҙ  йүгерәсәҡһегеҙ you  will run
+улар йүгерәсәҡтәр   they will run
 
-мин  йүгермәйәсәкмен   I    won't run
-һин  йүгермәйәсәкһең   you  won't run
-ул   йүгермәйәсәк      he   won't run
-беҙ  йүгермәйәсәкбеҙ   we   won't run
-һеҙ  йүгермәйәсәкһегеҙ you  won't run
-улар йүгермәйәсәктәр   they won't run
+мин  йүгермәйәсәҡмен   I    won't run
+һин  йүгермәйәсәҡһең   you  won't run
+ул   йүгермәйәсәҡ      he   won't run
+беҙ  йүгермәйәсәҡбеҙ   we   won't run
+һеҙ  йүгермәйәсәҡһегеҙ you  won't run
+улар йүгермәйәсәҡтәр   they won't run
 
 мин  йүгерһәм   if I    will run
 һин  йүгерһәң   if you  will run
