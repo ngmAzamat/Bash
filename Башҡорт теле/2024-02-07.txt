@@ -2,16 +2,16 @@
 
 chose
 
-мин  хайлайым    I    am  chosing
-һин  хайлайһың   you  are chosing
-ул   хайлай      he   is  chosing
+мин  һайлайым    I    am  chosing
+һин  һайлайһың   you  are chosing
+ул   һайлай      he   is  chosing
 беҙ  хайлайбыҙ   we   are chosing
 һеҙ  хайлайһығыҙ you  are chosing
 улар хайлайҙар   they are chosing
 
-мин  хайламайым    I    don't chose
-һин  хайламайһың   you  don't chose
-ул   хайламай      he   don't chose
+мин  һайламайым    I    don't chose
+һин  һайламайһың   you  don't chose
+ул   һайламай      he   don't chose
 беҙ  хайламайбыҙ   we   don't chose
 һеҙ  хайламайһығыҙ you  don't chose
 улар хайламайҙар   they don't chose
@@ -51,40 +51,40 @@ chose
 һеҙ  хайларһығыҙ you  would chose
 улар хайларҙар   they would chose
 
-мин  хайламаҫмын   I    wouldn't chose
-һин  хайламаҫһың   you  wouldn't chose
-ул   хайламаҫ      he   wouldn't chose
-беҙ  хайламаҫбыҙ   we   wouldn't chose
+мин  һайламаҫмын   I    wouldn't chose
+һин  һайламаҫһың   you  wouldn't chose
+ул   һайламаҫ      he   wouldn't chose
+беҙ  һайламаҫбыҙ   we   wouldn't chose
 һеҙ  хайламаҫһығыҙ you  wouldn't chose
 улар хайламаҫтар   they wouldn't chose
 
-мин  хайлаясакмын   I    will chose
-мин  хайлаясакһың   you  will chose
-ул   хайлаясак      he   will chose
+мин  һайлаясакмын   I    will chose
+мин  һайлаясакһың   you  will chose
+ул   һайлаясак      he   will chose
 беҙ  хайлаясакбыҙ   we   will chose
-һеҙ  хайлаясакһығыҙ you  will chose
-улар хайлаясактар   they will chose
+һеҙ  һайлаясакһығыҙ you  will chose
+улар һайлаясактар   they will chose
 
-мин  хайламаясакмын   I'll    not chose
-һин  хайламаясакһың   you'll  not chose
-ул   хайламаясак      he'll   not chose
-беҙ  хайламаясакбыҙ   we'll   not chose
-һеҙ  хайламаясакһығыҙ you'll  not chose
-улар хайламаясактар   they'll not chose
+мин  һайламаясакмын   I'll    not chose
+һин  һайламаясакһың   you'll  not chose
+ул   һайламаясак      he'll   not chose
+беҙ  һайламаясакбыҙ   we'll   not chose
+һеҙ  һайламаясакһығыҙ you'll  not chose
+улар һайламаясактар   they'll not chose
 
 
-мин  хайлаһам   if I    will chose
-һин  хайлаһаң   if you  will chose
-ул   хайлаһа    if he   will chose
-беҙ  хайлаһаҡ   if we   will chose
-һеҙ  хайлаһағыҙ if you  will chose
-улар хайлаһалар if they will chose
+мин  һайлаһам   if I    will chose
+һин  һайлаһаң   if you  will chose
+ул   һайлаһа    if he   will chose
+беҙ  һайлаһаҡ   if we   will chose
+һеҙ  һайлаһағыҙ if you  will chose
+улар һайлаһалар if they will chose
 
-мин  хайлағым    килә I    want  to chose
-һин  хайлағың    килә you  want  to chose
-ул   хайлағыһы   килә he   wants to chose
-беҙ  хайлағыҡ    килә we   want  to chose
-һеҙ  хайлағығыҙ  килә you  want  to chose
-улар хайлағылары килә they want  to chose
+мин  һайлағым    килә I    want  to chose
+һин  һайлағың    килә you  want  to chose
+ул   һайлағыһы   килә he   wants to chose
+беҙ  һайлағыҡ    килә we   want  to chose
+һеҙ  һайлағығыҙ  килә you  want  to chose
+улар һайлағылары килә they want  to chose
 
 
