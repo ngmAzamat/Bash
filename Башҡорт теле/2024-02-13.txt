@@ -61,12 +61,12 @@
 һеҙ  һөйләйәсәкһегеҙ you  will say
 улар һөйләйәсәкҙәр   they will say
 
-мин  һөйләмәйәкмен   I    won't say
-һин  һөйләмәйәкһең   you  won't say
-ул   һөйләмәйәк      he   won't say
-беҙ  һөйләмәйәкбеҙ   we   won't say
-һеҙ  һөйләмәйәкһегеҙ you  won't say
-улар һөйләмәйәктәр   they won't say
+мин  һөйләмәйәсәкмен   I    won't say
+һин  һөйләмәйәсәкһең   you  won't say
+ул   һөйләмәйәсәк      he   won't say
+беҙ  һөйләмәйәсәкбеҙ   we   won't say
+һеҙ  һөйләмәйәсәкһегеҙ you  won't say
+улар һөйләмәйәсәктәр   they won't say
 
 мин  һөйләһәм   if I    will say
 һин  һөйләһәң   if you  will say
