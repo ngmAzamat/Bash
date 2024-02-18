@@ -5,26 +5,26 @@
 һеҙ  йоҡлаяһығыҙ you  are sleeping
 улар йоҡлаялар   they are sleeping
 
-мин  йоҡламай   I    don't  sleep
+мин  йоҡламайым    I    don't  sleep
 һин  йоҡламайһың   you  don't  sleep
 ул   йоҡламай      he   does't sleep
 беҙ  йоҡламайбыҙ   we   don't  sleep
 һеҙ  йоҡламайһығыҙ you  don't  sleep
 улар йоҡламайҙар   they don't  sleep
 
-мин  йоҡлаым   I    have slept
-һин  йоҡлаың   you  have slept
-ул   йоҡлаы    he   has  slept
-беҙ  йоҡлаыҡ   we   have slept
-һеҙ  йоҡлаығыҙ you  have slept
-улар йоҡлаылар they have slept
+мин  йоҡланым   I    have slept
+һин  йоҡланың   you  have slept
+ул   йоҡланы    he   has  slept
+беҙ  йоҡланыҡ   we   have slept
+һеҙ  йоҡланығыҙ you  have slept
+улар йоҡланылар they have slept
 
-мин  йоҡламаным   I    slept
-һин  йоҡламаның   you  slept
-ул   йоҡламаны    he   spept
-беҙ  йоҡламаныҡ   we   spept
-һеҙ  йоҡламанығыҙ you  spept
-улар йоҡламанылар they spept
+мин  йоҡламаным   I    haven't slept
+һин  йоҡламаның   you  haven't slept
+ул   йоҡламаны    he   hasn't  spept
+беҙ  йоҡламаныҡ   we   haven't spept
+һеҙ  йоҡламанығыҙ you  haven't spept
+улар йоҡламанылар they haven't spept
 
 мин  йоҡлағанмын   I    have slept
 һин  йоҡлағанһың   you  have slept
@@ -33,12 +33,12 @@
 һеҙ  йоҡлағанһығыҙ you  have slept
 улар йоҡлағандар   they have slept
 
-мин  йоҡламағанмын   I    haven't 
-һин  йоҡламағанһың   you  haven't 
-ул   йоҡламаған      he   hasn't  
-беҙ  йоҡламағанбыҙ   we   haven't 
-һеҙ  йоҡламағанһығыҙ you  haven't 
-улар йоҡламағандар   they haven't
+мин  йоҡламағанмын   I    haven't slept
+һин  йоҡламағанһың   you  haven't slept
+ул   йоҡламаған      he   hasn't  slept
+беҙ  йоҡламағанбыҙ   we   haven't slept
+һеҙ  йоҡламағанһығыҙ you  haven't slept
+улар йоҡламағандар   they haven't slept
 
 
 
@@ -63,12 +63,12 @@
 һеҙ  йоҡлаясакһығыҙ you  will sleep
 улар йоҡлаясактар   they will sleep
 
-мин  йоҡламаясамын   I    'll not sleep
-һин  йоҡламаясаһың   you  'll not sleep
-ул   йоҡламаяса      he   'll not sleep
-беҙ  йоҡламаясабыҙ   we   'll not sleep
-һеҙ  йоҡламаясаһығыҙ you  'll not sleep
-улар йоҡламаясатар   they 'll not sleep
+мин  йоҡламаясаҡмын   I    'll not sleep
+һин  йоҡламаясаҡһың   you  'll not sleep
+ул   йоҡламаясаҡ      he   'll not sleep
+беҙ  йоҡламаясаҡбыҙ   we   'll not sleep
+һеҙ  йоҡламаясаҡһығыҙ you  'll not sleep
+улар йоҡламаясаҡтар   they 'll not sleep
 
 мин  йоҡлаһам   if I    will sleep
 һин  йоҡлаһаң   if you  will sleep
