@@ -52,8 +52,8 @@
 һыҙ  һалырһығыҙ you  would put
 улар һалырҙар   they would put
 
-мин  һалмаҫмен   I    wouldn't put
-һин  һалмаҫһең   you  wouldn't put
+мин  һалмаҫмын   I    wouldn't put
+һин  һалмаҫһың   you  wouldn't put
 ул   һалмаҫ      he   wouldn't put
 беҙ  һалмаҫбыҙ   we   wouldn't put
 һеҙ  һалмаҫһығыҙ you  wouldn't put
@@ -81,7 +81,7 @@
 мин  һалһам   if I    will put
 һин  һалһаң   if you  will put
 ул   һалһа    if he   will put
-беҙ  һхалһаҡ  if we   will put
+беҙ  һалһаҡ  if we   will put
 һеҙ  һалһағыҙ if you  will put
 улар һалһалар if they will put
 

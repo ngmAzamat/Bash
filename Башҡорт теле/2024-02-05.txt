@@ -33,12 +33,12 @@
 һеҙ  тыңлағанһығыҙ you  have listened
 улар тыңлағандар   they have listened
 
-мин  тыңламағанмын   I    haven't listen
-һин  тыңламағанһың   you  haven't listen
-ул   тыңламаған      he   hasn't  listen
-беҙ  тыңламағанбыҙ   we   haven't listen
-һеҙ  тыңламағанһығыҙ you  haven't listen
-улар тыңламағандар   they haven't listen
+мин  тыңламағанмын   I    haven't listened
+һин  тыңламағанһың   you  haven't listened
+ул   тыңламаған      he   hasn't  listened
+беҙ  тыңламағанбыҙ   we   haven't listened
+һеҙ  тыңламағанһығыҙ you  haven't listened
+улар тыңламағандар   they haven't listened
 
 мин  тыңлаясаҡмын   I    will listen
 һин  тыңлаясаҡһың   you  will listen

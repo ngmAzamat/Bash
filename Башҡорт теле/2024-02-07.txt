@@ -1,20 +1,20 @@
 хайла
 
-chose
+choose
 
-мин  һайлайым    I    am  chosing
-һин  һайлайһың   you  are chosing
-ул   һайлай      he   is  chosing
-беҙ  хайлайбыҙ   we   are chosing
-һеҙ  хайлайһығыҙ you  are chosing
-улар хайлайҙар   they are chosing
+мин  һайлайым    I    am  choosing
+һин  һайлайһың   you  are choosing
+ул   һайлай      he   is  choosing
+беҙ  хайлайбыҙ   we   are choosing
+һеҙ  хайлайһығыҙ you  are choosing
+улар хайлайҙар   they are choosing
 
-мин  һайламайым    I    don't chose
-һин  һайламайһың   you  don't chose
-ул   һайламай      he   don't chose
-беҙ  хайламайбыҙ   we   don't chose
-һеҙ  хайламайһығыҙ you  don't chose
-улар хайламайҙар   they don't chose
+мин  һайламайым    I    don't choose
+һин  һайламайһың   you  don't choose
+ул   һайламай      he   don't choose
+беҙ  хайламайбыҙ   we   don't choose
+һеҙ  хайламайһығыҙ you  don't choose
+улар хайламайҙар   they don't choose
 
 мин  хайланым   I    have chose
 һин  хайланың   you  have chose
@@ -30,19 +30,19 @@ chose
 һеҙ  хайламанығыҙ you  haven't chose
 улар хайламанылар they haven't chose
 
-мин  хайлағанмын   I    have chose
-һин  хайлағанһың   you  have chose
-ул   хайлаған      he   has  chose
-беҙ  хайлағанбыҙ   we   have chose
-һеҙ  хайлағанһығыҙ you  have chose
-улар хайлағандар   they have chose
+мин  хайлағанмын   I    have chosen
+һин  хайлағанһың   you  have chosen
+ул   хайлаған      he   has  chosen
+беҙ  хайлағанбыҙ   we   have chosen
+һеҙ  хайлағанһығыҙ you  have chosen
+улар хайлағандар   they have chosen
 
-мин  хайламағанмын   I    haven't chose
-һин  хайламағанһың   you  haven't chose
-ул   хайламаған      he   hasn't  chose
-беҙ  хайламағанбыҙ   we   haven't chose
-һеҙ  хайламағанһығыҙ you  haven't chose
-улар хайламағандар   they haven't chose
+мин  хайламағанмын   I    haven't chosen
+һин  хайламағанһың   you  haven't chosen
+ул   хайламаған      he   hasn't  chosen
+беҙ  хайламағанбыҙ   we   haven't chosen
+һеҙ  хайламағанһығыҙ you  haven't chosen
+улар хайламағандар   they haven't chosen
 
 мин  хайлармын   I    would chose
 һин  хайларһың   you  would chose
@@ -51,40 +51,40 @@ chose
 һеҙ  хайларһығыҙ you  would chose
 улар хайларҙар   they would chose
 
-мин  һайламаҫмын   I    wouldn't chose
-һин  һайламаҫһың   you  wouldn't chose
-ул   һайламаҫ      he   wouldn't chose
-беҙ  һайламаҫбыҙ   we   wouldn't chose
-һеҙ  хайламаҫһығыҙ you  wouldn't chose
-улар хайламаҫтар   they wouldn't chose
+мин  һайламаҫмын   I    wouldn't choose
+һин  һайламаҫһың   you  wouldn't choose
+ул   һайламаҫ      he   wouldn't choose
+беҙ  һайламаҫбыҙ   we   wouldn't choose
+һеҙ  хайламаҫһығыҙ you  wouldn't choose
+улар хайламаҫтар   they wouldn't choose
 
-мин  һайлаясакмын   I    will chose
-мин  һайлаясакһың   you  will chose
-ул   һайлаясак      he   will chose
-беҙ  хайлаясакбыҙ   we   will chose
-һеҙ  һайлаясакһығыҙ you  will chose
-улар һайлаясактар   they will chose
+мин  һайлаясакмын   I    will choose
+мин  һайлаясакһың   you  will choose
+ул   һайлаясак      he   will choose
+беҙ  хайлаясакбыҙ   we   will choose
+һеҙ  һайлаясакһығыҙ you  will choose
+улар һайлаясактар   they will choose
 
-мин  һайламаясакмын   I'll    not chose
-һин  һайламаясакһың   you'll  not chose
-ул   һайламаясак      he'll   not chose
-беҙ  һайламаясакбыҙ   we'll   not chose
-һеҙ  һайламаясакһығыҙ you'll  not chose
-улар һайламаясактар   they'll not chose
+мин  һайламаясакмын   I'll    not choose
+һин  һайламаясакһың   you'll  not choose
+ул   һайламаясак      he'll   not choose
+беҙ  һайламаясакбыҙ   we'll   not choose
+һеҙ  һайламаясакһығыҙ you'll  not choose
+улар һайламаясактар   they'll not choose
 
 
-мин  һайлаһам   if I    will chose
-һин  һайлаһаң   if you  will chose
-ул   һайлаһа    if he   will chose
+мин  һайлаһам   if I    will choose
+һин  һайлаһаң   if you  will choose
+ул   һайлаһа    if he   will choose
 беҙ  һайлаһаҡ   if we   will chose
-һеҙ  һайлаһағыҙ if you  will chose
-улар һайлаһалар if they will chose
+һеҙ  һайлаһағыҙ if you  will choose
+улар һайлаһалар if they will choose
 
-мин  һайлағым    килә I    want  to chose
-һин  һайлағың    килә you  want  to chose
-ул   һайлағыһы   килә he   wants to chose
-беҙ  һайлағыҡ    килә we   want  to chose
-һеҙ  һайлағығыҙ  килә you  want  to chose
-улар һайлағылары килә they want  to chose
+мин  һайлағым    килә I    want  to choose
+һин  һайлағың    килә you  want  to choose
+ул   һайлағыһы   килә he   wants to choose
+беҙ  һайлағыҡ    килә we   want  to choose
+һеҙ  һайлағығыҙ  килә you  want  to choose
+улар һайлағылары килә they want  to choose
 
 

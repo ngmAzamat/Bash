@@ -40,12 +40,12 @@ fed
 һеҙ  ашатҡанһығыҙ you  have fed
 улар ашатҡандар   they have fed
 
-мин  ашатмағанмын   I    haven't feed
-һин  ашатмағанһың   you  haven't feed
-ул   ашатмаған      he   hasn't  feed
-беҙ  ашатмағанбыҙ   we   haven't feed
-һеҙ  ашатмағанһығыҙ you  haven't feed
-улар ашатмағанҙар   they haven't feed
+мин  ашатмағанмын   I    haven't fed
+һин  ашатмағанһың   you  haven't fed
+ул   ашатмаған      he   hasn't  fed
+беҙ  ашатмағанбыҙ   we   haven't fed
+һеҙ  ашатмағанһығыҙ you  haven't fed
+улар ашатмағандар   they haven't fed
 
 мин  ашатырмын   I    would feed
 һин  ашатырһың   you  would feed
@@ -61,19 +61,19 @@ fed
 һеҙ  ашатмаҫһығыҙ you  wouldn't feed
 улар ашатмаҫтар   they wouldn't feed
 
-мин  ашатасакмын   I    will feed
-һин  ашатасакһың   you  will feed
-ул   ашатасак      he   will feed
-беҙ  ашатасакбыҙ   we   will feed
-һеҙ  ашатасакһығыҙ you  will feed
-улар ашатасактар   they will feed
+мин  ашатасаҡмын   I    will feed
+һин  ашатасаҡһың   you  will feed
+ул   ашатасаҡ      he   will feed
+беҙ  ашатасаҡбыҙ   we   will feed
+һеҙ  ашатасаҡһығыҙ you  will feed
+улар ашатасаҡтар   they will feed
 
-мин  ашатмаясакмын   I    won't feed
-һин  ашатмаясакһың   you  won't feed
-ул   ашатмаясак      he   won't feed
-беҙ  ашатмаясакбыҙ   we   won't feed
-һеҙ  ашатмаясакһығыҙ you  won't feed
-улар ашатмаясактар   they won't feed
+мин  ашатмаясаҡмын   I    won't feed
+һин  ашатмаясаҡһың   you  won't feed
+ул   ашатмаясаҡ      he   won't feed
+беҙ  ашатмаясаҡбыҙ   we   won't feed
+һеҙ  ашатмаясаҡһығыҙ you  won't feed
+улар ашатмаясаҡтар   they won't feed
 
 
 мин  ашатһам   if I    will feed

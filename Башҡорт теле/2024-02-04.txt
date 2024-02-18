@@ -22,7 +22,7 @@
 
 мин  ишетмәнем   I    haven't heard
 һин  ишетмәнең   you  haven't heard
-ул   ишетмәне    he   haven't heard
+ул   ишетмәне    he   hasn't heard
 беҙ  ишетмәнек   we   haven't heard
 һеҙ  ишетмәнегеҙ you  haven't heard
 улар ишетмәнеләр they haven't heard
