@@ -63,12 +63,12 @@
 һеҙ  йүгерәсәкһегеҙ you  will run
 улар йүгерәсәктәр   they will run
 
-мин  йүгермәйәсәкмен   I    willn't run
-һин  йүгермәйәсәкһең   you  willn't run
-ул   йүгермәйәсәк      he   willn't run
-беҙ  йүгермәйәсәкбеҙ   we   willn't run
-һеҙ  йүгермәйәсәкһегеҙ you  willn't run
-улар йүгермәйәсәктәр   they willn't run
+мин  йүгермәйәсәкмен   I    won't run
+һин  йүгермәйәсәкһең   you  won't run
+ул   йүгермәйәсәк      he   won't run
+беҙ  йүгермәйәсәкбеҙ   we   won't run
+һеҙ  йүгермәйәсәкһегеҙ you  won't run
+улар йүгермәйәсәктәр   they won't run
 
 мин  йүгерһәм   if I    will run
 һин  йүгерһәң   if you  will run
