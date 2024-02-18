@@ -1,102 +1,102 @@
-мин  олайым    I    am  falling
-һин  олайһың   you  are falling
-ул   олай      he   is  falling
-беҙ  олайбыҙ   we   are falling
-һеҙ  олайһығыҙ you  are falling
-улар олайҙар   they are falling
+мин  ҡолайым    I    am  falling
+һин  ҡолайһың   you  are falling
+ул   ҡолай      he   is  falling
+беҙ  ҡолайбыҙ   we   are falling
+һеҙ  ҡолайһығыҙ you  are falling
+улар ҡолайҙар   they are falling
 
 
 
-мин  оламайым    I    don't  fall
-һин  оламайһың   you  don't  fall
-ул   оламай      he   does't fall
-беҙ  оламайбыҙ   we   don't  fall
-һеҙ  оламайһығыҙ you  don't  fall
-улар оламайҙар   they don't  fall
+мин  ҡоламайым    I    don't  fall
+һин  ҡоламайһың   you  don't  fall
+ул   ҡоламай      he   does't fall
+беҙ  ҡоламайбыҙ   we   don't  fall
+һеҙ  ҡоламайһығыҙ you  don't  fall
+улар ҡоламайҙар   they don't  fall
 
 
-мин  оланым   I    have fall
-һин  оланың   you  have fall
-ул   оланы    he   has  fall
-беҙ  оланыҡ   we   have fall
-һеҙ  оланығыҙ you  have fall
-улар оланылар they have fall
-
-
-
-
-
-
-
-
-мин  оламаным   I    haven't fall
-һин  оламаның   you  haven't fall
-ул   оламаны    he   hasn't  fall
-беҙ  оламаныҡ   we   haven't fall
-һеҙ  оламанығыҙ you  haven't fall
-улар оламанылар they haven't fall
-
-
-мин  олғанмын   I    have fall
-һин  олғанһың   you  have fall
-ул   олған      he   has  fall
-беҙ  олғанбыҙ   we   have fall
-һеҙ  олғанһығыҙ you  have fall
-улар олғандар   they have falL
-
-мин  оламағанмын   I    haven't fall
-һин  оламағанһың   you  haven't fall
-ул   оламаған      he   hasn't  fall
-беҙ  оламағанбыҙ   we   haven't fall
-һеҙ  оламағанһығыҙ you  haven't fall
-улар оламағандар   they haven't fall
-
-мин  олармын   I    would fall
-һин  оларһың   you  would fall
-ул   олар      he   would fall
-беҙ  оларбыҙ   we   would fall
-һеҙ  оларһығыҙ you  would fall
-улар оларҙар   they would fall
-
-мин  оламаҫмын   I    wouldn't fall
-һин  оламаҫһың   you  wouldn't fall
-ул   оламаҫ      he   wouldn't fall
-беҙ  оламаҫбыҙ   we   wouldn't fall
-һеҙ  оламаҫһығыҙ you  wouldn't fall
-улар оламаҫтар   they wouldn't fall
+мин  ҡоланым   I    have fall
+һин  ҡоланың   you  have fall
+ул   ҡоланы    he   has  fall
+беҙ  ҡоланыҡ   we   have fall
+һеҙ  ҡоланығыҙ you  have fall
+улар ҡоланылар they have fall
 
 
 
 
 
 
-мин  олаясакмын   I    will fall
-һин  олаясакһың   you  will fall
-ул   олаясак      he   will fall
-беҙ  олаясакюбыҙ  we   will fall
-һеҙ  олаясакһығыҙ you  will fall
-улар олаясактар   they will fall
 
-мин  оламаясакмын   I    won't fall
-һин  оламаясакһың   you  won't fall
-ул   оламаясак      he   won't fall
-беҙ  оламаясакбыҙ   we   won't fall
-һеҙ  оламаясакһығыҙ you  won't fall
-улар оламаясакҙар   they won't fall
 
-мин  олаһам   if I    will fall
-һин  олаһаң   if you  will fall
-ул   олаһа    if he   will fall
-беҙ  олаһаҡ   if we   will fall
-һеҙ  олаһағыҙ if you  will fall
-улар олаһалар if they will fall
+мин  ҡоламаным   I    haven't fall
+һин  ҡоламаның   you  haven't fall
+ул   ҡоламаны    he   hasn't  fall
+беҙ  ҡоламаныҡ   we   haven't fall
+һеҙ  ҡоламанығыҙ you  haven't fall
+улар ҡоламанылар they haven't fall
 
-мин  олағым    килә I    want  to fall
-һин  олағың    килә you  want  to fall
-ул   олағы     килә he   wants to fall
-беҙ  олағыҡ    килә we   want  to fall
-һеҙ  олағығыҙ  килә you  want  to fall
-улар олағылары килә they want  to fall
+
+мин  ҡолғанмын   I    have fall
+һин  ҡолғанһың   you  have fall
+ул   ҡолған      he   has  fall
+беҙ  ҡолғанбыҙ   we   have fall
+һеҙ  ҡолғанһығыҙ you  have fall
+улар ҡолғандар   they have falL
+
+мин  ҡоламағанмын   I    haven't fall
+һин  ҡоламағанһың   you  haven't fall
+ул   ҡоламаған      he   hasn't  fall
+беҙ  ҡоламағанбыҙ   we   haven't fall
+һеҙ  ҡоламағанһығыҙ you  haven't fall
+улар ҡоламағандар   they haven't fall
+
+мин  ҡолармын   I    would fall
+һин  ҡоларһың   you  would fall
+ул   ҡолар      he   would fall
+беҙ  ҡоларбыҙ   we   would fall
+һеҙ  ҡоларһығыҙ you  would fall
+улар ҡоларҙар   they would fall
+
+мин  ҡоламаҫмын   I    wouldn't fall
+һин  ҡоламаҫһың   you  wouldn't fall
+ул   ҡоламаҫ      he   wouldn't fall
+беҙ  ҡоламаҫбыҙ   we   wouldn't fall
+һеҙ  ҡоламаҫһығыҙ you  wouldn't fall
+улар ҡоламаҫтар   they wouldn't fall
+
+
+
+
+
+
+мин  ҡолаясакмын   I    will fall
+һин  ҡолаясакһың   you  will fall
+ул   ҡолаясак      he   will fall
+беҙ  ҡолаясакюбыҙ  we   will fall
+һеҙ  ҡолаясакһығыҙ you  will fall
+улар ҡолаясактар   they will fall
+
+мин  ҡоламаясакмын   I    won't fall
+һин  ҡоламаясакһың   you  won't fall
+ул   ҡоламаясак      he   won't fall
+беҙ  ҡоламаясакбыҙ   we   won't fall
+һеҙ  ҡоламаясакһығыҙ you  won't fall
+улар ҡоламаясакҙар   they won't fall
+
+мин  ҡолаһам   if I    will fall
+һин  ҡолаһаң   if you  will fall
+ул   ҡолаһа    if he   will fall
+беҙ  ҡолаһаҡ   if we   will fall
+һеҙ  ҡолаһағыҙ if you  will fall
+улар ҡолаһалар if they will fall
+
+мин  ҡолағым    килә I    want  to fall
+һин  ҡолағың    килә you  want  to fall
+ул   ҡолағы     килә he   wants to fall
+беҙ  ҡолағыҡ    килә we   want  to fall
+һеҙ  ҡолағығыҙ  килә you  want  to fall
+улар ҡолағылары килә they want  to fall
 
 
 
