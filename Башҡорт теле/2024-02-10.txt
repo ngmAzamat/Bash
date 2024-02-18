@@ -63,12 +63,12 @@
 һеҙ  беләсәкһегеҙ you  will know
 улар беләсәктәр   they will know
 
-мин  белмәйәсәкмен   I    willn't know
-һин  белмәйәсәкһең   you  willn't know
-ул   белмәйәсәк      he   willn't know
-беҙ  белмәйәсәкбеҙ   we   willn't know
-һеҙ  белмәйәсәкһегеҙ you  willn't know
-улар белмәйәсәктәр   they willn't know
+мин  белмәйәсәкмен   I    won't know
+һин  белмәйәсәкһең   you  won't know
+ул   белмәйәсәк      he   won't know
+беҙ  белмәйәсәкбеҙ   we   won't know
+һеҙ  белмәйәсәкһегеҙ you  won't know
+улар белмәйәсәктәр   they won't know
 
 мен  белһәм   if I    will know
 һин  белһәң   if you  will know
