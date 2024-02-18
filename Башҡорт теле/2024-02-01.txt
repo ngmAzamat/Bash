@@ -12,12 +12,12 @@
 һеҙ  күтәрелмәйһегеҙ you  don't rise
 улар күтәрелмәйҙәр   they don't rise
 
-мин  күтәрелҙем   I    have risen
-һин  күтәрелҙең   you  have risen
-ул   күтәрелҙе    he   has  risen
-беҙ  күтәрелҙек   we   have risen
-һеҙ  күтәрелҙегеҙ you  have risen
-улар күтәрелҙеләр they have risen
+мин  күтәрелдем   I    have risen
+һин  күтәрелдең   you  have risen
+ул   күтәрелде    he   has  risen
+беҙ  күтәрелдек   we   have risen
+һеҙ  күтәрелдегеҙ you  have risen
+улар күтәрелделәр they have risen
 
 мин  күтәрелмәнем   I    have not risen
 һин  күтәрелмәнең   you  have not risen
@@ -61,12 +61,12 @@
 һеҙ  күтәреләсәкһегеҙ you  will rise
 улар күтәреләсәктәр   they will rise
 
-мин  күтәрелмәйәсәкмен   I    willn't rise
-һин  күтәрелмәйәсәкһең   you  willn't rise
-ул   күтәрелмәйәсәк      he   willn't rise
-беҙ  күтәрелмәйәсәкбеҙ   we   willn't rise
-һеҙ  күтәрелмәйәсәкһегеҙ you  willn't rise
-улар күтәрелмәйәсәктәр   they willn't rise
+мин  күтәрелмәйәсәкмен   I    won't rise
+һин  күтәрелмәйәсәкһең   you  won't rise
+ул   күтәрелмәйәсәк      he   won't rise
+беҙ  күтәрелмәйәсәкбеҙ   we   won't rise
+һеҙ  күтәрелмәйәсәкһегеҙ you  won't rise
+улар күтәрелмәйәсәктәр   they won't rise
 
 мин  күтәрелһәм   if I    will rise
 һин  күтәрелһәң   if you  will rise
