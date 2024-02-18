@@ -5,21 +5,21 @@
 һеҙ  һалаһығыҙ you  are putting
 улар һалалар   they are putting
 
-мин  һалмайым    I    don't  putt
-һин  һалмайһың   you  don't  putt
-ул   һалмай      he   does't putt
-беҙ  һалмайбыҙ   we   don't  putt
-һеҙ  һалмайһығыҙ you  don't  putt
-улар һалмайҙар   they don't  putt
+мин  һалмайым    I    don't  put
+һин  һалмайһың   you  don't  put
+ул   һалмай      he   does't put
+беҙ  һалмайбыҙ   we   don't  put
+һеҙ  һалмайһығыҙ you  don't  put
+улар һалмайҙар   they don't  put
 
 
 
-мин  һалдым   I    have putt
-һин  һалдың   you  have putt
-ул   һалды    he   has  putt
-беҙ  һалдыҡ   we   have putt
-һеҙ  һалдығыҙ you  have putt
-улар һалдылар they have putt
+мин  һалдым   I    have put
+һин  һалдың   you  have put
+ул   һалды    he   has  put
+беҙ  һалдыҡ   we   have put
+һеҙ  һалдығыҙ you  have put
+улар һалдылар they have put
 
 
 
@@ -31,66 +31,66 @@
 улар һалманылар they haven't putt
 
 
-мин  һалғанмын   I    have putt
-һин  һалғанһың   you  have putt
-ул   һалған      he   has  putt
-беҙ  һалғанбыҙ   we   have putt
-һеҙ  һалғанһығыҙ you  have putt
-улар һалғандар   they have putt
+мин  һалғанмын   I    have put
+һин  һалғанһың   you  have put
+ул   һалған      he   has  put
+беҙ  һалғанбыҙ   we   have put
+һеҙ  һалғанһығыҙ you  have put
+улар һалғандар   they have put
 
-мин  һалмағанмын   I    haven't putt
-һин  һалмағанһың   you  haven't putt
-ул   һалмаған      he   hasn't  putt
-беҙ  һалмағанбыҙ   we   haven't putt
-һеҙ  һалмағанһығыҙ you  haven't putt
-улар һалмағандар   they haven't putt
+мин  һалмағанмын   I    haven't put
+һин  һалмағанһың   you  haven't put
+ул   һалмаған      he   hasn't  put
+беҙ  һалмағанбыҙ   we   haven't put
+һеҙ  һалмағанһығыҙ you  haven't put
+улар һалмағандар   they haven't put
 
-мин  һалырмын   I    would putt
-һин  һалырһың   you  would putt
-ул   һалыр      he   would putt
-быҙ  һалырбыҙ   we   would putt
-һыҙ  һалырһығыҙ you  would putt
-улар һалырҙар   they would putt
+мин  һалырмын   I    would put
+һин  һалырһың   you  would put
+ул   һалыр      he   would put
+быҙ  һалырбыҙ   we   would put
+һыҙ  һалырһығыҙ you  would put
+улар һалырҙар   they would put
 
-мин  һалмаҫмен   I    wouldn't putt
-һин  һалмаҫһең   you  wouldn't putt
-ул   һалмаҫ      he   wouldn't putt
-беҙ  һалмаҫбыҙ   we   wouldn't putt
-һеҙ  һалмаҫһығыҙ you  wouldn't putt
-улар һалмаҫтар   they wouldn't putt
-
-
+мин  һалмаҫмен   I    wouldn't put
+һин  һалмаҫһең   you  wouldn't put
+ул   һалмаҫ      he   wouldn't put
+беҙ  һалмаҫбыҙ   we   wouldn't put
+һеҙ  һалмаҫһығыҙ you  wouldn't put
+улар һалмаҫтар   they wouldn't put
 
 
 
-мин  һаласаҡмын   I    will putt
-һин  һаласаҡһың   you  will putt
-ул   һаласаҡ      he   will putt
-беҙ  һаласаҡбыҙ   we   will putt
-һеҙ  һаласаҡһығыҙ you  will putt
-улар һаласаҡтар   they will putt
-
-мин  һалмаясаҡмын   I    won't putt
-һин  һалмаясаҡһың   you  won't putt
-ул   һалмаясаҡ      he   won't putt
-беҙ  һалмаясаҡбыҙ   we   won't putt
-һеҙ  һалмаясаҡһығыҙ you  won't putt
-улар һалмаясаҡтар   they won't putt
 
 
-мин  һалһам   if I    will putt
-һин  һалһаң   if you  will putt
-ул   һалһа    if he   will putt
-беҙ  һхалһаҡ  if we   will putt
-һеҙ  һалһағыҙ if you  will putt
-улар һалһалар if they will putt
+мин  һаласаҡмын   I    will put
+һин  һаласаҡһың   you  will put
+ул   һаласаҡ      he   will put
+беҙ  һаласаҡбыҙ   we   will put
+һеҙ  һаласаҡһығыҙ you  will put
+улар һаласаҡтар   they will put
 
-мин  һалғым    килә I    want  to putt
-һин  һалғың    килә you  want  to putt
-ул   һалғыһы   килә he   wants to putt
-беҙ  һалғыҡ    килә we   want  to putt
-һеҙ  һалғығыҙ  килә you  want  to putt
-улар һалғылары килә they want  to putt
+мин  һалмаясаҡмын   I    won't put
+һин  һалмаясаҡһың   you  won't put
+ул   һалмаясаҡ      he   won't put
+беҙ  һалмаясаҡбыҙ   we   won't put
+һеҙ  һалмаясаҡһығыҙ you  won't put
+улар һалмаясаҡтар   they won't put
+
+
+мин  һалһам   if I    will put
+һин  һалһаң   if you  will put
+ул   һалһа    if he   will put
+беҙ  һхалһаҡ  if we   will put
+һеҙ  һалһағыҙ if you  will put
+улар һалһалар if they will put
+
+мин  һалғым    килә I    want  to put
+һин  һалғың    килә you  want  to put
+ул   һалғыһы   килә he   wants to put
+беҙ  һалғыҡ    килә we   want  to put
+һеҙ  һалғығыҙ  килә you  want  to put
+улар һалғылары килә they want  to put
 
 
 

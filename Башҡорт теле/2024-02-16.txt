@@ -15,12 +15,12 @@
 улар ҡоламайҙар   they don't  fall
 
 
-мин  ҡоланым   I    have fall
-һин  ҡоланың   you  have fall
-ул   ҡоланы    he   has  fall
-беҙ  ҡоланыҡ   we   have fall
-һеҙ  ҡоланығыҙ you  have fall
-улар ҡоланылар they have fall
+мин  ҡоланым   I    have fallen
+һин  ҡоланың   you  have fallen
+ул   ҡоланы    he   has  fallen
+беҙ  ҡоланыҡ   we   have fallen
+һеҙ  ҡоланығыҙ you  have fallen
+улар ҡоланылар they have fallen
 
 
 
@@ -29,27 +29,27 @@
 
 
 
-мин  ҡоламаным   I    haven't fall
-һин  ҡоламаның   you  haven't fall
-ул   ҡоламаны    he   hasn't  fall
-беҙ  ҡоламаныҡ   we   haven't fall
-һеҙ  ҡоламанығыҙ you  haven't fall
-улар ҡоламанылар they haven't fall
+мин  ҡоламаным   I    haven't fallen
+һин  ҡоламаның   you  haven't fallen
+ул   ҡоламаны    he   hasn't  fallen
+беҙ  ҡоламаныҡ   we   haven't fallen
+һеҙ  ҡоламанығыҙ you  haven't fallen
+улар ҡоламанылар they haven't fallen
 
 
-мин  ҡолғанмын   I    have fall
-һин  ҡолғанһың   you  have fall
-ул   ҡолған      he   has  fall
-беҙ  ҡолғанбыҙ   we   have fall
-һеҙ  ҡолғанһығыҙ you  have fall
-улар ҡолғандар   they have falL
+мин  ҡолғанмын   I    have fallen
+һин  ҡолғанһың   you  have fallen
+ул   ҡолған      he   has  fallen
+беҙ  ҡолғанбыҙ   we   have fallen
+һеҙ  ҡолғанһығыҙ you  have fallen
+улар ҡолғандар   they have falLen
 
-мин  ҡоламағанмын   I    haven't fall
-һин  ҡоламағанһың   you  haven't fall
-ул   ҡоламаған      he   hasn't  fall
-беҙ  ҡоламағанбыҙ   we   haven't fall
-һеҙ  ҡоламағанһығыҙ you  haven't fall
-улар ҡоламағандар   they haven't fall
+мин  ҡоламағанмын   I    haven't fallen
+һин  ҡоламағанһың   you  haven't fallen
+ул   ҡоламаған      he   hasn't  fallen
+беҙ  ҡоламағанбыҙ   we   haven't fallen
+һеҙ  ҡоламағанһығыҙ you  haven't fallen
+улар ҡоламағандар   they haven't fallen
 
 мин  ҡолармын   I    would fall
 һин  ҡоларһың   you  would fall
