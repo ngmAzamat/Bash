@@ -68,12 +68,12 @@ fed
 һеҙ  ашатасакһығыҙ you  will feed
 улар ашатасактар   they will feed
 
-мин  ашатмаясакмын   I    willn't feed
-һин  ашатмаясакһың   you  willn't feed
-ул   ашатмаясак      he   willn't feed
-беҙ  ашатмаясакбыҙ   we   willn't feed
-һеҙ  ашатмаясакһығыҙ you  willn't feed
-улар ашатмаясактар   they willn't feed
+мин  ашатмаясакмын   I    won't feed
+һин  ашатмаясакһың   you  won't feed
+ул   ашатмаясак      he   won't feed
+беҙ  ашатмаясакбыҙ   we   won't feed
+һеҙ  ашатмаясакһығыҙ you  won't feed
+улар ашатмаясактар   they won't feed
 
 
 мин  ашатһам   if I    will feed

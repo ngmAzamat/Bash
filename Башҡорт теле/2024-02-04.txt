@@ -63,12 +63,12 @@
 улар ишетәсәктәр   they will hear
 
 
-мин  ишетмәйәсәкмен   I    willn't hear
-һин  ишетмәйәсәкһең   you  willn't hear
-ул   ишетмәйәсәк      he   willn't hear
-беҙ  ишетмәйәсәкбеҙ   we   willn't hear
-һеҙ  ишетмәйәсәкһегеҙ you  willn't hear
-улар ишетмәйәсәктәр   they willn't hear
+мин  ишетмәйәсәкмен   I    won't hear
+һин  ишетмәйәсәкһең   you  won't hear
+ул   ишетмәйәсәк      he   won't hear
+беҙ  ишетмәйәсәкбеҙ   we   won't hear
+һеҙ  ишетмәйәсәкһегеҙ you  won't hear
+улар ишетмәйәсәктәр   they won't hear
 
 
 мин  ишетһәм   if I    will hear

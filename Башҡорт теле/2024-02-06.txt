@@ -65,12 +65,12 @@
 һеҙ  уҡыясаҡһығыҙ you  will read
 улар уҡыясаҡтар   they will read
 
-мин  уҡымаясаҡмын   I    willn't read
-һин  уҡымаясаҡһың   you  willn't read
-ул   уҡымаясаҡ      he   willn't read
-беҙ  уҡымаясаҡбыҙ   we   willn't read
-һеҙ  уҡымаясаҡһығыҙ you  willn't read
-улар уҡымаясаҡтар   they willn't read
+мин  уҡымаясаҡмын   I    won't read
+һин  уҡымаясаҡһың   you  won't read
+ул   уҡымаясаҡ      he   won't read
+беҙ  уҡымаясаҡбыҙ   we   won't read
+һеҙ  уҡымаясаҡһығыҙ you  won't read
+улар уҡымаясаҡтар   they won't read
 
 мин  уҡыһам   if I    will read
 һин  уҡыһаң   if you  will read

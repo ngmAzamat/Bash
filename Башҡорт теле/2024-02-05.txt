@@ -47,12 +47,12 @@
 һеҙ  тыңлаясаҡһығыҙ you  will listen
 улар тыңлаясаҡтар   they will listen
 
-мин  тыңламаясаҡмын   I    willn't listen
-һин  тыңламаясаҡһың   you  willn't listen
-ул   тыңламаясаҡ      he   willn't listen
-беҙ  тыңламаясаҡбыҙ   we   willn't listen
-һеҙ  тыңламаясаҡһығыҙ you  willn't listen
-улар тыңламаясаҡтар   they willn't listen
+мин  тыңламаясаҡмын   I    won't listen
+һин  тыңламаясаҡһың   you  won't listen
+ул   тыңламаясаҡ      he   won't listen
+беҙ  тыңламаясаҡбыҙ   we   won't listen
+һеҙ  тыңламаясаҡһығыҙ you  won't listen
+улар тыңламаясаҡтар   they won't listen
 
 мин  тыңлармын   I    would listen
 һин  тыңларһың   you  would listen
