@@ -40,12 +40,12 @@ fed
 һеҙ  ашатҡанһығыҙ you  have fed
 улар ашатҡандар   they have fed
 
-мин  ашатмағанмын   I    haven't feet
-һин  ашатмағанһың   you  haven't feet
-ул   ашатмаған      he   hasn't  feet
-беҙ  ашатмағанбыҙ   we   haven't feet
-һеҙ  ашатмағанһығыҙ you  haven't feet
-улар ашатмағанҙар   they haven't feet
+мин  ашатмағанмын   I    haven't feed
+һин  ашатмағанһың   you  haven't feed
+ул   ашатмаған      he   hasn't  feed
+беҙ  ашатмағанбыҙ   we   haven't feed
+һеҙ  ашатмағанһығыҙ you  haven't feed
+улар ашатмағанҙар   they haven't feed
 
 мин  ашатырмын   I    would feed
 һин  ашатырһың   you  would feed
@@ -68,12 +68,12 @@ fed
 һеҙ  ашатасакһығыҙ you  will feed
 улар ашатасактар   they will feed
 
-мин  ашатмаясакмын   I    willn't feet
-һин  ашатмаясакһың   you  willn't feet
-ул   ашатмаясак      he   willn't feet
-беҙ  ашатмаясакбыҙ   we   willn't feet
-һеҙ  ашатмаясакһығыҙ you  willn't feet
-улар ашатмаясактар   they willn't feet
+мин  ашатмаясакмын   I    willn't feed
+һин  ашатмаясакһың   you  willn't feed
+ул   ашатмаясак      he   willn't feed
+беҙ  ашатмаясакбыҙ   we   willn't feed
+һеҙ  ашатмаясакһығыҙ you  willn't feed
+улар ашатмаясактар   they willn't feed
 
 
 мин  ашатһам   if I    will feed
@@ -83,12 +83,12 @@ fed
 һеҙ  ашатһағыҙ if you  will feed
 улар ашатһалар if they will feed
 
-мин  ашатҡым   килә I    want  to feed
-һин  ашатҡың   килә you  want  to feed
-ул   ашатҡыһы  килә he   wants to feed
-беҙ  ашатҡыҡ   килә we   want  to feed
-һеҙ  ашатҡығыҙ килә you  want  to feed
-улар ашатҡылар килә they want  to feed
+мин  ашатҡым    килә I    want  to feed
+һин  ашатҡың    килә you  want  to feed
+ул   ашатҡыһы   килә he   wants to feed
+беҙ  ашатҡыҡ    килә we   want  to feed
+һеҙ  ашатҡығыҙ  килә you  want  to feed
+улар ашатҡылары килә they want  to feed
 
 
 
