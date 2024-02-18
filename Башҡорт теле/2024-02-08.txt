@@ -5,19 +5,19 @@ feet
 
 fed
 
-мин  ашатам     I    am  feeting
-һин  ашатаһың   you  are feeting
-ул   ашата      he   is  feeting
-беҙ  ашатабыҙ   we   are feeting
-һеҙ  ашатаһығыҙ you  are feeting
-улар ашаталар   they are feeting
+мин  ашатам     I    am  feeding
+һин  ашатаһың   you  are feeding
+ул   ашата      he   is  feeding
+беҙ  ашатабыҙ   we   are feeding
+һеҙ  ашатаһығыҙ you  are feeding
+улар ашаталар   they are feeding
 
-мин  ашатмайым    I    don't feet
-һин  ашатмайһың   you  don't feet
-ул   ашатмай      he   don't feet
-беҙ  ашатмайбыҙ   we   don't feet
-һеҙ  ашатмайһығыҙ you  don't feet
-улар ашатмайҙар   they don't feet
+мин  ашатмайым    I    don't feed
+һин  ашатмайһың   you  don't feed
+ул   ашатмай      he   don't feed
+беҙ  ашатмайбыҙ   we   don't feed
+һеҙ  ашатмайһығыҙ you  don't feed
+улар ашатмайҙар   they don't feed
 
 мин  ашаттым   I    have fed
 һин  ашаттың   you  have fed
@@ -47,26 +47,26 @@ fed
 һеҙ  ашатмағанһығыҙ you  haven't feet
 улар ашатмағанҙар   they haven't feet
 
-мин  ашатырмын   I    would feet
-һин  ашатырһың   you  would feet
-ул   ашатыр      he   would feet
-беҙ  ашатырбыҙ   we   would feet
-һеҙ  ашатырһығыҙ you  would feet
-улар ашатырҙар   they would feet
+мин  ашатырмын   I    would feed
+һин  ашатырһың   you  would feed
+ул   ашатыр      he   would feed
+беҙ  ашатырбыҙ   we   would feed
+һеҙ  ашатырһығыҙ you  would feed
+улар ашатырҙар   they would feed
 
-мин  ашатмаҫмын   I    wouldn't feet
-һин  ашатмаҫһың   you  wouldn't feet
-ул   ашатмаҫ      he   wouldn't feet
-беҙ  ашатмаҫбыҙ   we   wouldn't feet
-һеҙ  ашатмаҫһығыҙ you  wouldn't feet
-улар ашатмаҫтар   they wouldn't feet
+мин  ашатмаҫмын   I    wouldn't feed
+һин  ашатмаҫһың   you  wouldn't feed
+ул   ашатмаҫ      he   wouldn't feed
+беҙ  ашатмаҫбыҙ   we   wouldn't feed
+һеҙ  ашатмаҫһығыҙ you  wouldn't feed
+улар ашатмаҫтар   they wouldn't feed
 
-мин  ашатасакмын   I    will feet
-һин  ашатасакһың   you  will feet
-ул   ашатасак      he   will feet
-беҙ  ашатасакбыҙ   we   will feet
-һеҙ  ашатасакһығыҙ you  will feet
-улар ашатасактар   they will feet
+мин  ашатасакмын   I    will feed
+һин  ашатасакһың   you  will feed
+ул   ашатасак      he   will feed
+беҙ  ашатасакбыҙ   we   will feed
+һеҙ  ашатасакһығыҙ you  will feed
+улар ашатасактар   they will feed
 
 мин  ашатмаясакмын   I    willn't feet
 һин  ашатмаясакһың   you  willn't feet
@@ -76,19 +76,19 @@ fed
 улар ашатмаясактар   they willn't feet
 
 
-мин  ашатһам   if I    will feel
-һин  ашатһаң   if you  will feel
-ул   ашатһа    if he   will feel
-беҙ  ашатһаҡ   if we   will feel
-һеҙ  ашатһағыҙ if you  will feel
-улар ашатһалар if they will feel
+мин  ашатһам   if I    will feed
+һин  ашатһаң   if you  will feed
+ул   ашатһа    if he   will feed
+беҙ  ашатһаҡ   if we   will feed
+һеҙ  ашатһағыҙ if you  will feed
+улар ашатһалар if they will feed
 
-мин  ашатҡым   килә I    want  to feet
-һин  ашатҡың   килә you  want  to feet
-ул   ашатҡыһы  килә he   wants to feet
-беҙ  ашатҡыҡ   килә we   want  to feet
-һеҙ  ашатҡығыҙ килә you  want  to feet
-улар ашатҡылар килә they want  to feet
+мин  ашатҡым   килә I    want  to feed
+һин  ашатҡың   килә you  want  to feed
+ул   ашатҡыһы  килә he   wants to feed
+беҙ  ашатҡыҡ   килә we   want  to feed
+һеҙ  ашатҡығыҙ килә you  want  to feed
+улар ашатҡылар килә they want  to feed
 
 
 
