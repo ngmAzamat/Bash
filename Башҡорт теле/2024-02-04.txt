@@ -1,10 +1,10 @@
 
-мин  ишетәм     I    hear
-һин  ишетәһең   you  hear
-ул   ишетә      he   hear
-беҙ  ишетәбеҙ   we   hear
-һеҙ  ишетәһегеҙ you  hear
-улар ишетәләр   they hear
+мин  ишетәм     I    am  hearing
+һин  ишетәһең   you  are hearing
+ул   ишетә      he   is  hearing
+беҙ  ишетәбеҙ   we   are hearing
+һеҙ  ишетәһегеҙ you  are hearing
+улар ишетәләр   they are hearing
 
 мин  ишетмәйем    I    don't hear
 һин  ишетмәйһең   you  don't hear
@@ -13,33 +13,33 @@
 һеҙ  ишетмәйһегеҙ you  don't hear
 улар ишетмәйҙәр   they don't hear
 
-мин  ишеттем   I    have hea
-һин  ишеттең   you  have hea
-ул   ишетте    he   has  hea
-беҙ  ишеттек   we   have hea
-һеҙ  ишеттегеҙ you  have hea
-улар ишеттеләр they have hea
+мин  ишеттем   I    have heard
+һин  ишеттең   you  have heard
+ул   ишетте    he   has  heard
+беҙ  ишеттек   we   have heard
+һеҙ  ишеттегеҙ you  have heard
+улар ишеттеләр they have heard
 
-мин  ишетмәнем   I    haven't 
-һин  ишетмәнең   you  haven't 
-ул   ишетмәне    he   haven't 
-беҙ  ишетмәнек   we   haven't 
-һеҙ  ишетмәнегеҙ you  haven't 
-улар ишетмәнеләр they haven't 
+мин  ишетмәнем   I    haven't heard
+һин  ишетмәнең   you  haven't heard
+ул   ишетмәне    he   haven't heard
+беҙ  ишетмәнек   we   haven't heard
+һеҙ  ишетмәнегеҙ you  haven't heard
+улар ишетмәнеләр they haven't heard
 
-мин  ишеткәнмен   I    have hear
-һин  ишеткәнһең   you  have hear
-ул   ишеткән      he   has  hear
-беҙ  ишеткәнбеҙ   we   have hear
-һеҙ  ишеткәнһегеҙ you  have hear
-улар ишеткәндәр   they have hear
+мин  ишеткәнмен   I    have heard
+һин  ишеткәнһең   you  have heard
+ул   ишеткән      he   has  heard
+беҙ  ишеткәнбеҙ   we   have heard
+һеҙ  ишеткәнһегеҙ you  have heard
+улар ишеткәндәр   they have heard
 
-мин  ишетмәгәнмен   I    haven't hear
-һин  ишетмәгәнһең   you  haven't hear
-ул   ишетмәгән      he   hasn't  hear
-беҙ  ишетмәгәнбеҙ   we   haven't hear
-һеҙ  ишетмәгәнһегеҙ you  haven't hear
-улар ишетмәгәндәр   they haven't hear
+мин  ишетмәгәнмен   I    haven't heard
+һин  ишетмәгәнһең   you  haven't heard
+ул   ишетмәгән      he   hasn't  heard
+беҙ  ишетмәгәнбеҙ   we   haven't heard
+һеҙ  ишетмәгәнһегеҙ you  haven't heard
+улар ишетмәгәндәр   they haven't heard
 
 мин  ишетермен   I    would hear
 һин  ишетерһең   you  would hear
