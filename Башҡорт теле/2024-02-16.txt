@@ -70,19 +70,19 @@
 
 
 
-мин  ҡолаясакмын   I    will fall
-һин  ҡолаясакһың   you  will fall
-ул   ҡолаясак      he   will fall
-беҙ  ҡолаясакюбыҙ  we   will fall
-һеҙ  ҡолаясакһығыҙ you  will fall
-улар ҡолаясактар   they will fall
+мин  ҡолаясамын   I    will fall
+һин  ҡолаясаһың   you  will fall
+ул   ҡолаяса      he   will fall
+беҙ  ҡолаясаюбыҙ  we   will fall
+һеҙ  ҡолаясаһығыҙ you  will fall
+улар ҡолаясатар   they will fall
 
-мин  ҡоламаясакмын   I    won't fall
-һин  ҡоламаясакһың   you  won't fall
-ул   ҡоламаясак      he   won't fall
-беҙ  ҡоламаясакбыҙ   we   won't fall
-һеҙ  ҡоламаясакһығыҙ you  won't fall
-улар ҡоламаясакҙар   they won't fall
+мин  ҡоламаясамын   I    won't fall
+һин  ҡоламаясаһың   you  won't fall
+ул   ҡоламаяса      he   won't fall
+беҙ  ҡоламаясабыҙ   we   won't fall
+һеҙ  ҡоламаясаһығыҙ you  won't fall
+улар ҡоламаясаҙар   they won't fall
 
 мин  ҡолаһам   if I    will fall
 һин  ҡолаһаң   if you  will fall
