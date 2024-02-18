@@ -5,56 +5,56 @@
 һеҙ  йоҡлаяһығыҙ you  are sleeping
 улар йоҡлаялар   they are sleeping
 
-мин  йоҡлаймаймын   I    don't  sleep
-һин  йоҡлаймайһың   you  don't  sleep
-ул   йоҡлаймай      he   does't sleep
-беҙ  йоҡлаймайбыҙ   we   don't  sleep
-һеҙ  йоҡлаймайһығыҙ you  don't  sleep
-улар йоҡлаймайҙар   they don't  sleep
+мин  йоҡламай   I    don't  sleep
+һин  йоҡламайһың   you  don't  sleep
+ул   йоҡламай      he   does't sleep
+беҙ  йоҡламайбыҙ   we   don't  sleep
+һеҙ  йоҡламайһығыҙ you  don't  sleep
+улар йоҡламайҙар   they don't  sleep
 
-мин  йоҡлайҙым   I    have slept
-һин  йоҡлайҙың   you  have slept
-ул   йоҡлайҙы    he   has  slept
-беҙ  йоҡлайҙыҡ   we   have slept
-һеҙ  йоҡлайҙығыҙ you  have slept
-улар йоҡлайҙылар they have slept
+мин  йоҡлаым   I    have slept
+һин  йоҡлаың   you  have slept
+ул   йоҡлаы    he   has  slept
+беҙ  йоҡлаыҡ   we   have slept
+һеҙ  йоҡлаығыҙ you  have slept
+улар йоҡлаылар they have slept
 
-мин  йоҡлайманым   I    slept
-һин  йоҡлайманың   you  slept
-ул   йоҡлайманы    he   spept
-беҙ  йоҡлайманыҡ   we   spept
-һеҙ  йоҡлайманығыҙ you  spept
-улар йоҡлайманылар they spept
+мин  йоҡламаным   I    slept
+һин  йоҡламаның   you  slept
+ул   йоҡламаны    he   spept
+беҙ  йоҡламаныҡ   we   spept
+һеҙ  йоҡламанығыҙ you  spept
+улар йоҡламанылар they spept
 
-мин  йоҡлайғанмын   I    have slept
-һин  йоҡлайғанһың   you  have slept
-ул   йоҡлайған      he   has  slept
-беҙ  йоҡлайғанбыҙ   we   have slept
-һеҙ  йоҡлайғанһығыҙ you  have slept
-улар йоҡлайғандар   they have slept
+мин  йоҡлағанмын   I    have slept
+һин  йоҡлағанһың   you  have slept
+ул   йоҡлаған      he   has  slept
+беҙ  йоҡлағанбыҙ   we   have slept
+һеҙ  йоҡлағанһығыҙ you  have slept
+улар йоҡлағандар   they have slept
 
-мин  йоҡлаймағанмын   I    haven't 
-һин  йоҡлаймағанһың   you  haven't 
-ул   йоҡлаймаған      he   hasn't  
-беҙ  йоҡлаймағанбыҙ   we   haven't 
-һеҙ  йоҡлаймағанһығыҙ you  haven't 
-улар йоҡлаймағандар   they haven't
+мин  йоҡламағанмын   I    haven't 
+һин  йоҡламағанһың   you  haven't 
+ул   йоҡламаған      he   hasn't  
+беҙ  йоҡламағанбыҙ   we   haven't 
+һеҙ  йоҡламағанһығыҙ you  haven't 
+улар йоҡламағандар   they haven't
 
 
 
-мин  йоҡлайырмын   I    would sleep
-һин  йоҡлайырһың   you  would sleep
-ул   йоҡлайыр      he   would sleep
-беҙ  йоҡлайырбыҙ   we   would sleep
-һеҙ  йоҡлайырһығыҙ you  would sleep
-улар йоҡлайырҙар   they would sleep
+мин  йоҡлармын   I    would sleep
+һин  йоҡларһың   you  would sleep
+ул   йоҡлар      he   would sleep
+беҙ  йоҡларбыҙ   we   would sleep
+һеҙ  йоҡларһығыҙ you  would sleep
+улар йоҡларҙар   they would sleep
 
-мин  йоҡлаймәҫмен   I    wouldn't sleep
-һин  йоҡлаймәҫһең   you  wouldn't sleep
-ул   йоҡлаймәҫ      he   wouldn't sleep
-беҙ  йоҡлаймәҫбеҙ   we   wouldn't sleep
-һеҙ  йоҡлаймәҫһегеҙ you  wouldn't sleep
-улар йоҡлаймәҫтәр   they wouldn't sleep
+мин  йоҡламәҫмен   I    wouldn't sleep
+һин  йоҡламәҫһең   you  wouldn't sleep
+ул   йоҡламәҫ      he   wouldn't sleep
+беҙ  йоҡламәҫбеҙ   we   wouldn't sleep
+һеҙ  йоҡламәҫһегеҙ you  wouldn't sleep
+улар йоҡламәҫтәр   they wouldn't sleep
 
 мин  йоҡлаясакмын   I    will sleep
 һин  йоҡлаясакһың   you  will sleep
@@ -63,26 +63,26 @@
 һеҙ  йоҡлаясакһығыҙ you  will sleep
 улар йоҡлаясактар   they will sleep
 
-мин  йоҡлаймаясакмын   I    willn't sleep
-һин  йоҡлаймаясакһың   you  willn't sleep
-ул   йоҡлаймаясак      he   willn't sleep
-беҙ  йоҡлаймаясакбыҙ   we   willn't sleep
-һеҙ  йоҡлаймаясакһығыҙ you  willn't sleep
-улар йоҡлаймаясактар   they willn't sleep
+мин  йоҡламаясамын   I    'll not sleep
+һин  йоҡламаясаһың   you  'll not sleep
+ул   йоҡламаяса      he   'll not sleep
+беҙ  йоҡламаясабыҙ   we   'll not sleep
+һеҙ  йоҡламаясаһығыҙ you  'll not sleep
+улар йоҡламаясатар   they 'll not sleep
 
-мин  йоҡлайһам   if I    will sleep
-һин  йоҡлайһаң   if you  will sleep
-ул   йоҡлайһа    if we   will sleep
-беҙ  йоҡлайһаҡ   if he   will sleep
-һеҙ  йоҡлайһағыҙ if you  will sleep
-улар йоҡлайһалар if they will sleep
+мин  йоҡлаһам   if I    will sleep
+һин  йоҡлаһаң   if you  will sleep
+ул   йоҡлаһа    if we   will sleep
+беҙ  йоҡлаһаҡ   if he   will sleep
+һеҙ  йоҡлаһағыҙ if you  will sleep
+улар йоҡлаһалар if they will sleep
 
-мин  йоҡлайғым    килә I    want  to sleep
-һин  йоҡлайғың    килә you  want  to sleep
-ул   йоҡлайғыһы   килә he   wants to sleep
-беҙ  йоҡлайғыҡ    килә we   want  to sleep
-һеҙ  йоҡлайғығыҙ  килә you  want  to sleep
-улар йоҡлайғылары килә they want  to sleep
+мин  йоҡлағым    килә I    want  to sleep
+һин  йоҡлағың    килә you  want  to sleep
+ул   йоҡлағыһы   килә he   wants to sleep
+беҙ  йоҡлағыҡ    килә we   want  to sleep
+һеҙ  йоҡлағығыҙ  килә you  want  to sleep
+улар йоҡлағылары килә they want  to sleep
 
 
 
