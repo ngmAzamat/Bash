@@ -23,12 +23,12 @@
 
 
 
-мин  халманым   I    haven't put
-һин  халманың   you  haven't put
-ул   халманы    he   hasn't  put
-беҙ  халманыҡ   we   haven't put
-һеҙ  халманығыҙ you  haven't put
-улар халманылар they haven't put
+мин  алманым   I    haven't put
+һин  алманың   you  haven't put
+ул   алманы    he   hasn't  put
+беҙ  алманыҡ   we   haven't put
+һеҙ  алманығыҙ you  haven't put
+улар алманылар they haven't put
 
 
 мин  һалғанмын   I    have put
@@ -45,30 +45,30 @@
 һеҙ  һалмағанһығыҙ you  haven't put
 улар һалмағандар   they haven't put
 
-мин  халырмын   I    would put
-һин  халырһың   you  would put
-ул   халыр      he   would put
-быҙ  халырбыҙ   we   would put
-һыҙ  халырһығыҙ you  would put
-улар халырҙар   they would put
+мин  алырмын   I    would put
+һин  алырһың   you  would put
+ул   алыр      he   would put
+быҙ  алырбыҙ   we   would put
+һыҙ  алырһығыҙ you  would put
+улар алырҙар   they would put
 
-мин  халмаҫмен   I    wouldn't put
-һин  халмаҫһең   you  wouldn't put
-ул   халмаҫ      he   wouldn't put
-беҙ  халмаҫбыҙ   we   wouldn't put
-һеҙ  халмаҫһығыҙ you  wouldn't put
-улар халмаҫтар   they wouldn't put
-
-
+мин  алмаҫмен   I    wouldn't put
+һин  алмаҫһең   you  wouldn't put
+ул   алмаҫ      he   wouldn't put
+беҙ  алмаҫбыҙ   we   wouldn't put
+һеҙ  алмаҫһығыҙ you  wouldn't put
+улар алмаҫтар   they wouldn't put
 
 
 
-мин  халасакмын   I    will put
-һин  халасакһың   you  will put
-ул   халасак      he   will put
-беҙ  халасакбыҙ   we   will put
-һеҙ  халасакһығыҙ you  will put
-улар халасактар   they will put
+
+
+мин  аласакмын   I    will put
+һин  аласакһың   you  will put
+ул   аласак      he   will put
+беҙ  аласакбыҙ   we   will put
+һеҙ  аласакһығыҙ you  will put
+улар аласактар   they will put
 
 мин  һалмаясакмын   I    won't put
 һин  һалмаясакһың   you  won't put
