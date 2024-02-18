@@ -49,19 +49,19 @@
 һеҙ  йоҡларһығыҙ you  would sleep
 улар йоҡларҙар   they would sleep
 
-мин  йоҡламәҫмен   I    wouldn't sleep
-һин  йоҡламәҫһең   you  wouldn't sleep
-ул   йоҡламәҫ      he   wouldn't sleep
-беҙ  йоҡламәҫбеҙ   we   wouldn't sleep
-һеҙ  йоҡламәҫһегеҙ you  wouldn't sleep
-улар йоҡламәҫтәр   they wouldn't sleep
+мин  йоҡламаҫмын   I    wouldn't sleep
+һин  йоҡламаҫһың   you  wouldn't sleep
+ул   йоҡламаҫ      he   wouldn't sleep
+беҙ  йоҡламаҫбыҙ   we   wouldn't sleep
+һеҙ  йоҡламаҫһыгыҙ you  wouldn't sleep
+улар йоҡламаҫтар   they wouldn't sleep
 
-мин  йоҡлаясакмын   I    will sleep
-һин  йоҡлаясакһың   you  will sleep
-ул   йоҡлаясак      he   will sleep
-беҙ  йоҡлаясакбыҙ   we   will sleep
-һеҙ  йоҡлаясакһығыҙ you  will sleep
-улар йоҡлаясактар   they will sleep
+мин  йоҡлаясаҡмын   I    will sleep
+һин  йоҡлаясаҡһың   you  will sleep
+ул   йоҡлаясаҡ      he   will sleep
+беҙ  йоҡлаясаҡбыҙ   we   will sleep
+һеҙ  йоҡлаясаҡһығыҙ you  will sleep
+улар йоҡлаясаҡтар   they will sleep
 
 мин  йоҡламаясаҡмын   I    'll not sleep
 һин  йоҡламаясаҡһың   you  'll not sleep
