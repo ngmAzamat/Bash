@@ -30,19 +30,19 @@
 улар османылар they have not flown
 
 
-мин  о I    have flown
-һин  о you  have flown
-ул   о he   has  flown
-беҙ  о we   have flown
-һеҙ  о you  have flown
-улар о they have flown
+мин  осҡанмын   I    have flown
+һин  осҡанһың   you  have flown
+ул   осҡан      he   has  flown
+беҙ  осҡанбыҙ   we   have flown
+һеҙ  осҡанһығыҙ you  have flown
+улар осҡандар   they have flown
 
-мин  I    have not flown
-һин  you  have not flown
-ул   he   has  not flown
-беҙ  we   have not flown
-һеҙ  you  have not flown
-улар they have not flown
+мин  осмағанмын   I    have not flown
+һин  осмағанһың   you  have not flown
+ул   осмаған      he   has  not flown
+беҙ  осмағанбыҙ   we   have not flown
+һеҙ  осмағанһығыҙ you  have not flown
+улар осмағандар   they have not flown
 
 
 мин  осормон   I    would fly
@@ -52,26 +52,26 @@
 һеҙ  осорһоғоҙ you  would fly
 улар осорҙар   they would fly
 
-мин  осмаҫ I    wouldn't fly
-һин  осмаҫ you  wouldn't fly
-ул   осмаҫ he   wouldn't fly
-беҙ  осмаҫ we   wouldn't fly
-һеҙ  осмаҫ you  wouldn't fly
-улар осмаҫ they wouldn't fly
+мин  осмаҫмын   I    wouldn't fly
+һин  осмаҫһың   you  wouldn't fly
+ул   осмаҫ      he   wouldn't fly
+беҙ  осмаҫбыҙ   we   wouldn't fly
+һеҙ  осмаҫһығыҙ you  wouldn't fly
+улар осмаҫтар   they wouldn't fly
 
-мин  осасакмын   I    will fly
-һин  осасакһың   you  will fly
-ул   осасак      he   will fly
-беҙ  осасакбыҙ   we   will fly
-һеҙ  осасакһығыҙ you  will fly
-улар осасактар   they will fly
+мин  осасаҡмын   I    will fly
+һин  осасаҡһың   you  will fly
+ул   осасаҡ      he   will fly
+беҙ  осасаҡбыҙ   we   will fly
+һеҙ  осасаҡһығыҙ you  will fly
+улар осасаҡтар   they will fly
 
-мин  осмаясакмын    I    won't fly
-һин  осмаясакһың    you  won't fly
-ул   осмаясак       he   won't fly
-беҙ  осмаясакбыҙ    we   won't fly
-һеҙ  осмаясакһығыҙ  you  won't fly
-улар осмаясактар    they won't fly
+мин  осмаясаҡмын    I    won't fly
+һин  осмаясаҡһың    you  won't fly
+ул   осмаясаҡ       he   won't fly
+беҙ  осмаясаҡбыҙ    we   won't fly
+һеҙ  осмаясаҡһығыҙ  you  won't fly
+улар осмаясаҡтар    they won't fly
 
 
 
