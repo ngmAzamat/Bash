@@ -1,13 +1,13 @@
-мин  эсәм     I    drinking
-һин  эсәһең   you  drinking
-ул   эсә      he   drinking
-беҙ  эсәбеҙ   we   drinking
-һеҙ  эсәһегеҙ you  drinking
-улар эсәләр   they drinking
+мин  эсәм     I    am  drinking
+һин  эсәһең   you  are drinking
+ул   эсә      he   is  drinking
+беҙ  эсәбеҙ   we   are drinking
+һеҙ  эсәһегеҙ you  are drinking
+улар эсәләр   they are drinking
 
 мин  эсмәйем    I    do not drink
 һин  эсмәйһең   you  do not drink
-ул   эсмәй      he   do not drink
+ул   эсмәй      he   does not drink
 беҙ  эсмәйбеҙ   we   do not drink
 һеҙ  эсмәйһегеҙ you  do not drink
 улар эсмәйҙәр   they do not drink
@@ -66,12 +66,12 @@
 һеҙ  эсәсәкһегеҙ you  will drink
 улар эсәсәктәр   they will drink
 
-мин  эсмәйәсәкмен   I    willn't drink
-һин  эсмәйәсәкһең   you  willn't drink
-ул   эсмәйәсәк      he   willn't drink
-беҙ  эсмәйәсәкбеҙ   we   willn't drink
-һеҙ  эсмәйәсәкһегеҙ you  willn't drink
-улар эсмәйәсәктәр   they willn't drink
+мин  эсмәйәсәкмен   I    won't drink
+һин  эсмәйәсәкһең   you  won't drink
+ул   эсмәйәсәк      he   won't drink
+беҙ  эсмәйәсәкбеҙ   we   won't drink
+һеҙ  эсмәйәсәкһегеҙ you  won't drink
+улар эсмәйәсәктәр   they won't drink
 
 мин  эсһәм   if I    will drink
 һин  эсһәң   if you  will drink
@@ -82,7 +82,7 @@
 
 мин  эскем    I    want to drink
 һин  эскең    you  want to drink
-ул   эске     he   want to drink
+ул   эске     he   wants to drink
 беҙ  эскек    we   want to drink
 һеҙ  эскегеҙ  you  want to drink
 улар эскеләре they want to drink
