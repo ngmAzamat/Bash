@@ -59,19 +59,19 @@
 һеҙ  тоймаҫһығыҙ you  wouldn't feel
 улар тоймаҫтар   they wouldn't feel
 
-мин  тоясаҡмын   I    will feel
-һин  тосаҡһың   you  will feel
-ул   тоясаҡ      he   will feel
-беҙ  тоясаҡбыҙ   we   will feel
-һеҙ  тоясаҡһығыҙ you  will feel
-улар тоясаҡтар   they will feel
+мин  тойясаҡмын   I    will feel
+һин  тойсаҡһың   you  will feel
+ул   тойясаҡ      he   will feel
+беҙ  тойясаҡбыҙ   we   will feel
+һеҙ  тойясаҡһығыҙ you  will feel
+улар тойясаҡтар   they will feel
 
-мин  тотмаясаҡмын   I    willn't feel
-һин  тотмаясаҡһың   you  willn't feel
-ул   тотмаясаҡ      he   willn't feel
-беҙ  тотмаясаҡбыҙ   we   willn't feel
-һеҙ  тотмаясаҡһығыҙ you  willn't feel
-улар тотмаясаҡтар   they willn't feel
+мин  тоймаясаҡмын   I    willn't feel
+һин  тоймаясаҡһың   you  willn't feel
+ул   тоймаясаҡ      he   willn't feel
+беҙ  тоймаясаҡбыҙ   we   willn't feel
+һеҙ  тоймаясаҡһығыҙ you  willn't feel
+улар тоймаясаҡтар   they willn't feel
 
 мин  тойһам   if I    will feel
 һин  тойһаң   if you  will feel
