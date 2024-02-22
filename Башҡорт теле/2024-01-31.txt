@@ -1,9 +1,9 @@
-мин  тешләйем    I    am  biting
-һин  тешләйһең   you  are biting
-ул   тешләй      he   is  biting
-беҙ  тешләйбеҙ   we   are biting
-һеҙ  тешләйһегеҙ you  are biting
-улар тешләйҙәр   they are biting
+мин  тешләйем    I    am  bitting
+һин  тешләйһең   you  are bitting
+ул   тешләй      he   is  bitting
+беҙ  тешләйбеҙ   we   are bitting
+һеҙ  тешләйһегеҙ you  are bitting
+улар тешләйҙәр   they are bitting
 
 мин  тешләмәйем    I    don't bite
 һин  тешләмәйһең   you  don't bite
@@ -12,20 +12,20 @@
 һеҙ  тешләмәйһегеҙ you  don't bite
 улар тешләмәйҙәр   they don't bite
 
-мин  тешләнем   I    have bitte
-һин  тешләнең   you  have bitte
-ул   тешләне    he   has  bitte
-беҙ  тешләнек   we   have bitte
-һеҙ  тешләнегеҙ you  have bitte
-улар тешләнеләр they have bitte
+мин  тешләнем   I    have bitten
+һин  тешләнең   you  have bitten
+ул   тешләне    he   has  bitten
+беҙ  тешләнек   we   have bitten
+һеҙ  тешләнегеҙ you  have bitten
+улар тешләнеләр they have bitten
 
 
-мин  тешләмәнем   I    have not bit
-һин  тешләмәнең   you  have not bit
-ул   тешләмәне    he   has  not bit
-беҙ  тешләмәнек   we   have not bit
-һеҙ  тешләмәнегеҙ you  have not bit
-улар тешләмәнеләр they have not bit
+мин  тешләмәнем   I    have not bitten
+һин  тешләмәнең   you  have not bitten
+ул   тешләмәне    he   has  not bitten
+беҙ  тешләмәнек   we   have not bitten
+һеҙ  тешләмәнегеҙ you  have not bitten
+улар тешләмәнеләр they have not bitten
 
 мин  тешләгәнмен   I    have bitten
 һин  тешләгәнһең   you  have bitten
@@ -62,12 +62,12 @@
 һеҙ  тешләйәсәкһегеҙ you  will bite
 улар тешләйәсәктәр   they will bite
 
-мин  тешләмәйәсәкмен   I    willn't bite
-һин  тешләмәйәсәкһең   you  willn't bite
-ул   тешләмәйәсәк      he   willn't bite
-беҙ  тешләмәйәсәкбеҙ   we   willn't bite
-һеҙ  тешләмәйәсәкһегеҙ you  willn't bite
-улар тешләмәйәсәктәр   they willn't bite
+мин  тешләмәйәсәкмен   I    'll not bite
+һин  тешләмәйәсәкһең   you  'll not bite
+ул   тешләмәйәсәк      he   'll not bite
+беҙ  тешләмәйәсәкбеҙ   we   'll not bite
+һеҙ  тешләмәйәсәкһегеҙ you  'll not bite
+улар тешләмәйәсәктәр   they 'll not bite
 
 мин  тешләһәм   if I    will bite
 һин  тешләһәң   if you  will bite

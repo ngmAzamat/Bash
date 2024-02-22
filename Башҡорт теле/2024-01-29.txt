@@ -1,30 +1,30 @@
-мин  уйла I    am  thinking
-һин  уйла you  are thinking
-ул   уйла he   is  thinking
-беҙ  уйла we   are thinking
-һеҙ  уйла you  are thinking
-улар уйла they are thinking
+мин  уйлайым    I    am  thinking
+һин  уйлайһың   you  are thinking
+ул   уйлай      he   is  thinking
+беҙ  уйлайбыҙ   we   are thinking
+һеҙ  уйлайһығыҙ you  are thinking
+улар уйлайҙар   they are thinking
 
-мин  уйла I    don't think
-һин  уйла you  don't think
-ул   уйла he   does't think
-беҙ  уйла we   don't think
-һеҙ  уйла you  don't think
-улар уйла they don't think
+мин  уйламайым    I    don't think
+һин  уйламайһың   you  don't think
+ул   уйламай      he   does't think
+беҙ  уйламайбыҙ   we   don't think
+һеҙ  уйламайһығыҙ you  don't think
+улар уйламайҙар   they don't think
 
-мин  уйла I    have think
-һин  уйла you  have think
-ул   уйла he   has  think
-беҙ  уйла we   have think
-һеҙ  уйла you  have think
-улар уйла they have think
+мин  уйланым   I    have think
+һин  уйланың   you  have think
+ул   уйланы    he   has  think
+беҙ  уйланыҡ   we   have think
+һеҙ  уйланығыҙ you  have think
+улар уйланылар they have think
 
-мин  уйла I    haven't think
-һин  уйла you  haven't think
-ул   уйла he   hasn't think
-беҙ  уйла we   haven't think
-һеҙ  уйла you  haven't think
-улар уйла they haven't think
+мин  уйламаным   I    haven't think
+һин  уйламаның   you  haven't think
+ул   уйламаны    he   hasn't think
+беҙ  уйламаныҡ   we   haven't think
+һеҙ  уйламанығыҙ you  haven't think
+улар уйламанылар they haven't think
 
 мин  уйлағанмын   I    have think
 һин  уйлағанһың   you  have think
@@ -41,12 +41,12 @@
 һеҙ  уйламағанһығыҙ you  have not think
 улар уйламағандар   they have not think
 
-мин  улайырмын   I    would think
-һин  улайырһың   you  would think
-ул   улайыр      he   would think
-беҙ  улайырбыҙ   we   would think
-һеҙ  улайырһығыҙ you  would think
-улар улайырҙар   they would think
+мин  уйлармын   I    would think
+һин  уйларһың   you  would think
+ул   уйлар      he   would think
+беҙ  уйларбыҙ   we   would think
+һеҙ  уйларһығыҙ you  would think
+улар уйларҙар   they would think
 
 мин  улаймаҫмын   I    wouldn't think
 һин  улаймаҫһың   you  wouldn't think
@@ -55,19 +55,19 @@
 һеҙ  улаймаҫһығыҙ you  wouldn't think
 улар улаймаҫтар   they wouldn't think
 
-мин  улаясакмын   I    will think
-һин  улаясакһың   you  will think
-ул   улаясак      he   will think
-беҙ  улаясакбыҙ   we   will think
-һеҙ  улаясакһығыҙ you  will think
-улар улаясактар   they will think
+мин  улаясаҡмын   I    will think
+һин  улаясаҡһың   you  will think
+ул   улаясаҡ      he   will think
+беҙ  улаясаҡбыҙ   we   will think
+һеҙ  улаясаҡһығыҙ you  will think
+улар улаясаҡтар   they will think
 
-мин  улаймаясакмын   I    willn't think
-һин  улаймаясакһың   you  willn't think
-ул   улаймаясак      he   willn't think
-беҙ  улаймаясакбыҙ   we   willn't think
-һеҙ  улаймаясакһығыҙ you  willn't think
-улар улаймаясактар   they willn't think
+мин  улаймаясаҡмын   I    won't think
+һин  улаймаясаҡһың   you  won't think
+ул   улаймаясаҡ      he   won't think
+беҙ  улаймаясаҡбыҙ   we   won't think
+һеҙ  улаймаясаҡһығыҙ you  won't think
+улар улаймаясаҡтар   they won't think
 
 мин  улайһам   if I    will think
 һин  улайһаң   if you  will think
