@@ -1,48 +1,48 @@
 
-мин  осам     I    am  fling
-һин  осаһың   you  are fling
-ул   оса      he   is  fling
-беҙ  осабыҙ   we   are fling
-һеҙ  осаһығыҙ you  are fling
-улар осалар   they are fling
+мин  осам     I    am  flying
+һин  осаһың   you  are flying
+ул   оса      he   is  flying
+беҙ  осабыҙ   we   are flying
+һеҙ  осаһығыҙ you  are flying
+улар осалар   they are flying
 
 мин  осмайым    I    do not fly
 һин  осмайһың   you  do not fly
-ул   осмай      he   do not fly
+ул   осмай      he   does not fly
 беҙ  осмайбыҙ   we   do not fly
 һеҙ  осмайһығыҙ you  do not fly
 улар осмайҙар   they do not fly
 
 
 
-мин  остом   I    have fly
-һин  остоң   you  have fly
-ул   осто    he   has  fly
-беҙ  остоҡ   we   have fly
-һеҙ  остоғоҙ you  have fly
-улар остолар they have fly
+мин  остом   I    have flown
+һин  остоң   you  have flown
+ул   осто    he   has  flown
+беҙ  остоҡ   we   have flown
+һеҙ  остоғоҙ you  have flown
+улар остолар they have flown
 
-мин  османым   I    have not fl
-һин  османың   you  have not fl
-ул   османы    he   has  not fl
-беҙ  османыҡ   we   have not fl
-һеҙ  османығыҙ you  have not fl
-улар османылар they have not fl
+мин  османым   I    have not flown
+һин  османың   you  have not flown
+ул   османы    he   has  not flown
+беҙ  османыҡ   we   have not flown
+һеҙ  османығыҙ you  have not flown
+улар османылар they have not flown
 
 
-мин  о I    have fl
-һин  о you  have fl
-ул   о he   has  fl
-беҙ  о we   have fl
-һеҙ  о you  have fl
-улар о they have fl
+мин  о I    have flown
+һин  о you  have flown
+ул   о he   has  flown
+беҙ  о we   have flown
+һеҙ  о you  have flown
+улар о they have flown
 
-мин  I    have not fl
-һин  you  have not fl
-ул   he   has  not fl
-беҙ  we   have not fl
-һеҙ  you  have not fl
-улар they have not fl
+мин  I    have not flown
+һин  you  have not flown
+ул   he   has  not flown
+беҙ  we   have not flown
+һеҙ  you  have not flown
+улар they have not flown
 
 
 мин  осормон   I    would fly
@@ -66,12 +66,12 @@
 һеҙ  осасакһығыҙ you  will fly
 улар осасактар   they will fly
 
-мин  осмаясакмын    I    willn't fly
-һин  осмаясакһың    you  willn't fly
-ул   осмаясак       he   willn't fly
-беҙ  осмаясакбыҙ    we   willn't fly
-һеҙ  осмаясакһығыҙ  you  willn't fly
-улар осмаясактар    they willn't fly
+мин  осмаясакмын    I    won't fly
+һин  осмаясакһың    you  won't fly
+ул   осмаясак       he   won't fly
+беҙ  осмаясакбыҙ    we   won't fly
+һеҙ  осмаясакһығыҙ  you  won't fly
+улар осмаясактар    they won't fly
 
 
 
@@ -84,7 +84,7 @@
 
 мин  осҡым    килә I    want to fly
 һин  осҡың    килә you  want to fly
-ул   осҡыһы   килә he   want to fly
+ул   осҡыһы   килә he   wants to fly
 беҙ  осҡыҡ    килә we   want to fly
 һеҙ  осҡығыҙ  килә you  want to fly
 улар осҡылары килә they want to fly
