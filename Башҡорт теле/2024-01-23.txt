@@ -5,44 +5,44 @@
 һеҙ  онотаһығыҙ you  are forgeting
 улар оноталар   they are forgeting
 
-мин  онотмай I    do   not forget
-һин  онотмай you  do   not forget
-ул   онотмай he   does not forget
-беҙ  онотмай we   do   not forget
-һеҙ  онотмай you  do   not forget
-улар онотмай they do   not forget
+мин  онотмайым    I    do   not forget
+һин  онотмайһың   you  do   not forget
+ул   онотмай      he   does not forget
+беҙ  онотмайбыҙ   we   do   not forget
+һеҙ  онотмайһығыҙ you  do   not forget
+улар онотмайҙар   they do   not forget
 
 
-мин  оноттом   I    have forgot
-һин  оноттоң   you  have forgot
-ул   онотто    he   has  forgot
-беҙ  оноттоҡ   we   have forgot
-һеҙ  оноттоғоҙ you  have forgot
-улар оноттолар they have forgot
+мин  оноттом   I    have forgotten
+һин  оноттоң   you  have forgotten
+ул   онотто    he   has  forgotten
+беҙ  оноттоҡ   we   have forgotten
+һеҙ  оноттоғоҙ you  have forgotten
+улар оноттолар they have forgotten
 
-мин  онотманым   I    have not forgot
-һин  онотманың   you  have not forgot
-ул   онотманы    he   has  not forgot
-беҙ  онотманыҡ   we   have not forgot
-һеҙ  онотманығоҙ you  have not forgot
-улар онотманылар they have not forgot
-
-
-мин  онотҡанмын   I    have forgot
-һин  онотҡанһың   you  have forgot
-ул   онотҡан      he   has  forgot
-беҙ  онотҡанбыҙ   we   have forgot
-һеҙ  онотҡанһығыҙ you  have forgot
-улар онотҡандар   they have forgot
+мин  онотманым   I    have not forgotten
+һин  онотманың   you  have not forgotten
+ул   онотманы    he   has  not forgotten
+беҙ  онотманыҡ   we   have not forgotten
+һеҙ  онотманығыҙ you  have not forgotten
+улар онотманылар they have not forgotten
 
 
+мин  онотҡанмын   I    have forgotten
+һин  онотҡанһың   you  have forgotten
+ул   онотҡан      he   has  forgotten
+беҙ  онотҡанбыҙ   we   have forgotten
+һеҙ  онотҡанһығыҙ you  have forgotten
+улар онотҡандар   they have forgotten
 
-мин  онотмағанмын   I    have not forgot
-һин  онотмағанһың   you  have not forgot
-ул   онотмаған      he   has  not forgot
-беҙ  онотмағанбыҙ   we   have not forgot
-һеҙ  онотмағанһығыҙ you  have not forgot
-улар онотмағандар   they have not forgot
+
+
+мин  онотмағанмын   I    have not forgotten
+һин  онотмағанһың   you  have not forgotten
+ул   онотмаған      he   has  not forgotten
+беҙ  онотмағанбыҙ   we   have not forgotten
+һеҙ  онотмағанһығыҙ you  have not forgotten
+улар онотмағандар   they have not forgotten
 
 мин  онотормон   I    would forget
 һин  оноторһоң   you  would forget

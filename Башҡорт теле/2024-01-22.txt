@@ -14,35 +14,35 @@
 
 
 
-мин  эстем   I    have drink
-һин  эстең   you  have drink
-ул   эсте    he   has  drink
-беҙ  эстек   we   have drink
+мин  эстем   I    have drunk
+һин  эстең   you  have drunk
+ул   эсте    he   has  drunk
+беҙ  эстек   we   have drunk
 һеҙ  эстегеҙ you  have drink
 улар эстеләр they have drink
 
-мин  эсмәнем   I    have not drink
-һин  эсмәнең   you  have not drink
-ул   эсмәне    he   has  not drink
-беҙ  эсмәнек   we   have not drink
-һеҙ  эсмәнегеҙ you  have not drink
-улар эсмәнеләр they have not drink
+мин  эсмәнем   I    have not drunk
+һин  эсмәнең   you  have not drunk
+ул   эсмәне    he   has  not drunk
+беҙ  эсмәнек   we   have not drunk
+һеҙ  эсмәнегеҙ you  have not drunk
+улар эсмәнеләр they have not drunk
 
-мин  эскәнмен   I    have drink
-һин  эскәнһең   you  have drink
-ул   эскән      he   has  drink
-беҙ  эскәнбеҙ   we   have drink
-һеҙ  эскәнһегеҙ you  have drink
-улар эскәндәр   they have drink
+мин  эскәнмен   I    have drunk
+һин  эскәнһең   you  have drunk
+ул   эскән      he   has  drunk
+беҙ  эскәнбеҙ   we   have drunk
+һеҙ  эскәнһегеҙ you  have drunk
+улар эскәндәр   they have drunk
 
 
 
-мин  эсмәгәнмен   I    have not drink
-һин  эсмәгәнһең   you  have not drink
-ул   эсмәгән      he   has  not drink
-беҙ  эсмәгәнбеҙ   we   have not drink
-һеҙ  эсмәгәнһегеҙ you  have not drink
-улар эсмәгәндәр   they have not drink
+мин  эсмәгәнмен   I    have not drunk
+һин  эсмәгәнһең   you  have not drunk
+ул   эсмәгән      he   has  not drunk
+беҙ  эсмәгәнбеҙ   we   have not drunk
+һеҙ  эсмәгәнһегеҙ you  have not drunk
+улар эсмәгәндәр   they have not drunk
 
 мин  эсермен   I    would drink
 һин  эсерһең   you  would drink
@@ -82,7 +82,7 @@
 
 мин  эскем    I    want to drink
 һин  эскең    you  want to drink
-ул   эске     he   wants to drink
+ул   эскеһе   he   wants to drink
 беҙ  эскек    we   want to drink
 һеҙ  эскегеҙ  you  want to drink
 улар эскеләре they want to drink
