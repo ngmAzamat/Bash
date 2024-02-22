@@ -42,39 +42,39 @@
 улар килтермәгәндәр   they have not brought
 
 мин  килтерермен   I    would bring
-һин  килтерерһең   you  would brink
-ул   килтерер      he   would brink
-беҙ  килтерербеҙ   we   would brink
-һеҙ  килтерерһегеҙ you  would brink
-улар килтерерҙәр   they would brink
+һин  килтерерһең   you  would bring
+ул   килтерер      he   would bring
+беҙ  килтерербеҙ   we   would bring
+һеҙ  килтерерһегеҙ you  would bring
+улар килтерерҙәр   they would bring
 
-мин  килтермәҫмен   I    wouldn't brink
-һин  килтермәҫһен   you  wouldn't brink
-ул   килтермәҫ      he   wouldn't brink
-беҙ  килтермәҫбеҙ   we   wouldn't brink
-һеҙ  килтермәҫһегеҙ you  wouldn't brink
-улар килтермәҫтәр   they wouldn't brink
+мин  килтермәҫмен   I    wouldn't bring
+һин  килтермәҫһен   you  wouldn't bring
+ул   килтермәҫ      he   wouldn't bring
+беҙ  килтермәҫбеҙ   we   wouldn't bring
+һеҙ  килтермәҫһегеҙ you  wouldn't bring
+улар килтермәҫтәр   they wouldn't bring
 
-мин  килтерәсәкмен   I    will brink
-һин  килтерәсәкһең   you  will brink
-ул   килтерәсәк      he   will brink
-беҙ  килтерәсәкбеҙ   we   will brink
-һеҙ  килтерәсәкһегеҙ you  will brink
-улар килтерәсәктәр   they will brink
+мин  килтерәсәкмен   I    will bring
+һин  килтерәсәкһең   you  will bring
+ул   килтерәсәк      he   will bring
+беҙ  килтерәсәкбеҙ   we   will bring
+һеҙ  килтерәсәкһегеҙ you  will bring
+улар килтерәсәктәр   they will bring
 
-мин  килтермәйәсәкмен   I    won't brink
-һин  килтермәйәсәкһең   you  won't brink
-ул   килтермәйәсәк      he   won't brink
-беҙ  килтермәйәсәкбеҙ   we   won't brink
-һеҙ  килтермәйәсәкһегеҙ you  won't brink
-улар килтермәйәсәктәр   they won't brink
+мин  килтермәйәсәкмен   I    won't bring
+һин  килтермәйәсәкһең   you  won't bring
+ул   килтермәйәсәк      he   won't bring
+беҙ  килтермәйәсәкбеҙ   we   won't bring
+һеҙ  килтермәйәсәкһегеҙ you  won't bring
+улар килтермәйәсәктәр   they won't bring
 
-мин  килтерһәм   if I    will brink
-һин  килтерһәң   if you  will brink
-ул   килтерһә    if he   will brink
-беҙ  килтерһәк   if we   will brink
-һеҙ  килтерһәгеҙ if you  will brink
-улар килтерһәләр if they will brink
+мин  килтерһәм   if I    will bring
+һин  килтерһәң   if you  will bring
+ул   килтерһә    if he   will bring
+беҙ  килтерһәк   if we   will bring
+һеҙ  килтерһәгеҙ if you  will bring
+улар килтерһәләр if they will bring
 
 мин  килтергем   килә I    want to bring
 һин  килтергең   килә you  want to bring
