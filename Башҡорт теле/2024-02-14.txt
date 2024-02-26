@@ -1,0 +1,99 @@
+
+мин  эйтәм     I    am  speaking
+һин  эйтәһең   you  are speaking
+ул   эйтә      he   is  speaking
+беҙ  эйтәбеҙ   we   are speaking
+һеҙ  эйтәһегеҙ you  are speaking
+улар эйтәләр   they are speaking
+
+мин  эйтмәйем    I    don't speak
+һин  эйтмәйһең   you  don't speak
+ул   эйтмәй      he   does't speak
+беҙ  эйтмәйбеҙ   we   don't speak
+һеҙ  эйтмәйһегеҙ you  don't speak
+улар эйтмәйҙәр   they don't speak
+
+мин  эйттем   I    have spoken
+һин  эйттең   you  have spoken
+ул   эйтте    he   has  spoken
+беҙ  эйттек   we   have spoken
+һеҙ  эйттегеҙ you  have spoken
+улар эйттеләр they have spoken
+
+
+мин  эйтмәнем   I    haven't spoken
+һин  эйтмәнең   you  haven't spoken
+ул   эйтмәне    he   hasn't  spoken
+беҙ  эйтмәнек   we   haven't spoken
+һеҙ  эйтмәнегеҙ you  haven't spoken
+улар эйтмәнеләр they haven't spoken
+
+мин  эйткәнмен   I    have spoken
+һин  эйткәнһең   you  have spoken
+ул   эйткән      he   has  spoken
+беҙ  эйткәнбеҙ   we   have spoken
+һеҙ  эйткәнһегеҙ you  have spoken
+улар эйткәндәр   they have spoken
+
+мин  эйтмәгәнмен   I    have spoken
+һин  эйтмәгәнһең   you  have spoken
+ул   эйтмәгән      he   has  spoken
+беҙ  эйтмәгәнбеҙ   we   have spoken
+һеҙ  эйтмәгәнһегеҙ you  have spoken
+улар эйтмәгәндәр   they have spoken
+
+мин  эйтермен   I    would speak
+һин  эйтерһең   you  would speak
+ул   эйтер      he   would speak
+беҙ  эйтербеҙ   we   would speak
+һеҙ  эйтерһегеҙ you  would speak
+улар эйтерҙәр   they would speak
+
+мин  эйтмәҫмен   I    wouldn't speak
+һин  эйтмәҫһең   you  wouldn't speak
+ул   эйтмәҫ      he   wouldn't speak
+беҙ  эйтмәҫбеҙ   we   wouldn't speak
+һеҙ  эйтмәҫһегеҙ you  wouldn't speak
+улар эйтмәҫтәр   they wouldn't speak
+
+мин  эйтәсәкмен   I    will speak
+һин  эйтәсәкһең   you  will speak
+ул   эйтәсәк      he   will speak
+беҙ  эйтәсәкбеҙ   we   will speak
+һеҙ  эйтәсәкһегеҙ you  will speak
+улар эйтәсәкҙәр   they will speak
+
+мин  эйтмәйәсәкмен   I    won't speak
+һин  эйтмәйәсәкһең   you  won't speak
+ул   эйтмәйәсәк      he   won't speak
+беҙ  эйтмәйәсәкбеҙ   we   won't speak
+һеҙ  эйтмәйәсәкһегеҙ you  won't speak
+улар эйтмәйәсәктәр   they won't speak
+
+мин  эйтһәм   if I    will speak
+һин  эйтһәң   if you  will speak
+ул   эйтһә    if he   will speak
+беҙ  эйтһәк   if we   will speak
+һеҙ  эйтһәгеҙ if you  will speak
+улар эйтһәләр if they will speak
+
+мин  эйткем    килә I    want  to speak
+һин  эйткең    килә you  want  to speak
+ул   эйткеһе   килә he   wants to speak
+беҙ  эйткек    килә we   want  to speak
+һеҙ  эйткегеҙ  килә you  want  to speak
+улар эйткеләре килә they want  to speak
+
+
+
+
+
+
+
+
+
+
+
+
+
+

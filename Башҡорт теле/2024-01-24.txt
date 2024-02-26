@@ -67,12 +67,12 @@
 һеҙ  юғалтасакһығыҙ you  will lose
 улар юғалтасактар   they will lose
 
-мин  юғалтмаясакмын   I    willn't lose
-һин  юғалтмаясакһың   you  willn't lose
-ул   юғалтмаясак      he   willn't lose
-беҙ  юғалтмаясакбыҙ   we   willn't lose
-һеҙ  юғалтмаясакһығыҙ you  willn't lose
-улар юғалтмаясактар   they willn't lose
+мин  юғалтмаясакмын   I    'llnot lose
+һин  юғалтмаясакһың   you  'llnot lose
+ул   юғалтмаясак      he   'llnot lose
+беҙ  юғалтмаясакбыҙ   we   'llnot lose
+һеҙ  юғалтмаясакһығыҙ you  'llnot lose
+улар юғалтмаясактар   they 'llnot lose
 
 мин  юғалтһам   if I    will lose
 һин  юғалтһаң   if you  will lose
