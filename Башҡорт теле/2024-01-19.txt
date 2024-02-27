@@ -28,12 +28,12 @@
 һеҙ  башламанығыҙ you  haven't
 улар башламанылар they haven't
 
-мин  башлағанмын   I    have 
-һин  башлағанһың   you  have 
-ул   башлаған      he   has  
-беҙ  башлағанбыҙ   we   have 
-һеҙ  башлағанһығыҙ you  have 
-улар башлағандар   they have 
+мин  башлағанмын   I    have b
+һин  башлағанһың   you  have begun
+ул   башлаған      he   has  be
+беҙ  башлағанбыҙ   we   have be
+һеҙ  башлағанһығыҙ you  have be
+улар башлағандар   they have begun
 
 мин  башламағанмын   I
 һин  башламағанһың   you
@@ -49,12 +49,12 @@
 һыҙ  башларһығыҙ you  would begin
 улар башларҙар   they would begin
 
-мин  башламаҫмын   I    wouldn't b
-һин  башламаҫһың   you  wouldn't b
-ул   башламаҫ      he   wouldn't b
-беҙ  башламаҫбыҙ   we   wouldn't b
-һеҙ  башламаҫһығыҙ you  wouldn't b
-улар башламаҫҙар   they wouldn't b
+мин  башламаҫмын   I    wouldn't begin
+һин  башламаҫһың   you  wouldn't begin
+ул   башламаҫ      he   wouldn't begin
+беҙ  башламаҫбыҙ   we   wouldn't begin
+һеҙ  башламаҫһығыҙ you  wouldn't begin
+улар башламаҫҙар   they wouldn't begin
 
 мин  башлаясак
 һин  башлаясак
