@@ -54,12 +54,12 @@
 төҙөмәйәсәкһегеҙ you  won't build
 төҙөмәйәсәктәр   they won't build
 
-мин  төҙөрм
-һин  төҙөрһ
-ул   төҙөр
-беҙ  төҙөрб
-һеҙ  төҙөрһ
-улар төҙөрҙ
+мин  төҙөрмөн   I    would
+һин  төҙөрһөң   you  would
+ул   төҙөр      he   would
+беҙ  төҙөрбөҙ   we   would
+һеҙ  төҙөрһөгөҙ you  would
+улар төҙөрҙәр   they would
 
 төҙөмәҫмен   I    would build
 төҙөмәҫһең   you  would build
