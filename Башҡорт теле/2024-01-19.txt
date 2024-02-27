@@ -56,12 +56,12 @@
 һеҙ  башламаҫһығыҙ you  wouldn't begin
 улар башламаҫҙар   they wouldn't begin
 
-мин  башлаясакмын   I    will begin
-һин  башлаясакһың   you  will begin
-ул   башлаясак      he   will begin
-беҙ  башлаясакбыҙ   we   will begin
-һеҙ  башлаясакһығыҙ you  will begin
-улар башлаясактар   they will begin
+мин  башлаясаҡмын   I    will begin
+һин  башлаясаҡһың   you  will begin
+ул   башлаясаҡ      he   will begin
+беҙ  башлаясаҡбыҙ   we   will begin
+һеҙ  башлаясаҡһығыҙ you  will begin
+улар башлаясаҡтар   they will begin
 
 мин  башламаясаҡмын   I    won't begin
 һин  башламаясаҡһың   you  won't begin
@@ -79,7 +79,7 @@
 
 мин  башлағым    килә I    want  to begin
 һин  башлағың    килә you  want  to begin
-ул   башлағы     килә he   want  to begin
+ул   башлағыһы   килә he   wants to begin
 беҙ  башлағыҡ    килә we   want  to begin
 һеҙ  башлағығыҙ  килә you  want  to begin
 улар башлағылары килә they want  to begin

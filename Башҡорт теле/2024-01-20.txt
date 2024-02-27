@@ -1,4 +1,4 @@
-мин  төҙөйөм     I    am  building
+мин  төҙөйөм    I    am  building
 һин  төҙөйһөң   you  are building
 ул   төҙөй      he   is  building
 беҙ  төҙөйбөҙ   we   are building
@@ -26,33 +26,33 @@
 һеҙ  төҙөмәнегеҙ you  haven't built
 улар төҙөмәнеләр they haven't built
 
-төҙөгәнмен   I    have built
-төҙөгәнһең   you  have built
-төҙөгән      he   has  built
-төҙөгәнбеҙ   we   have built
-төҙөгәнһегеҙ you  have built
-төҙөгәндәр   they have built
+мин  төҙөгәнмен   I    have built
+һин  төҙөгәнһең   you  have built
+ул   төҙөгән      he   has  built
+беҙ  төҙөгәнбеҙ   we   have built
+һеҙ  төҙөгәнһегеҙ you  have built
+улар төҙөгәндәр   they have built
 
-төҙөмәгәнмен   I    haven't built
-төҙөмәгәнһең   you  haven't built
-төҙөмәгән      he   hasn't  built
-төҙөмәгәнбеҙ   we   haven't built
-төҙөмәгәнһегеҙ you  haven't built
-төҙөмәгәндәр   they haven't built
+мин  төҙөмәгәнмен   I    haven't built
+һин  төҙөмәгәнһең   you  haven't built
+ул   төҙөмәгән      he   hasn't  built
+беҙ  төҙөмәгәнбеҙ   we   haven't built
+һеҙ  төҙөмәгәнһегеҙ you  haven't built
+улар төҙөмәгәндәр   they haven't built
 
-төҙөйәсәкмен   I    will build
-төҙөйәсәкһең   you  will build
-төҙөйәсәк      we   will build
-төҙөйәсәкбеҙ   he   will build
-төҙөйәсәкһегеҙ you  will build
-төҙөйәсәктәр   they will build
+мин  төҙөйәсәкмен   I    will build
+һин  төҙөйәсәкһең   you  will build
+ул   төҙөйәсәк      we   will build
+беҙ  төҙөйәсәкбеҙ   he   will build
+һеҙ  төҙөйәсәкһегеҙ you  will build
+улар төҙөйәсәктәр   they will build
 
-төҙөмәйәсәкмен   I    won't build
-төҙөмәйәсәкһең   you  won't build
-төҙөмәйәсәк      we   won't build
-төҙөмәйәсәкбеҙ   he   won't build
-төҙөмәйәсәкһегеҙ you  won't build
-төҙөмәйәсәктәр   they won't build
+мин  төҙөмәйәсәкмен   I    won't build
+һин  төҙөмәйәсәкһең   you  won't build
+ул   төҙөмәйәсәк      we   won't build
+беҙ  төҙөмәйәсәкбеҙ   he   won't build
+һеҙ  төҙөмәйәсәкһегеҙ you  won't build
+улар төҙөмәйәсәктәр   they won't build
 
 мин  төҙөрмөн   I    would build
 һин  төҙөрһөң   you  would build
@@ -64,9 +64,9 @@
 мин  төҙөмәҫмен   I    would build
 һин  төҙөмәҫһең   you  would build
 ул   төҙөмәҫ      he   would build
-төҙөмәҫбеҙ   we   would build
-төҙөмәҫһегеҙ you  would build
-төҙөмәҫтәр   they would build
+беҙ  төҙөмәҫбеҙ   we   would build
+һеҙ  төҙөмәҫһегеҙ you  would build
+улар төҙөмәҫтәр   they would build
 
 мин  төҙөһәм   if I    will build
 һин  төҙөһәң   if you  will build

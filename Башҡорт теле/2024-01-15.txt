@@ -59,12 +59,12 @@ take
 
 
 
-мин  аласакмын   I    
-һин  аласакһың   you  
-ул   аласак      he   
-беҙ  аласакбыҙ   we   
-һеҙ  аласакһығыҙ you  
-улар аласактар   they 
+мин  аласакмын   I    will take
+һин  аласакһың   you  will take
+ул   аласак      he   will take
+беҙ  аласакбыҙ   we   will take
+һеҙ  аласакһығыҙ you  will take
+улар аласактар   they will take
 
 мин  алмаясакмын   I    will not take
 һин  алмаясакһың   you  will not take
