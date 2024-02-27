@@ -6,12 +6,12 @@ broken
 һеҙ  ватаһығыҙ you  are break
 улар ваталар   they are break
 
-мин  ватмайым    I    break
-һин  ватмайһың   you  break
-ул   ватмай      he   break
-беҙ  ватмайбыҙ   we   break
-һеҙ  ватмайһығыҙ you  break
-улар ватмайҙар   they break
+мин  ватмайым    I    don't break
+һин  ватмайһың   you  don't break
+ул   ватмай      he   don't break
+беҙ  ватмайбыҙ   we   don't break
+һеҙ  ватмайһығыҙ you  don't break
+улар ватмайҙар   they don't break
 
 мин  ваттым    I    have broken
 һин  ваттың    you  have broken
@@ -40,12 +40,12 @@ broken
 
 
 
-мин  ватмағанмын   I   have not broken
-һин  ватмағанһың   you have not broken
-ул   ватмаған      he  have not broken
-беҙ  ватмағанбыҙ   we  not broken
-һеҙ  ватмағанһығыҙ you  not broken
-улар ватмағандар   they not broken
+мин  ватмағанмын   I    have not broken
+һин  ватмағанһың   you  have not broken
+ул   ватмаған      he   has  not broken
+беҙ  ватмағанбыҙ   we   have not broken
+һеҙ  ватмағанһығыҙ you  have not broken
+улар ватмағандар   they have not broken
 
 мин  ватырмын   I    break
 һин  ватырһың   you  break
