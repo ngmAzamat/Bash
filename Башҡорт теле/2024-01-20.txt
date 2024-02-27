@@ -61,23 +61,23 @@
 һеҙ  төҙөрһөгөҙ you  would build
 улар төҙөрҙәр   they would build
 
-төҙөмәҫмен   I    would build
-төҙөмәҫһең   you  would build
-төҙөмәҫ      he   would build
+мин  төҙөмәҫмен   I    would build
+һин  төҙөмәҫһең   you  would build
+ул   төҙөмәҫ      he   would build
 төҙөмәҫбеҙ   we   would build
 төҙөмәҫһегеҙ you  would build
 төҙөмәҫтәр   they would build
 
-төҙөһәм   if I    will build
-төҙөһәң   if you  will build
-төҙөһә    if he   will build
-төҙөһәк   if we   will build
-төҙөһәгеҙ if you  will build
-төҙөһәләр if they will build
+мин  төҙөһәм   if I    will build
+һин  төҙөһәң   if you  will build
+ул   төҙөһә    if he   will build
+беҙ  төҙөһәк   if we   will build
+һеҙ  төҙөһәгеҙ if you  will build
+улар төҙөһәләр if they will build
 
 төҙөгөм    килә I    want  to build
 төҙөгөң    килә you  want  to build
 төҙөгөһө   килә he   wants to build
 төҙөгөк    килә we   want  to build
 төҙөгөгөҙ  килә you  want  to build
-төҙөгеләре килә they want  to build
+төҙөгөләре килә they want  to build

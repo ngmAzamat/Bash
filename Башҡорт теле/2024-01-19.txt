@@ -3,7 +3,7 @@
 һин   башлайһың    you  are beginning
 ул    башлай       he   is  beginning
 беҙ   башлайбыҙ    we   are beginning
-һеҙ   башлайһығыҙә you  are beginning
+һеҙ   башлайһығыҙ  you  are beginning
 улар  башлайҙар    they are beginning
 
 
@@ -63,19 +63,19 @@
 һеҙ  башлаясакһығыҙ you  will begin
 улар башлаясактар   they will begin
 
-мин  башламаясакмын   I    won't
-һин  башламаясакһың   you  won't
-ул   башламаясак      he   won't
-беҙ  башламаясакбыҙ   we   won't
-һеҙ  башламаясакһығыҙ you  
-улар башламаясактар   they 
+мин  башламаясаҡмын   I    won't begin
+һин  башламаясаҡһың   you  won't begin
+ул   башламаясаҡ      he   won't begin
+беҙ  башламаясаҡбыҙ   we   won't begin
+һеҙ  башламаясаҡһығыҙ you  won't begin
+улар башламаясаҡтар   they won't begin
 
-башлаһам   if I    will begin
-башлаһаң   if you  will begin
-башлаһа    if he   will begin
-башлаһаҡ   if we   will begin
-башлаһағыҙ if you  will begin
-башлаһалар if they will begin
+мин  башлаһам   if I    will begin
+һин  башлаһаң   if you  will begin
+ул   башлаһа    if he   will begin
+беҙ  башлаһаҡ   if we   will begin
+һеҙ  башлаһағыҙ if you  will begin
+улар башлаһалар if they will begin
 
 мин  башлағым    килә I    want  to begin
 һин  башлағың    килә you  want  to begin
