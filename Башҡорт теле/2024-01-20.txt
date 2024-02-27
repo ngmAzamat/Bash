@@ -75,9 +75,9 @@
 төҙөһәгеҙ if you  will build
 төҙөһәләр if they will build
 
-төҙөгем    килә
-төҙөгең    кил
-төҙөгеһе   кил
-төҙөгек    кил
-төҙөгегеҙ  кил
-төҙөгеләре кил
+төҙөгем    килә I    want  to build
+төҙөгең    килә you  want  to build
+төҙөгеһе   килә he   wants to build
+төҙөгек    килә we   want  to build
+төҙөгегеҙ  килә you  want  to build
+төҙөгеләре килә they want  to build

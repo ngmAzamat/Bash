@@ -1,14 +1,14 @@
 broken
-мин  ватам     I    are break
-һин  ватаһың   you  are break
-ул   вата      he   is  break
-беҙ  ватабыҙ   we   are break
-һеҙ  ватаһығыҙ you  are break
-улар ваталар   they are break
+мин  ватам     I    are breaking
+һин  ватаһың   you  are breaking
+ул   вата      he   is  breaking
+беҙ  ватабыҙ   we   are breaking
+һеҙ  ватаһығыҙ you  are breaking
+улар ваталар   they are breaking
 
 мин  ватмайым    I    don't break
 һин  ватмайһың   you  don't break
-ул   ватмай      he   don't break
+ул   ватмай      he   does't break
 беҙ  ватмайбыҙ   we   don't break
 һеҙ  ватмайһығыҙ you  don't break
 улар ватмайҙар   they don't break
@@ -47,12 +47,12 @@ broken
 һеҙ  ватмағанһығыҙ you  have not broken
 улар ватмағандар   they have not broken
 
-мин  ватырмын   I    break
-һин  ватырһың   you  break
-ул   ватыр      he   break
-беҙ  ватырбыҙ   we   break
-һеҙ  ватырһығыҙ you  break
-улар ватырҙар   they break
+мин  ватырмын   I    would break
+һин  ватырһың   you  would break
+ул   ватыр      he   would break
+беҙ  ватырбыҙ   we   would break
+һеҙ  ватырһығыҙ you  would break
+улар ватырҙар   they would break
 
 мин  ватмаҫмын   I    wouldn't break
 һин  ватмаҫһың   you  wouldn't break
@@ -75,18 +75,32 @@ broken
 һеҙ  ватмаясакһығыҙ you  'll not break
 улар ватмаясактар   they 'll not break
 
-мин  ватһам   I    will break
-ул   ватһа    he   will break
-беҙ  ватһаҡ   we   will break
-һеҙ  ватһағыҙ you  will break
-улар ватһалар they will break
+мин  ватһам   if I    will break
+ул   ватһа    if he   will break
+беҙ  ватһаҡ   if we   will break
+һеҙ  ватһағыҙ if you  will break
+улар ватһалар if they will break
 
-мин  ватҡым     килә I
-һин  ватҡың     килә you
-ул   ватҡыһы    килә he
-беҙ  ватҡыҡ     килә we
-һеҙ  ватҡығыҙ   килә you
-улар ватҡылары  килә they
+мин  ватҡым     килә I    want  to break
+һин  ватҡың     килә you  want  to break
+ул   ватҡыһы    килә he   wants to break
+беҙ  ватҡыҡ     килә we   want  to break
+һеҙ  ватҡығыҙ   килә you  want  to break
+улар ватҡылары  килә they want  to break
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
 
 
 
