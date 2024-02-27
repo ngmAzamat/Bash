@@ -19,13 +19,13 @@
 һеҙ  төҙөнөһегеҙ you  have built
 улар төҙөнөләр   they have built
 
-мин  төҙөмәнем   I
-һин  төҙөмәнең   you
-ул   төҙөмәне    he
-беҙ  төҙөмәнек   we
-һеҙ  төҙөмәнегеҙ you
-улар төҙөмәнеләр they
-  
+мин  төҙөмәнем   I    haven't
+һин  төҙөмәнең   you  haven't
+ул   төҙөмәне    he   hasn't
+беҙ  төҙөмәнек   we   haven't
+һеҙ  төҙөмәнегеҙ you  haven't
+улар төҙөмәнеләр they haven't
+
 төҙөгәнмен   I    have built
 төҙөгәнһең   you  have built
 төҙөгән      he   has  built

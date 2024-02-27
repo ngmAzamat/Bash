@@ -13,11 +13,11 @@ broken
 һеҙ  ватмайһығыҙ you  break
 улар ватмайҙар   they break
 
-мин  ваттым    I have broken
-һин  ваттың    you has broken
-ул   ватты     he have broken
-беҙ  ваттыҡ    we have broken
-һеҙ  ваттығыҙ  you have broken
+мин  ваттым    I    have broken
+һин  ваттың    you  have broken
+ул   ватты     he   has  broken
+беҙ  ваттыҡ    we   have broken
+һеҙ  ваттығыҙ  you  have broken
 улар ваттылар  they have broken
 
 
@@ -54,33 +54,32 @@ broken
 һеҙ  ватырһығыҙ you  break
 улар ватырҙар   they break
 
-мин  ватмаҫмын   I    wouldn't
-һин  ватмаҫһың   you  wouldn't
-ул   ватмаҫ      he   wouldn't
-беҙ  ватмаҫбыҙ   we   wouldn't
-һеҙ  ватмаҫһығыҙ you  wouldn't
-улар ватмаҫтар   they wouldn't
+мин  ватмаҫмын   I    wouldn't break
+һин  ватмаҫһың   you  wouldn't break
+ул   ватмаҫ      he   wouldn't break
+беҙ  ватмаҫбыҙ   we   wouldn't break
+һеҙ  ватмаҫһығыҙ you  wouldn't break
+улар ватмаҫтар   they wouldn't break
 
-мин  ватасакмын   I    will 
-һин  ватасакһың   you  will 
-ул   ватасак      he   will 
-беҙ  ватасакбыҙ   we   will 
-һеҙ  ватасакһығыҙ you  will 
-улар ватасактар   they will 
+мин  ватасакмын   I    will break
+һин  ватасакһың   you  will break
+ул   ватасак      he   will break
+беҙ  ватасакбыҙ   we   will break
+һеҙ  ватасакһығыҙ you  will break
+улар ватасактар   they will break
 
-мин  ватмаясакмын   I    'll not
-һин  ватмаясакһың   you  'll not
-ул   ватмаясак      he   'll not
-беҙ  ватмаясакбыҙ   we   'll not
-һеҙ  ватмаясакһығыҙ you  'll not
-улар ватмаясактар   they 'll not
+мин  ватмаясакмын   I    'll not break
+һин  ватмаясакһың   you  'll not break
+ул   ватмаясак      he   'll not break
+беҙ  ватмаясакбыҙ   we   'll not break
+һеҙ  ватмаясакһығыҙ you  'll not break
+улар ватмаясактар   they 'll not break
 
-мин  ватһам   I    will
-һин  ватһаң   you  will
-ул   ватһа    he   will
-беҙ  ватһаҡ   we   will
-һеҙ  ватһағыҙ you  will
-улар ватһалар they will
+мин  ватһам   I    will break
+ул   ватһа    he   will break
+беҙ  ватһаҡ   we   will break
+һеҙ  ватһағыҙ you  will break
+улар ватһалар they will break
 
 мин  ватҡым     килә
 һин  ватҡың
