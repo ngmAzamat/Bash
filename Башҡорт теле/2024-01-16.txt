@@ -25,7 +25,7 @@ broken
 
 мин  ватманым   I    have not broken
 һин  ватманың   you  have not broken
-ул   ватманы    he   have not broken
+ул   ватманы    he   has  not broken
 беҙ  ватманыҡ   we   have not broken
 һеҙ  ватманығыҙ you  have not broken
 улар ватманылар they have not broken
@@ -61,19 +61,19 @@ broken
 һеҙ  ватмаҫһығыҙ you  wouldn't break
 улар ватмаҫтар   they wouldn't break
 
-мин  ватасакмын   I    will break
-һин  ватасакһың   you  will break
-ул   ватасак      he   will break
-беҙ  ватасакбыҙ   we   will break
-һеҙ  ватасакһығыҙ you  will break
-улар ватасактар   they will break
+мин  ватасаҡмын   I    will break
+һин  ватасаҡһың   you  will break
+ул   ватасаҡ      he   will break
+беҙ  ватасаҡбыҙ   we   will break
+һеҙ  ватасаҡһығыҙ you  will break
+улар ватасаҡтар   they will break
 
-мин  ватмаясакмын   I    'll not break
-һин  ватмаясакһың   you  'll not break
-ул   ватмаясак      he   'll not break
-беҙ  ватмаясакбыҙ   we   'll not break
-һеҙ  ватмаясакһығыҙ you  'll not break
-улар ватмаясактар   they 'll not break
+мин  ватмаясаҡмын   I    'll not break
+һин  ватмаясаҡһың   you  'll not break
+ул   ватмаясаҡ      he   'll not break
+беҙ  ватмаясаҡбыҙ   we   'll not break
+һеҙ  ватмаясаҡһығыҙ you  'll not break
+улар ватмаясаҡтар   they 'll not break
 
 мин  ватһам   if I    will break
 ул   ватһа    if he   will break

@@ -1,9 +1,9 @@
 мин  төҙөйөм     I    am  building
-һин  төҙөйөһөң   you  are building
-ул   төҙөйө      he   is  building
-беҙ  төҙөйөбөҙ   we   are building
-һеҙ  төҙөйөһөгөҙ you  are building
-улар төҙөйөҙәр   they are building
+һин  төҙөйһөң   you  are building
+ул   төҙөй      he   is  building
+беҙ  төҙөйбөҙ   we   are building
+һеҙ  төҙөйһөгөҙ you  are building
+улар төҙөйҙәр   they are building
 
 мин  төҙөмәймен   I    don't  build
 һин  төҙөмәйһең   you  don't  build
@@ -16,7 +16,7 @@
 һин  төҙөнөһөң   you  have built
 ул   төҙөнө      we   has  built
 беҙ  төҙөнөбөҙ   he   have built
-һеҙ  төҙөнөһегеҙ you  have built
+һеҙ  төҙөнөһөгөҙ you  have built
 улар төҙөнөләр   they have built
 
 мин  төҙөмәнем   I    haven't built
@@ -54,12 +54,12 @@
 төҙөмәйәсәкһегеҙ you  won't build
 төҙөмәйәсәктәр   they won't build
 
-мин  төҙөрмөн   I    would
-һин  төҙөрһөң   you  would
-ул   төҙөр      he   would
-беҙ  төҙөрбөҙ   we   would
-һеҙ  төҙөрһөгөҙ you  would
-улар төҙөрҙәр   they would
+мин  төҙөрмөн   I    would build
+һин  төҙөрһөң   you  would build
+ул   төҙөр      he   would build
+беҙ  төҙөрбөҙ   we   would build
+һеҙ  төҙөрһөгөҙ you  would build
+улар төҙөрҙәр   they would build
 
 төҙөмәҫмен   I    would build
 төҙөмәҫһең   you  would build
@@ -75,9 +75,9 @@
 төҙөһәгеҙ if you  will build
 төҙөһәләр if they will build
 
-төҙөгем    килә I    want  to build
-төҙөгең    килә you  want  to build
-төҙөгеһе   килә he   wants to build
-төҙөгек    килә we   want  to build
-төҙөгегеҙ  килә you  want  to build
+төҙөгөм    килә I    want  to build
+төҙөгөң    килә you  want  to build
+төҙөгөһө   килә he   wants to build
+төҙөгөк    килә we   want  to build
+төҙөгөгөҙ  килә you  want  to build
 төҙөгеләре килә they want  to build

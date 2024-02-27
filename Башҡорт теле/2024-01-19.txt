@@ -21,12 +21,12 @@
 һеҙ  башланығыҙ you  have begun
 улар башланылар they have begun
 
-мин  башламаным   I    haven't
-һин  башламаның   you  haven't
-ул   башламаны    he   hasn't
-беҙ  башламаныҡ   we   haven't
-һеҙ  башламанығыҙ you  haven't
-улар башламанылар they haven't
+мин  башламаным   I    haven't begun
+һин  башламаның   you  haven't begun
+ул   башламаны    he   hasn't  begun
+беҙ  башламаныҡ   we   haven't begun
+һеҙ  башламанығыҙ you  haven't begun
+улар башламанылар they haven't begun
 
 мин  башлағанмын   I    have begun
 һин  башлағанһың   you  have begun
@@ -39,8 +39,8 @@
 һин  башламағанһың   you  haven't begun
 ул   башламаған      he   hasn't  begun
 беҙ  башламағанбыҙ   we   haven't begun
-һеҙ  башламағанһығыҙ you  
-улар башламағандар   they 
+һеҙ  башламағанһығыҙ you  haven't begun
+улар башламағандар   they haven't begun
 
 мин  башлармын   I    would begin
 һин  башларһың   you  would begin
@@ -56,19 +56,19 @@
 һеҙ  башламаҫһығыҙ you  wouldn't begin
 улар башламаҫҙар   they wouldn't begin
 
-мин  башлаясак
-һин  башлаясак
-ул   башлаясак
-беҙ  башлаясак
-һеҙ  башлаясак
-улар башлаясак
+мин  башлаясакмын   I    will begin
+һин  башлаясакһың   you  will begin
+ул   башлаясак      he   will begin
+беҙ  башлаясакбыҙ   we   will begin
+һеҙ  башлаясакһығыҙ you  will begin
+улар башлаясактар   they will begin
 
-мин  башламаясак
-һин  башламаясак
-ул   башламаясак
-беҙ  башламаясак
-һеҙ  башламаясак
-улар башламаясак
+мин  башламаясакмын   I    won't
+һин  башламаясакһың   you  won't
+ул   башламаясак      he   won't
+беҙ  башламаясакбыҙ   we   won't
+һеҙ  башламаясакһығыҙ you  
+улар башламаясактар   they 
 
 башлаһам   if I    will begin
 башлаһаң   if you  will begin
@@ -77,12 +77,12 @@
 башлаһағыҙ if you  will begin
 башлаһалар if they will begin
 
-мин  башлағым    килә
-һин  башлағың    килә
-ул   башлағы
-беҙ  башлағыҡ
-һеҙ  башлағығыҙ
-улар башлағылары
+мин  башлағым    килә I    want  to begin
+һин  башлағың    килә you  want  to begin
+ул   башлағы     килә he   want  to begin
+беҙ  башлағыҡ    килә we   want  to begin
+һеҙ  башлағығыҙ  килә you  want  to begin
+улар башлағылары килә they want  to begin
 
 
 
