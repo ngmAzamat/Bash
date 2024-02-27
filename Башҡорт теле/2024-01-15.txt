@@ -1,8 +1,8 @@
 take
-мин  алам     I
-һин  алаһың   you
-ул   ала      he
-беҙ  алабеҙ   we
+мин  алам     I    am  taking
+һин  алаһың   you  are taking
+ул   ала      he   is  taking
+беҙ  алабеҙ   we   are taking
 һеҙ  алаһығыҙ you  are taking
 улар алалар   they are taking
  

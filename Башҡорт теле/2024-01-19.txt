@@ -1,10 +1,10 @@
 башларға
-мин   башлайым     I    am  begining
-һин   башлайһың    you  are begining
-ул    башлай       he   is  begining
-беҙ   башлайбыҙ    we   are begining
-һеҙ   башлайһығыҙә you  are begining
-улар  башлайҙар    they are begining
+мин   башлайым     I    am  beginning
+һин   башлайһың    you  are beginning
+ул    башлай       he   is  beginning
+беҙ   башлайбыҙ    we   are beginning
+һеҙ   башлайһығыҙә you  are beginning
+улар  башлайҙар    they are beginning
 
 
 мин  башламайым    I    don't   begin
@@ -14,19 +14,19 @@
 һеҙ  башламайһығыҙ you  don't   begin
 улар башламайҙар   they don't   begin
 
-мин  башланым   I    have begin
-һин  башланың   you  have begin
-ул   башланы    he   has  begin
-беҙ  башланыҡ   we   have begin
-һеҙ  башланығыҙ you  have begin
-улар башланылар they have begin
+мин  башланым   I    have begun
+һин  башланың   you  have begun
+ул   башланы    he   has  begun
+беҙ  башланыҡ   we   have begun
+һеҙ  башланығыҙ you  have begun
+улар башланылар they have begun
 
-мин  башламаным   I
-һин  башламаның   you
-ул   башламаны    he
-беҙ  башламаныҡ   we
-һеҙ  башламанығыҙ you
-улар башламанылар they
+мин  башламаным   I    have
+һин  башламаның   you  have
+ул   башламаны    he   has
+беҙ  башламаныҡ   we   have
+һеҙ  башламанығыҙ you  have
+улар башламанылар they have
 
 мин  башлаған
 һин  башлаған

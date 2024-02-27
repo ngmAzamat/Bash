@@ -12,12 +12,12 @@
 һеҙ  төҙөмәйһегеҙ you  don't  build
 улар төҙөмәйҙәр   they don't  build
 
-мин  төҙөнөм     I    have build
-һин  төҙөнөһөң   you  have build
-ул   төҙөнө      we   has  build
-беҙ  төҙөнөбөҙ   he   have build
-һеҙ  төҙөнөһегеҙ you  have build
-улар төҙөнөләр   they have build
+мин  төҙөнөм     I    have built
+һин  төҙөнөһөң   you  have built
+ул   төҙөнө      we   has  built
+беҙ  төҙөнөбөҙ   he   have built
+һеҙ  төҙөнөһегеҙ you  have built
+улар төҙөнөләр   they have built
 
 мин  төҙөмәнем   I
 һин  төҙөмәнең   you
@@ -26,19 +26,19 @@
 һеҙ  төҙөмәнегеҙ you
 улар төҙөмәнеләр they
   
-төҙөгәнмен   I    have build
-төҙөгәнһең   you  have build
-төҙөгән      he   has  build
-төҙөгәнбеҙ   we   have build
-төҙөгәнһегеҙ you  have build
-төҙөгәндәр   they have build
+төҙөгәнмен   I    have built
+төҙөгәнһең   you  have built
+төҙөгән      he   has  built
+төҙөгәнбеҙ   we   have built
+төҙөгәнһегеҙ you  have built
+төҙөгәндәр   they have built
 
-төҙөмәгәнмен   I    haven't build
-төҙөмәгәнһең   you  haven't build
-төҙөмәгән      he   hasn't  build
-төҙөмәгәнбеҙ   we   haven't build
-төҙөмәгәнһегеҙ you  haven't build
-төҙөмәгәндәр   they haven't build
+төҙөмәгәнмен   I    haven't built
+төҙөмәгәнһең   you  haven't built
+төҙөмәгән      he   hasn't  built
+төҙөмәгәнбеҙ   we   haven't built
+төҙөмәгәнһегеҙ you  haven't built
+төҙөмәгәндәр   they haven't built
 
 төҙөйәсәкмен   I    will build
 төҙөйәсәкһең   you  will build
