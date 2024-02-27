@@ -41,30 +41,30 @@ take
 һеҙ  алмағанһығыҙ you  haven't take
 улар алмағандар   they haven't take
 
-мин  алырмын   
-һин  алырһың  
-ул   алыр   
-беҙ  алырбыҙ  
-һеҙ  алырһығыҙ 
-улар алырҙар   
+мин  алырмын   I    would take
+һин  алырһың   you  would take
+ул   алыр      he   would take
+беҙ  алырбыҙ   we   would take
+һеҙ  алырһығыҙ you  would take
+улар алырҙар   they would take
 
-мин  алмаҫмын
-һин  алмаҫһың
-ул   алмаҫ
-беҙ  алмаҫбыҙ
-һеҙ  алмаҫһығыҙ
-улар алмаҫтар
-
-
+мин  алмаҫмын   I    wouldn't take
+һин  алмаҫһың   you  wouldn't take
+ул   алмаҫ      he   wouldn't take
+беҙ  алмаҫбыҙ   we   wouldn't take
+һеҙ  алмаҫһығыҙ you  wouldn't take
+улар алмаҫтар   they wouldn't take
 
 
 
-мин  аласакмын
-һин  аласакһың
-ул   аласак    
-беҙ  аласакбыҙ   
-һеҙ  аласакһығыҙ  
-улар аласактар   
+
+
+мин  аласакмын   I    
+һин  аласакһың   you  
+ул   аласак      he   
+беҙ  аласакбыҙ   we   
+һеҙ  аласакһығыҙ you  
+улар аласактар   they 
 
 мин  алмаясакмын   I    will not take
 һин  алмаясакһың   you  will not take
@@ -80,12 +80,12 @@ take
 һеҙ  алһағыҙ if you  will take
 улар алһалар if they will take
 
-мин  алғым    килә
-һин  алғың    килә
-ул   алғыһы   килә
-беҙ  алғыҡ    килә
-һеҙ  алғығыҙ  килә
-улар алғылары килә
+мин  алғым    килә I    want  to take
+һин  алғың    килә you  want  to take
+ул   алғыһы   килә he   wants to take
+беҙ  алғыҡ    килә we   want  to take
+һеҙ  алғығыҙ  килә you  want  to take
+улар алғылары килә they want  to take
 
 
 
