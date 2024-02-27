@@ -1,10 +1,10 @@
 broken
-мин  ватам     I    break
-һин  ватаһың   you  break
-ул   вата      he   break
-беҙ  ватабыҙ   we   break
-һеҙ  ватаһығыҙ you  break
-улар ваталар   they break
+мин  ватам     I    are break
+һин  ватаһың   you  are break
+ул   вата      he   is  break
+беҙ  ватабыҙ   we   are break
+һеҙ  ватаһығыҙ you  are break
+улар ваталар   they are break
 
 мин  ватмайым    I    break
 һин  ватмайһың   you  break
@@ -81,12 +81,12 @@ broken
 һеҙ  ватһағыҙ you  will break
 улар ватһалар they will break
 
-мин  ватҡым     килә
-һин  ватҡың
-ул   ватҡыһы
-беҙ  ватҡыҡ
-һеҙ  ватҡығыҙ
-улар ватҡылары
+мин  ватҡым     килә I
+һин  ватҡың     килә you
+ул   ватҡыһы    килә he
+беҙ  ватҡыҡ     килә we
+һеҙ  ватҡығыҙ   килә you
+улар ватҡылары  килә they
 
 
 

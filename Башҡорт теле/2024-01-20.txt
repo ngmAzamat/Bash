@@ -19,12 +19,12 @@
 һеҙ  төҙөнөһегеҙ you  have built
 улар төҙөнөләр   they have built
 
-мин  төҙөмәнем   I    haven't
-һин  төҙөмәнең   you  haven't
-ул   төҙөмәне    he   hasn't
-беҙ  төҙөмәнек   we   haven't
-һеҙ  төҙөмәнегеҙ you  haven't
-улар төҙөмәнеләр they haven't
+мин  төҙөмәнем   I    haven't built
+һин  төҙөмәнең   you  haven't built
+ул   төҙөмәне    he   hasn't  built
+беҙ  төҙөмәнек   we   haven't built
+һеҙ  төҙөмәнегеҙ you  haven't built
+улар төҙөмәнеләр they haven't built
 
 төҙөгәнмен   I    have built
 төҙөгәнһең   you  have built

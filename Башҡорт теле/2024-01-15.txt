@@ -6,40 +6,40 @@ take
 һеҙ  алаһығыҙ you  are taking
 улар алалар   they are taking
  
-мин  алмайым    I    don't
-һин  алмайһың   you  don't
-ул   алмай      he   doesn't
-беҙ  алмайбыҙ   we   don't
-һеҙ  алмайһығыҙ you  don't
-улар алмайҙар   they don't
+мин  алмайым    I    don't   take
+һин  алмайһың   you  don't   take
+ул   алмай      he   doesn't take
+беҙ  алмайбыҙ   we   don't   take
+һеҙ  алмайһығыҙ you  don't   take
+улар алмайҙар   they don't   take
 
-мин  алдым   I    have 
-һин  алдың   you  have 
-ул   алды    he   has  
-беҙ  алдыҡ   we   have 
-һеҙ  алдығыҙ you  have 
-улар алдылар they have 
+мин  алдым   I    have take
+һин  алдың   you  have take
+ул   алды    he   has  take
+беҙ  алдыҡ   we   have take
+һеҙ  алдығыҙ you  have take
+улар алдылар they have take
 
-мин  алманым   I    haven't 
-һин  алманың   you  haven't 
-ул   алманы    he   hasn't  
-беҙ  алманыҡ   we   haven't 
-һеҙ  алманығыҙ you  haven't 
-улар алманылар they haven't 
+мин  алманым   I    haven't take
+һин  алманың   you  haven't take
+ул   алманы    he   hasn't  take
+беҙ  алманыҡ   we   haven't take
+һеҙ  алманығыҙ you  haven't take
+улар алманылар they haven't take
 
-мин  алғанмын   I    have
-һин  алғанһың   you  have
-ул   алған      he   has
-беҙ  алғанбыҙ   we   have
-һеҙ  алғанһығыҙ you  have
-улар алғандар   they have
+мин  алғанмын   I    have take
+һин  алғанһың   you  have take
+ул   алған      he   has  take
+беҙ  алғанбыҙ   we   have take
+һеҙ  алғанһығыҙ you  have take
+улар алғандар   they have take
 
-мин  алмағанмын   I    haven't
-һин  алмағанһың   you  haven't
-ул   алмаған      he   hasn't
-беҙ  алмағанбыҙ   we   haven't
-һеҙ  алмағанһығыҙ you  haven't
-улар алмағандар   they haven't
+мин  алмағанмын   I    haven't take
+һин  алмағанһың   you  haven't take
+ул   алмаған      he   hasn't  take
+беҙ  алмағанбыҙ   we   haven't take
+һеҙ  алмағанһығыҙ you  haven't take
+улар алмағандар   they haven't take
 
 мин  алырмын   
 һин  алырһың  
@@ -61,24 +61,24 @@ take
 
 мин  аласакмын
 һин  аласакһың
-ул   аласак
-беҙ  аласакбыҙ
-һеҙ  аласакһығыҙ
-улар аласактар
+ул   аласак    
+беҙ  аласакбыҙ   
+һеҙ  аласакһығыҙ  
+улар аласактар   
 
-мин  алмаясакмын
-һин  алмаясакһың
-ул   алмаясак
-беҙ  алмаясакбыҙ
-һеҙ  алмаясакһығыҙ
-улар алмаясактар
+мин  алмаясакмын   I
+һин  алмаясакһың   you
+ул   алмаясак      he
+беҙ  алмаясакбыҙ   we
+һеҙ  алмаясакһығыҙ you
+улар алмаясактар   they
 
-мин  алһам
-һин  алһаң
-ул   алһа
-беҙ  алһаҡ
-һеҙ  алһағыҙ
-улар алһалар
+мин  алһам   if I    will take
+һин  алһаң   if you  will take
+ул   алһа    if he   will take
+беҙ  алһаҡ   if we   will take
+һеҙ  алһағыҙ if you  will take
+улар алһалар if they will take
 
 мин  алғым    килә
 һин  алғың   
