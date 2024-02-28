@@ -137,12 +137,12 @@
 
 
 
-мин  ҡараясак I    will see
-һин  ҡараясак you  will see
-ул   ҡараясак he   will see
-беҙ  ҡараясак we   will see
-һеҙ  ҡараясак you  will see
-улар ҡараясак they will see
+мин  ҡараясаҡмын   I    will see
+һин  ҡараясаҡһың   you  will see
+ул   ҡараясаҡ      he   will see
+беҙ  ҡараясаҡбыҙ   we   will see
+һеҙ  ҡараясаҡһығыҙ you  will see
+улар ҡараясаҡтар   they will see
 
 
 
@@ -185,12 +185,12 @@
 
 
 
-мин  ҡарамаясакмын   I    will not
-һин  ҡарамаясакһың   you  will not
-ул   ҡарамаясак      he   will not
-беҙ  ҡарамаясакбыҙ   we   will not
-һеҙ  ҡарамаясакһығыҙ you  will not
-улар ҡарамаясактар   they will not
+мин  ҡарамаясаҡмын   I    will not
+һин  ҡарамаясаҡһың   you  will not
+ул   ҡарамаясаҡ      he   will not
+беҙ  ҡарамаясаҡбыҙ   we   will not
+һеҙ  ҡарамаясаҡһығыҙ you  will not
+улар ҡарамаясаҡтар   they will not
 
 
 

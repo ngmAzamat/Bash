@@ -7,12 +7,12 @@
 һеҙ  табайһығыҙ you  are find
 улар табайҙар   they are find
 
-мин  табасакмын   I    will find
-һин  табасакһың   you  will find
-ул   табасак      he   will find
-беҙ  табасакбыҙ   we   will ffin
-һеҙ  табасакһығыҙ you  will find
-улар табасактар   they will find
+мин  табасаҡмын   I    will find
+һин  табасаҡһың   you  will find
+ул   табасаҡ      he   will find
+беҙ  табасаҡбыҙ   we   will ffin
+һеҙ  табасаҡһығыҙ you  will find
+улар табасаҡтар   they will find
 
 мин  табырмын   I would find
 һин  табырһың   you would find
@@ -30,12 +30,12 @@
 һеҙ  тапмайһығыҙ you do not find
 улар тапмайҙар   they do not find
 
-мин  тапмаясакмын    I    won't find
-һин  тапмаясакһың    you  won't find
-ул   тапмаясак       he   won't find
-беҙ  тапмаясакбыҙ    we   won't find
-һеҙ  тапмаясакһығыҙ  you  won't find
-улар тапмаясактар    they won't find
+мин  тапмаясаҡмын    I    won't find
+һин  тапмаясаҡһың    you  won't find
+ул   тапмаясаҡ       he   won't find
+беҙ  тапмаясаҡбыҙ    we   won't find
+һеҙ  тапмаясаҡһығыҙ  you  won't find
+улар тапмаясаҡтар    they won't find
 
 мин  тапмаҫмын   I    wouldn't find
 һин  тапмаҫһың   you  wouldn't find
@@ -53,8 +53,8 @@
 улар таптылар  they have found
 
 мин  тапманым   I have not found
-һин  тапманың   you has not found
-ул   тапманы    he have not found
+һин  тапманың   you have not found
+ул   тапманы    he has not found
 беҙ  тапманыҡ   we have not found
 һеҙ  тапманығыҙ you have not found
 улар тапманылар they have not found
@@ -67,8 +67,8 @@
 улар тапҡандар    they have found
 
 мин  тапмағанмын   I have not found
-һин  тапмағанһың   you has not found
-ул   тапмаған      he have not found
+һин  тапмағанһың   you have not found
+ул   тапмаған      he has not found
 беҙ  тапмағанбыҙ   we have not found
 һеҙ  тапмағанһығыҙ you have not found
 улар тапмағандар   they have not found

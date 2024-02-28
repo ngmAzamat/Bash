@@ -41,30 +41,30 @@
 
 1
 
-мин  уянмағанмын   I    haven't wake up
-һин  уянмағанһың   you  haven't wake up
-ул   уянмаған      he   hasn't  wake up
-беҙ  уянмағанбыҙ   we   haven't wake up
-һеҙ  уянмағанһығыҙ you  haven't wake up
-улар уянмағандар   they haven't wake up
+мин  уянмағанмын   I    haven't woken up
+һин  уянмағанһың   you  haven't woken up
+ул   уянмаған      he   hasn't  woken up
+беҙ  уянмағанбыҙ   we   haven't woken up
+һеҙ  уянмағанһығыҙ you  haven't woken up
+улар уянмағандар   they haven't wokne up
 
 1
 
-мин  уянасакмын   I    will wake up
-һин  уянасакһың   you  will wake up
-ул   уянасак      he   will wake up
-беҙ  уянасакбыҙ   we   will wake up
-һеҙ  уянасакһығыҙ you  will wake up
-улар уянасактар   they will wake up
+мин  уянасаҡмын   I    will wake up
+һин  уянасаҡһың   you  will wake up
+ул   уянасаҡ      he   will wake up
+беҙ  уянасаҡбыҙ   we   will wake up
+һеҙ  уянасаҡһығыҙ you  will wake up
+улар уянасаҡтар   they will wake up
 
 1
 
-мин  уянмаясакмын   I    will not wake up
-һин  уянмаясакһың   you  will not wake up
-ул   уянмаясак      he   will not wake up
-беҙ  уянмаясакбыҙ   we   will not wake up
-һеҙ  уянмаясакһығыҙ you  will not wake up
-улар уянмаясактар   they will not wake up
+мин  уянмаясаҡмын   I    will not wake up
+һин  уянмаясаҡһың   you  will not wake up
+ул   уянмаясаҡ      he   will not wake up
+беҙ  уянмаясаҡбыҙ   we   will not wake up
+һеҙ  уянмаясаҡһығыҙ you  will not wake up
+улар уянмаясаҡтар   they will not wake up
 
 
 

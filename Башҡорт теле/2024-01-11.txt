@@ -1,11 +1,11 @@
 тор
 
-мин  торам     I    am  geting up
-һин  тораһың   you  are geting up
-ул   тора      he   is  geting up
-беҙ  торабыҙ   we   are geting up
-һеҙ  тораһығыҙ you  are geting up
-улар торалар   they are geting up
+мин  торам     I    am  getting up
+һин  тораһың   you  are getting up
+ул   тора      he   is  getting up
+беҙ  торабыҙ   we   are getting up
+һеҙ  тораһығыҙ you  are getting up
+улар торалар   they are getting up
 
 мин  тормайым    I    don't   get up
 һин  тормайһың   you  don't   get up
@@ -44,19 +44,19 @@
 һеҙ  тормағанһығыҙ you  haven't got up
 улар тормағандар   they haven't got up
 
-мин  торасакмын   I    will get up
-һин  торасакһың   you  will get up
-ул   торасак      he   will get up
-беҙ  торасакбыҙ   we   will get up
-һеҙ  торасакһығыҙ you  will get up
-улар торасактар   they will get up
+мин  торасаҡмын   I    will get up
+һин  торасаҡһың   you  will get up
+ул   торасаҡ      he   will get up
+беҙ  торасаҡбыҙ   we   will get up
+һеҙ  торасаҡһығыҙ you  will get up
+улар торасаҡтар   they will get up
 
-мин  тормаясакмын   I    won't get up
-һин  тормаясакһың   you  won't get up
-ул   тормаясак      he   won't get up
-беҙ  тормаясакбыҙ   we   won't get up
-һеҙ  тормаясакһығыҙ you  won't get up
-улар тормаясактар   they won't get up
+мин  тормаясаҡмын   I    won't get up
+һин  тормаясаҡһың   you  won't get up
+ул   тормаясаҡ      he   won't get up
+беҙ  тормаясаҡбыҙ   we   won't get up
+һеҙ  тормаясаҡһығыҙ you  won't get up
+улар тормаясаҡтар   they won't get up
 
 мин  торормон   I    would get up
 һин  торорһоң   you  would get up
