@@ -51,26 +51,26 @@
 һеҙ  торасакһығыҙ you  will get up
 улар торасактар   they will get up
 
-мин  тормаясакмын
-һин  тормаясакһың
-ул   тормаясак
-беҙ  тормаясакбыҙ
-һеҙ  тормаясакһығыҙ
-улар тормаясактар
+мин  тормаясакмын   I    won't get up
+һин  тормаясакһың   you  won't get up
+ул   тормаясак      he   won't get up
+беҙ  тормаясакбыҙ   we   won't get up
+һеҙ  тормаясакһығыҙ you  won't get up
+улар тормаясактар   they won't get up
 
-мин  торормон
-һин  торорһоң
-ул   торор
-беҙ  торорбоҙ
-һеҙ  торорһоғоҙ
-улар торорҙар
+мин  торормон   I    would get up
+һин  торорһоң   you  would get up
+ул   торор      he   would get up
+беҙ  торорбоҙ   we   would get up
+һеҙ  торорһоғоҙ you  would get up
+улар торорҙар   they would get up
 
-мин  тормаҫмын
-һин  тормаҫһың
-ул   тормаҫ
-беҙ  тормаҫбыҙ
-һеҙ  тормаҫһығыҙ
-улар тормаҫтар
+мин  тормаҫмын   I    wouldn't get up
+һин  тормаҫһың   you  wouldn't get up
+ул   тормаҫ      he   wouldn't get up
+беҙ  тормаҫбыҙ   we   wouldn't get up
+һеҙ  тормаҫһығыҙ you  wouldn't get up
+улар тормаҫтар   they wouldn't get up
 
 
 
@@ -81,9 +81,9 @@
 һеҙ  торһағыҙ if you  will get up
 улар торһалар if they will get up
 
-минең торғом     килә
-һинең торғоң
-ул    торғоһо
-беҙ   торғоҡ
-һеҙ   торғоғоҙ
-улар  торғолары
+минең торғом    килә I    want  to get up
+һинең торғоң    килә you  want  to get up
+ул    торғоһо   килә he   wants to get up
+беҙ   торғоҡ    килә we   want  to get up
+һеҙ   торғоғоҙ  килә you  want  to get up
+улар  торғолары килә they want  to get up

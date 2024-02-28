@@ -27,12 +27,12 @@
 һеҙ  ҡарамайһығыҙ you  don't   see
 улар ҡарамайҙар   they don't   see
 
-мин  ҡараным   I    have 
-һин  ҡараның   you  have 
-ул   ҡараны    he   has  
-беҙ  ҡараныҡ   we   have 
-һеҙ  ҡаранығыҙ you  have 
-улар ҡаранылар they have 
+мин  ҡараным   I    have seen
+һин  ҡараның   you  have seen 
+ул   ҡараны    he   has  seen 
+беҙ  ҡараныҡ   we   have seen 
+һеҙ  ҡаранығыҙ you  have seen 
+улар ҡаранылар they have seen 
 
 
 
@@ -51,21 +51,21 @@
 
 
 
-мин  ҡараманым   I
-һин  ҡараманың   you
-ул   ҡараманы    he
-беҙ  ҡараманыҡ   we
-һеҙ  ҡараманығыҙ you
-улар ҡараманылар they
+мин  ҡараманым   I    have not seen
+һин  ҡараманың   you  have not seen 
+ул   ҡараманы    he   has  not seen
+беҙ  ҡараманыҡ   we   have not seen 
+һеҙ  ҡараманығыҙ you  have not seen
+улар ҡараманылар they have not seen
 
 
 
-мин  ҡарағанмын   I
-һин  ҡарағанһың   you
-ул   ҡараған      he
-беҙ  ҡарағанбыҙ   we
-һеҙ  ҡарағанһығыҙ you
-улар ҡарағандар   they
+мин  ҡарағанмын   I    have seen
+һин  ҡарағанһың   you  have seen
+ул   ҡараған      he   has  seen 
+беҙ  ҡарағанбыҙ   we   have seen
+һеҙ  ҡарағанһығыҙ you  have seen
+улар ҡарағандар   they have seen
  
 
 
@@ -85,12 +85,12 @@
 
 
 
-мин  ҡарамағанмын   I
-һин  ҡарамағанһың   you
-ул   ҡарамаған      he
-беҙ  ҡарамағанбыҙ   we
-һеҙ  ҡарамағанһығыҙ you
-улар ҡарамағандар   they
+мин  ҡарамағанмын   I    haven't seen
+һин  ҡарамағанһың   you  haven't seen
+ул   ҡарамаған      he   hasn't  seen
+беҙ  ҡарамағанбыҙ   we   haven't seen
+һеҙ  ҡарамағанһығыҙ you  haven't seen
+улар ҡарамағандар   they haven't seen
 
 
 
@@ -99,23 +99,23 @@
 
 
 
-мин  ҡарармын   I    would
-һин  ҡарарһың   you  would
-ул   ҡарар      he   would 
-беҙ  ҡарарбыҙ   we   would 
-һеҙ  ҡарарһығыҙ you  would
-улар ҡарарҙар   they would 
+мин  ҡарармын   I    would see
+һин  ҡарарһың   you  would see
+ул   ҡарар      he   would see
+беҙ  ҡарарбыҙ   we   would see
+һеҙ  ҡарарһығыҙ you  would see
+улар ҡарарҙар   they would see
 
 
 
 
 
-мин  ҡарамаҫмын   I    wouldn't
-һин  ҡарамаҫһың   you  wouldn't
-ул   ҡарамаҫ      he   wouldn't
-беҙ  ҡарамаҫбыҙ   we   wouldn't
-һеҙ  ҡарамаҫһығыҙ you  wouldn't
-улар ҡарамаҫтар   they wouldn't
+мин  ҡарамаҫмын   I    wouldn't see
+һин  ҡарамаҫһың   you  wouldn't see
+ул   ҡарамаҫ      he   wouldn't see
+беҙ  ҡарамаҫбыҙ   we   wouldn't see
+һеҙ  ҡарамаҫһығыҙ you  wouldn't see
+улар ҡарамаҫтар   they wouldn't see
 
 
 
@@ -137,12 +137,12 @@
 
 
 
-мин  ҡараясак I    will
-һин  ҡараясак you  will
-ул   ҡараясак he   will
-беҙ  ҡараясак we   will
-һеҙ  ҡараясак you  will
-улар ҡараясак they will
+мин  ҡараясак I    will see
+һин  ҡараясак you  will see
+ул   ҡараясак he   will see
+беҙ  ҡараясак we   will see
+һеҙ  ҡараясак you  will see
+улар ҡараясак they will see
 
 
 
@@ -185,12 +185,12 @@
 
 
 
-мин  ҡарамаясакмын   I
-һин  ҡарамаясакһың   you
-ул   ҡарамаясак      he
-беҙ  ҡарамаясакбыҙ   we
-һеҙ  ҡарамаясакһығыҙ you
-улар ҡарамаясактар   they
+мин  ҡарамаясакмын   I    will not
+һин  ҡарамаясакһың   you  will not
+ул   ҡарамаясак      he   will not
+беҙ  ҡарамаясакбыҙ   we   will not
+һеҙ  ҡарамаясакһығыҙ you  will not
+улар ҡарамаясактар   they will not
 
 
 
@@ -212,12 +212,12 @@
 
 
 
-мин  ҡараһам   I
-һин  ҡараһаң   you
-ул   ҡараһа    he
-беҙ  ҡараһаҡ   we
-һеҙ  ҡараһағыҙ you
-улар ҡараһалар they
+мин  ҡараһам   I    will see
+һин  ҡараһаң   you  will see
+ул   ҡараһа    he   will see
+беҙ  ҡараһаҡ   we   will see
+һеҙ  ҡараһағыҙ you  will see
+улар ҡараһалар they will see
 
 
 
@@ -230,9 +230,10 @@
 
 
 
-мин  ҡарағым    килә
-һин  ҡарағың
-ул   ҡарағыһы
-беҙ  ҡарағыҡ
-һеҙ  ҡарағығыҙ
-улар ҡарағылары
+мин  ҡарағым    килә I    want  to see
+һин  ҡарағың    килә you  want  to see 
+ул   ҡарағыһы   килә he   wants to see 
+беҙ  ҡарағыҡ    килә we   want  to see 
+һеҙ  ҡарағығыҙ  килә you  want  to see
+улар ҡарағылары килә they want  to see
+
