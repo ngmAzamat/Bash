@@ -59,12 +59,12 @@
 
 1
 
-мин  уянмаясакмын  
-һин  уянмаясакһың  
-ул   уянмаясак
-беҙ  уянмаясак
-һеҙ  уянмаясак
-улар уянмаясак
+мин  уянмаясакмын   I    will not wake up
+һин  уянмаясакһың   you  will not wake up
+ул   уянмаясак      he   will not wake up
+беҙ  уянмаясакбыҙ   we   will not wake up
+һеҙ  уянмаясакһығыҙ you  will not wake up
+улар уянмаясактар   they will not wake up
 
 
 

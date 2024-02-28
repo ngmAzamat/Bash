@@ -1,55 +1,55 @@
 тор
 
-мин  торам     I    
-һин  тораһың   you  
-ул   тора      he   
-беҙ  торабыҙ   we   
-һеҙ  тораһығыҙ you  
-улар торалар   they 
+мин  торам     I    am  geting up
+һин  тораһың   you  are geting up
+ул   тора      he   is  geting up
+беҙ  торабыҙ   we   are geting up
+һеҙ  тораһығыҙ you  are geting up
+улар торалар   they are geting up
 
-мин  тормайым    I
-һин  тормайһың   you
-ул   тормай      he
-беҙ  тормайбыҙ   we
-һеҙ  тормайһығыҙ you
-улар тормайҙар   they
+мин  тормайым    I    don't   get up
+һин  тормайһың   you  don't   get up
+ул   тормай      he   doesn't get up
+беҙ  тормайбыҙ   we   don't   get up
+һеҙ  тормайһығыҙ you  don't   get up
+улар тормайҙар   they don't   get up
 
-мин  торҙом   I
-һин  торҙоң   you
-ул   торҙо    he
-беҙ  торҙоҡ   we
-һеҙ  торҙоғоҙ you
-улар торҙолар they
+мин  торҙом   I    have got up
+һин  торҙоң   you  have got up
+ул   торҙо    he   has  got up
+беҙ  торҙоҡ   we   have got up
+һеҙ  торҙоғоҙ you  have got up
+улар торҙолар they have got up
 
-мин  торманым   I
-һин  торманың   you
-ул   торманы    he
-беҙ  торманыҡ   we
-һеҙ  торманығыҙ you
-улар торманылар they
+мин  торманым   I    haven't got up
+һин  торманың   you  haven't got up
+ул   торманы    he   hasn't  got up
+беҙ  торманыҡ   we   haven't got up
+һеҙ  торманығыҙ you  haven't got up
+улар торманылар they haven't got up
 
-мин  торғанмын   I
-һин  торғанһың   you
-ул   торған      he
-беҙ  торғанбыҙ   we
-һеҙ  торғанһығыҙ you
-улар торғандар   they
+мин  торғанмын   I    have got up
+һин  торғанһың   you  have got up
+ул   торған      he   has  got up
+беҙ  торғанбыҙ   we   have got up
+һеҙ  торғанһығыҙ you  have got up
+улар торғандар   they have got up
 
 1
 
-мин  тормағанмын   I    haven't
-һин  тормағанһың   you  haven't
-ул   тормаған      he   hasn't
-беҙ  тормағанбыҙ   we   haven't
-һеҙ  тормағанһығыҙ you  haven't
-улар тормағандар   they haven't
+мин  тормағанмын   I    haven't got up
+һин  тормағанһың   you  haven't got up
+ул   тормаған      he   hasn't  got up
+беҙ  тормағанбыҙ   we   haven't got up
+һеҙ  тормағанһығыҙ you  haven't got up
+улар тормағандар   they haven't got up
 
-мин  торасакмын
-һин  торасакһың
-ул   торасак
-беҙ  торасакбыҙ
-һеҙ  торасакһығыҙ
-улар торасактар
+мин  торасакмын   I    will get up
+һин  торасакһың   you  will get up
+ул   торасак      he   will get up
+беҙ  торасакбыҙ   we   will get up
+һеҙ  торасакһығыҙ you  will get up
+улар торасактар   they will get up
 
 мин  тормаясакмын
 һин  тормаясакһың
@@ -72,12 +72,14 @@
 һеҙ  тормаҫһығыҙ
 улар тормаҫтар
 
-мин  торһам
-һин  торһаң
-ул   торһа
-беҙ  торһаҡ
-һеҙ  торһағыҙ
-улар торһалар
+
+
+мин  торһам   if I    will get up
+һин  торһаң   if you  will get up
+ул   торһа    if he   will get up
+беҙ  торһаҡ   if we   will get up
+һеҙ  торһағыҙ if you  will get up
+улар торһалар if they will get up
 
 минең торғом     килә
 һинең торғоң

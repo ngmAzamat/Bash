@@ -1,11 +1,11 @@
 таб
 
-мин  табайым    I find
-һин  табайһың   you find
-ул   табай      he find
-беҙ  табайбыҙ   we find
-һеҙ  табайһығыҙ you find
-улар табайҙар   they find
+мин  табайым    I    am  find
+һин  табайһың   you  are find
+ул   табай      he   is  find
+беҙ  табайбыҙ   we   are find
+һеҙ  табайһығыҙ you  are find
+улар табайҙар   they are find
 
 мин  табасакмын   I    will find
 һин  табасакһың   you  will find
@@ -25,7 +25,7 @@
 
 мин  тапмайым    I do not find
 һин  тапмайһың   you do not find
-ул   тапмай      he do not find
+ул   тапмай      he does not find
 беҙ  тапмайбыҙ   we do not find
 һеҙ  тапмайһығыҙ you do not find
 улар тапмайҙар   they do not find
@@ -81,12 +81,12 @@
 улар тапһалар    if they will find
 
 
-минең  тапҡым    килә  I want  
-һинең  тапҡың you want
-ул   тапҡыһы he wants 
-беҙ  тапҡыҡ
-һеҙ  тапҡығыҙ
-уларҙы тапҡылары
+минең  тапҡым    килә I    want  to find
+һинең  тапҡың    килә you  want  to find
+ул     тапҡыһы   килә he   wants to find
+беҙ    тапҡыҡ    килә we   want  to find
+һеҙ    тапҡығыҙ  килә you  want  to find
+уларҙы тапҡылары килә they want  to find
 
 
 

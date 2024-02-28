@@ -3,12 +3,12 @@
 
 
 
-мин  ҡарайым    I    a
-һин  ҡарайһың   you  a
-ул   ҡарай      he   a
-беҙ  ҡарайбыҙ   we   a
-һеҙ  ҡарайһығыҙ you  a
-улар ҡарайҙар   they a
+мин  ҡарайым    I    am  seeing
+һин  ҡарайһың   you  are seeing
+ул   ҡарай      he   is  seeing
+беҙ  ҡарайбыҙ   we   are seeing
+һеҙ  ҡарайһығыҙ you  are seeing
+улар ҡарайҙар   they are seeing
   
 
 
@@ -20,12 +20,12 @@
 
 
 
-мин  ҡарамайым    I    don't   
-һин  ҡарамайһың   you  don't   
-ул   ҡарамай      he   doesn't 
-беҙ  ҡарамайбыҙ   we   don't   
-һеҙ  ҡарамайһығыҙ you  don't   
-улар ҡарамайҙар   they don't   
+мин  ҡарамайым    I    don't   see
+һин  ҡарамайһың   you  don't   see
+ул   ҡарамай      he   doesn't see
+беҙ  ҡарамайбыҙ   we   don't   see
+һеҙ  ҡарамайһығыҙ you  don't   see
+улар ҡарамайҙар   they don't   see
 
 мин  ҡараным   I    have 
 һин  ҡараның   you  have 
@@ -99,29 +99,23 @@
 
 
 
-мин  ҡарармын   I
-һин  ҡарарһың   you
-ул   ҡарар      he
-беҙ  ҡарарбыҙ   we
-һеҙ  ҡарарһығыҙ you
-улар ҡарарҙар   they
+мин  ҡарармын   I    would
+һин  ҡарарһың   you  would
+ул   ҡарар      he   would 
+беҙ  ҡарарбыҙ   we   would 
+һеҙ  ҡарарһығыҙ you  would
+улар ҡарарҙар   they would 
 
 
 
 
 
-мин  ҡарамаҫмын   I
-һин  ҡарамаҫһың   you
-ул   ҡарамаҫ      he
-беҙ  ҡарамаҫбыҙ   we
-һеҙ  ҡарамаҫһығыҙ you
-улар ҡарамаҫтар   they
-
-
-
-
-
-
+мин  ҡарамаҫмын   I    wouldn't
+һин  ҡарамаҫһың   you  wouldn't
+ул   ҡарамаҫ      he   wouldn't
+беҙ  ҡарамаҫбыҙ   we   wouldn't
+һеҙ  ҡарамаҫһығыҙ you  wouldn't
+улар ҡарамаҫтар   they wouldn't
 
 
 
@@ -137,12 +131,18 @@
 
 
 
-мин  ҡараясак I
-һин  ҡараясак you
-ул   ҡараясак he
-беҙ  ҡараясак we
-һеҙ  ҡараясак you
-улар ҡараясак they
+
+
+
+
+
+
+мин  ҡараясак I    will
+һин  ҡараясак you  will
+ул   ҡараясак he   will
+беҙ  ҡараясак we   will
+һеҙ  ҡараясак you  will
+улар ҡараясак they will
 
 
 
