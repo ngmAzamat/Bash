@@ -7,12 +7,12 @@
 һеҙ  табайһығыҙ you find
 улар табайҙар   they find
 
-мин  табасакмын   I 
-һин  табасакһың   you 
-ул   табасак      he 
-беҙ  табасакбыҙ   we 
-һеҙ  табасакһығыҙ you 
-улар табасактар   they
+мин  табасакмын   I    will find
+һин  табасакһың   you  will find
+ул   табасак      he   will find
+беҙ  табасакбыҙ   we   will ffin
+һеҙ  табасакһығыҙ you  will find
+улар табасактар   they will find
 
 мин  табырмын   I would find
 һин  табырһың   you would find
@@ -30,19 +30,19 @@
 һеҙ  тапмайһығыҙ you do not find
 улар тапмайҙар   they do not find
 
-мин  тапмаясакмын    I
-һин  тапмаясакһың    you
-ул   тапмаясак       he
-беҙ  тапмаясакбыҙ    we
-һеҙ  тапмаясакһығыҙ  you
-улар тапмаясактар    they
+мин  тапмаясакмын    I    won't find
+һин  тапмаясакһың    you  won't find
+ул   тапмаясак       he   won't find
+беҙ  тапмаясакбыҙ    we   won't find
+һеҙ  тапмаясакһығыҙ  you  won't find
+улар тапмаясактар    they won't find
 
-мин  тапмаҫмын   I
-һин  тапмаҫһың   you
-ул   тапмаҫ      he
-беҙ  тапмаҫбыҙ   we
-һеҙ  тапмаҫһығыҙ you
-улар тапмаҫтар   they
+мин  тапмаҫмын   I    wouldn't find
+һин  тапмаҫһың   you  wouldn't find
+ул   тапмаҫ      he   wouldn't find
+беҙ  тапмаҫбыҙ   we   wouldn't find
+һеҙ  тапмаҫһығыҙ you  wouldn't find
+улар тапмаҫтар   they wouldn't find
 
 
 мин  таптым    I have found

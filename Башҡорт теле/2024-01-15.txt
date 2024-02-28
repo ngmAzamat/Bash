@@ -2,7 +2,7 @@ take
 мин  алам     I    am  taking
 һин  алаһың   you  are taking
 ул   ала      he   is  taking
-беҙ  алабеҙ   we   are taking
+беҙ  алабыҙ   we   are taking
 һеҙ  алаһығыҙ you  are taking
 улар алалар   they are taking
  
@@ -59,19 +59,19 @@ take
 
 
 
-мин  аласакмын   I    will take
-һин  аласакһың   you  will take
-ул   аласак      he   will take
-беҙ  аласакбыҙ   we   will take
-һеҙ  аласакһығыҙ you  will take
-улар аласактар   they will take
+мин  аласаҡмын   I    will take
+һин  аласаҡһың   you  will take
+ул   аласаҡ      he   will take
+беҙ  аласаҡбыҙ   we   will take
+һеҙ  аласаҡһығыҙ you  will take
+улар аласаҡтар   they will take
 
-мин  алмаясакмын   I    will not take
-һин  алмаясакһың   you  will not take
-ул   алмаясак      he   will not take
-беҙ  алмаясакбыҙ   we   will not take
-һеҙ  алмаясакһығыҙ you  will not take
-улар алмаясактар   they will not take
+мин  алмаясаҡмын   I    will not take
+һин  алмаясаҡһың   you  will not take
+ул   алмаясаҡ      he   will not take
+беҙ  алмаясаҡбыҙ   we   will not take
+һеҙ  алмаясаҡһығыҙ you  will not take
+улар алмаясаҡтар   they will not take
 
 мин  алһам   if I    will take
 һин  алһаң   if you  will take

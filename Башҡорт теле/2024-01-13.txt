@@ -1,84 +1,111 @@
-мин  уянам
-һин  уянаһың
-ул   уяна
-беҙ  уянабыҙ
-һеҙ  уянаһығыҙ
-улар уяналар
+мин  уянам     I    am  waking up
+һин  уянаһың   you  are waking up
+ул   уяна      he   is  waking up
+беҙ  уянабыҙ   we   are waking up
+һеҙ  уянаһығыҙ you  are waking up
+улар уяналар   they are waking up
 
-мин  уянмайым
-һин  уянмайһың
-ул   уянмай
-беҙ  уянмайбыҙ
-һеҙ  уянмайһығыҙ
-улар уянмайҙар
+мин  уянмайым    I    don't   wake up
+һин  уянмайһың   you  don't   wake up
+ул   уянмай      he   doesn't wake up
+беҙ  уянмайбыҙ   we   don't   wake up
+һеҙ  уянмайһығыҙ you  don't   wake up
+улар уянмайҙар   they don't   wake up
 
-мин  уян
-һин  уян
-ул   уян
-беҙ  уян
-һеҙ  уян
-улар уян
+1
 
-мин  уянманым
-һин  уянманың
-ул   уянманы
-беҙ  уянманыҡ
-һеҙ  уянманығыҙ
-улар уянманылар
+мин  уяндым   I    have woken up
+һин  уяндың   you  have woken up
+ул   уянды    he   has  woken up
+беҙ  уяндыҡ   we   have woken up
+һеҙ  уяндығыҙ you  have woken up
+улар уяндылар they have woken up
 
-мин  уян
-һин  уян
-ул   уян
-беҙ  уян
-һеҙ  уян
-улар уян
+1
 
-уянмағанмын
-уянмағанһың
-уянмаған
-уянмағанбыҙ
-уянмағанһы
-уянмаған
+мин  уянманым   I    haven't woken up
+һин  уянманың   you  haven't woken up
+ул   уянманы    he   hasn't  woken up
+беҙ  уянманыҡ   we   haven't woken up
+һеҙ  уянманығыҙ you  haven't woken up
+улар уянманылар they haven't woken up
 
-уян
-уян
-уян
-уян
-уян
-уян
+1
 
-уянмаясакмын
-уянмаясакһың
-уянмаясак
-уянмаясак
-уянмаясак
-уянмаясак
+мин  уянғанмын   I    have woken up
+һин  уянғанһың   you  have woken up
+ул   уянған      he   has  woken up
+беҙ  уянғанбыҙ   we   have woken up
+һеҙ  уянғанһығыҙ you  have woken up
+улар уянғандар   they have woken up
 
-уян
-уян
-уян
-уян
-уян
-уян
+1
 
-уян
-уян
-уян
-уян
-уян
-уян
+мин  уянмағанмын   I    haven't wake up
+һин  уянмағанһың   you  haven't wake up
+ул   уянмаған      he   hasn't  wake up
+беҙ  уянмағанбыҙ   we   haven't wake up
+һеҙ  уянмағанһығыҙ you  haven't wake up
+улар уянмағандар   they haven't wake up
 
-уян
-уян
-уян
-уян
-уян
-уян
+1
+
+мин  уянасакмын   I    will wake up
+һин  уянасакһың   you  will wake up
+ул   уянасак      he   will wake up
+беҙ  уянасакбыҙ   we   will wake up
+һеҙ  уянасакһығыҙ you  will wake up
+улар уянасактар   they will wake up
+
+1
+
+мин  уянмаясакмын  
+һин  уянмаясакһың  
+ул   уянмаясак
+беҙ  уянмаясак
+һеҙ  уянмаясак
+улар уянмаясак
 
 
-уян
-уян
-уян
-уян
-уян
-уян
+
+1
+
+
+мин  уянырмын   I    would wake up
+һин  уянырһың   you  would wake up
+ул   уяныр      he   would wake up
+беҙ  уянырбыҙ   we   would wake up
+һеҙ  уянырһығыҙ you  would wake up
+улар уянырҙар   they would wake up
+
+мин  уянмаҫмын   I    wouldn't wake up
+һин  уянмаҫһың   you  wouldn't wake up
+ул   уянмаҫ      he   wouldn't wake up
+беҙ  уянмаҫбыҙ   we   wouldn't wake up
+һеҙ  уянмаҫһығыҙ you  wouldn't wake up
+улар уянмаҫтар   they wouldn't wake up
+
+мин  уянһам   if I    will wake up
+һин  уянһаң   if you  will wake up
+ул   уянһа    if he   will wake up
+беҙ  уянһаҡ   if we   will wake up
+һеҙ  уянһағыҙ if you  will wake up
+улар уянһалар if they will wake up
+
+
+
+
+
+
+
+мин  уянғым    килә I    want  to wake up
+һин  уянғың    килә you  want  to wake up
+ул   уянғыһы   килә he   wants to wake up
+беҙ  уянғыҡ    килә we   want  to wake up
+һеҙ  уянғығыҙ  килә you  want  to wake up
+улар уянғылары килә they want  to wake up
+
+
+
+
+1
