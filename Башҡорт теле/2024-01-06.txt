@@ -1,74 +1,74 @@
 кит
 
-мин   китәм     I
-һиң   китәһең   you
-ул    китә      he
-беҙ   китәбеҙ   we
-һеҙ   китәһегеҙ you
-улар  китәләр   they
+мин   китәм     I    am  leaveing
+һиң   китәһең   you  are leaveing
+ул    китә      he   is  leaveing
+беҙ   китәбеҙ   we   are leaveing
+һеҙ   китәһегеҙ you  are leaveing
+улар  китәләр   they are leaveing
 
-мин   китмәйем    I
-һиң   китмәйһең   you
-ул    китмәй      he
-беҙ   китмәйбеҙ   we
-һеҙ   китмәйһегеҙ you
-улар  китмәйҙәр   they
+мин   китмәйем    I    don't   leave
+һиң   китмәйһең   you  don't   leave
+ул    китмәй      he   doesn't leave
+беҙ   китмәйбеҙ   we   don't   leave
+һеҙ   китмәйһегеҙ you  don't   leave
+улар  китмәйҙәр   they don't   leave
 
-мин   киттем     I
-һиң   киттеһең   you
-ул    китте      he
-беҙ   киттебеҙ   we
-һеҙ   киттеһегеҙ you
-улар  киттеләр   they
+мин   киттем     I    have left
+һиң   киттеһең   you  have left
+ул    китте      he   has  left
+беҙ   киттебеҙ   we   have left
+һеҙ   киттеһегеҙ you  have left
+улар  киттеләр   they have left
 
-мин   китмәнем   I
-һең   китмәнең   you
-ул    китмәне    he
-беҙ   китмәнек   we
-һеҙ   китмәнегеҙ you
-улар  китмәнеләр they
+мин   китмәнем   I    haven't left
+һең   китмәнең   you  haven't left
+ул    китмәне    he   hasn't  left
+беҙ   китмәнек   we   haven't left
+һеҙ   китмәнегеҙ you  haven't left
+улар  китмәнеләр they haven't left
 
-мин   киткәнмен   I
-һиң   киткәнһең   you
-ул    киткән      he
-беҙ   киткәнбыҙ   we
-һеҙ   киткәнһегеҙ you
-улар  киткәндәр   they
+мин   киткәнмен   I    have left
+һиң   киткәнһең   you  have left
+ул    киткән      he   has  left
+беҙ   киткәнбыҙ   we   have left
+һеҙ   киткәнһегеҙ you  have left
+улар  киткәндәр   they have left
 
-мен   китмәгәнмен   I
-һең   китмәгәнһең   you
-ул    китмәгән      he
-беҙ   китмәгәнбеҙ   we
-һеҙ   китмәгәнһегеҙ you
-улар  китмәгәндәр   they
+мен   китмәгәнмен   I    haven't left 
+һең   китмәгәнһең   you  haven't left 
+ул    китмәгән      he   hasn't  left 
+беҙ   китмәгәнбеҙ   we   haven't left 
+һеҙ   китмәгәнһегеҙ you  haven't left 
+улар  китмәгәндәр   they haven't left 
 
-мин   китермен    I
-һиң   китерһең    you
-ул    китер       he
-беҙ   китербеҙ    we
-һеҙ   китерһегеҙ  you
-улар  китерҙәр    they
+мин   китермен    I    would leave
+һиң   китерһең    you  would leave
+ул    китер       he   would leave
+беҙ   китербеҙ    we   would leave
+һеҙ   китерһегеҙ  you  would leave
+улар  китерҙәр    they would leave
 
-мин   китмәҫмен   I
-һиң   китмәҫһең   you
-ул    китмәҫ      he
-беҙ   китмәҫбеҙ   we
-һеҙ   китмәҫһегеҙ you
-улар  китмәҫтәр   they
+мин   китмәҫмен   I    wouldn't leave
+һиң   китмәҫһең   you  wouldn't leave
+ул    китмәҫ      he   wouldn't leave
+беҙ   китмәҫбеҙ   we   wouldn't leave
+һеҙ   китмәҫһегеҙ you  wouldn't leave
+улар  китмәҫтәр   they wouldn't leave
 
-мин   китәсәкмен   I
-һиң   китәсәкһең   you
-ул    китәсәк      he
-беҙ   китәсәкбеҙ   we
-һеҙ   китәсәкһегеҙ you
-улар  китәсәктәр   they
+мин   китәсәкмен   I    will leave
+һиң   китәсәкһең   you  will leave
+ул    китәсәк      he   will leave
+беҙ   китәсәкбеҙ   we   will leave
+һеҙ   китәсәкһегеҙ you  will leave
+улар  китәсәктәр   they will leave
 
-мин   китмәйәсәкмен   I
-һең   китмәйәсәкһең   you
-ул    китмәйәсәк      he
-беҙ   китмәйәсәкбеҙ   we
-һеҙ   китмәйәсәкһегеҙ you
-улар  китмәйәсәктәр   they
+мин   китмәйәсәкмен   I    'll not leave
+һең   китмәйәсәкһең   you  'll not leave 
+ул    китмәйәсәк      he   'll not leave 
+беҙ   китмәйәсәкбеҙ   we   'll not leave 
+һеҙ   китмәйәсәкһегеҙ you  'll not leave 
+улар  китмәйәсәктәр   they 'll not leave 
 
 
 мин   китһәм   if I    will leave
@@ -78,12 +78,12 @@
 һеҙ   китһәгеҙ if you  will leave
 улар  китһәләр if they will leave
 
-мин   киткем     килә 
-һиң   киткең     килә
-ул    киткеһе    килә
-беҙ   киткек     килә
-һеҙ   киткегеҙ   килә
-улар  киткеләре  килә
+мин   киткем     килә I    want  to leave
+һиң   киткең     килә you  want  to leave
+ул    киткеһе    килә he   wants to leave
+беҙ   киткек     килә we   want  to leave
+һеҙ   киткегеҙ   килә you  want  to leave
+улар  киткеләре  килә they want  to leave
 
 leave
 leave
@@ -98,18 +98,21 @@ leave
 leave
 leave
 leave
+
 leave
 leave
 leave
 leave
 leave
 leave
+
 leave
 leave
 leave
 leave
 leave
 leave
+
 leave
 leave
 
