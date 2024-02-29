@@ -13,86 +13,87 @@
 
 
 
-ҡыйламайым    I    don't litter
-ҡыйламайһың   you  don't litter
-ҡыйламай      he   don't litter
-ҡыйламайбыҙ   we   don't litter
-ҡыйламайһығыҙ you  don't litter
-ҡыйламайҙар   they don't litter
+мин  ҡыйламайым    I    don't litter
+һин  ҡыйламайһың   you  don't litter
+ул   ҡыйламай      he   don't litter
+беҙ  ҡыйламайбыҙ   we   don't litter
+һеҙ  ҡыйламайһығыҙ you  don't litter
+улар ҡыйламайҙар   they don't litter
 
 
 
 
-ҡыйланым
-ҡыйланың
-ҡыйланы
-ҡыйланыҡ
-ҡыйланығыҙ
-ҡыйланылар
+мин  ҡыйланым   I    have litter
+һин  ҡыйланың   you  have litter
+ул   ҡыйланы    he   has  litter
+беҙ  ҡыйланыҡ   we   have litter
+һеҙ  ҡыйланығыҙ you  have litter
+улар ҡыйланылар they have litter
 
-ҡыйламаным
-ҡыйламаның
-ҡыйламаны
-ҡыйламаныҡ
-ҡыйламанығыҙ
-ҡыйламанылар
+мин  ҡыйламаным   I    haven litter
+һин  ҡыйламаның   you  haven litter
+ул   ҡыйламаны    he   hasn  litter
+беҙ  ҡыйламаныҡ   we   haven litter
+һеҙ  ҡыйламанығыҙ you  haven litter
+улар ҡыйламанылар they haven litter
 
-ҡыйлаһам
-ҡыйлаһаң
-ҡыйлаһа
-ҡыйлаһаҡ
-ҡыйлаһағыҙ
-ҡыйлаһалар
-
-
-ҡыйлағым    килә
-ҡыйлағың
-ҡыйлағыһы
-ҡыйлағыҡ
-ҡыйлағығыҙ
-ҡыйлағылары
+мин  ҡыйлаһам   if I    will litter
+һин  ҡыйлаһаң   if you  will litter
+ул   ҡыйлаһа    if he   will litter
+беҙ  ҡыйлаһаҡ   if we   will litter
+һеҙ  ҡыйлаһағыҙ if you  will litter
+улар ҡыйлаһалар if they will litter
 
 
-ҡыйлармын
-ҡыйларһың
-ҡыйлар
-ҡыйларбыҙ
-ҡыйларһығыҙ
-ҡыйларҙар
-
-ҡыйламаҫмын
-ҡыйламаҫһың
-ҡыйламаҫ
-ҡыйламаҫбыҙ
-ҡыйламаҫһығыҙ
-ҡыйламаҫтар
-
-ҡыйлаясакмын
-ҡыйлаясакһың
-ҡыйлаясак
-ҡыйлаясакбыҙ
-ҡыйлаясакһығыҙ
-ҡыйлаясактар
-
-ҡыйламаясакмын
-ҡыйламаясакһың
-ҡыйламаясак
-ҡыйламаясакбыҙ
-ҡыйламаясакһығыҙ
-ҡыйламаясактар
+мин  ҡыйлағым    килә
+һин  ҡыйлағың
+ул   ҡыйлағыһы
+беҙ  ҡыйлағыҡ
+һеҙ  ҡыйлағығыҙ
+улар ҡыйлағылары
 
 
-ҡылағанмын
-ҡылағанһың
-ҡылаған
-ҡылағанбыҙ
-ҡылағанһығыҙ
-ҡылағандар
+мин  ҡыйлармын   I    would litter
+һин  ҡыйларһың   you  would litter
+ул   ҡыйлар      he   would litter
+беҙ  ҡыйларбыҙ   we   would litter
+һеҙ  ҡыйларһығыҙ you  would litter
+улар ҡыйларҙар   they would litter
+
+мин  ҡыйламаҫмын   I    wouldn't litter
+һин  ҡыйламаҫһың   you  wouldn't litter
+ул   ҡыйламаҫ      he   wouldn't litter
+беҙ  ҡыйламаҫбыҙ   we   wouldn't litter
+һеҙ  ҡыйламаҫһығыҙ you  wouldn't litter
+ул   ҡыйламаҫтар   they wouldn't litter
+
+мин  ҡыйлаясакмын   I    will litter
+һин  ҡыйлаясакһың   you  will litter
+ул   ҡыйлаясак      he   will litter
+беҙ  ҡыйлаясакбыҙ   we   will litter
+һеҙ  ҡыйлаясакһығыҙ you  will litter
+улар ҡыйлаясактар   they will litter
+
+мин  ҡыйламаясакмын   I    won't litter
+һин  ҡыйламаясакһың   you  won't litter
+ул   ҡыйламаясак      he   won't litter
+беҙ  ҡыйламаясакбыҙ   we   won't litter
+һеҙ  ҡыйламаясакһығыҙ you  won't litter
+улар ҡыйламаясактар   they won't litter
 
 
-ҡыламағанмын
-ҡыламағанһың
-ҡыламаған
-ҡыламағанбыҙ
-ҡыламағанһығыҙ
-ҡыламағандар
+мин  ҡылағанмын   I    have litter
+һин  ҡылағанһың   you  have litter
+ул   ҡылаған      he   has  litter
+беҙ  ҡылағанбыҙ   we   have litter
+һеҙ  ҡылағанһығыҙ you  have litter
+улар ҡылағандар   they have litter
+
+
+мин  ҡыламағанмын   
+һин  ҡыламағанһың   
+ул   ҡыламаған      
+беҙ  ҡыламағанбыҙ   
+һеҙ  ҡыламағанһығыҙ 
+улар ҡыламағандар   
+
