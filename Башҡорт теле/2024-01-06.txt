@@ -71,12 +71,12 @@
 улар  китмәйәсәктәр   they
 
 
-мин   китһәм   I
-һиң   китһәң   you
-ул    китһә    he
-беҙ   китһәк   we
-һеҙ   китһәгеҙ you
-улар  китһәләр they
+мин   китһәм   if I    will leave
+һиң   китһәң   if you  will leave
+ул    китһә    if he   will leave
+беҙ   китһәк   if we   will leave
+һеҙ   китһәгеҙ if you  will leave
+улар  китһәләр if they will leave
 
 мин   киткем     килә 
 һиң   киткең     килә
@@ -91,6 +91,7 @@ leave
 leave
 leave
 leave
+
 leave
 leave
 leave

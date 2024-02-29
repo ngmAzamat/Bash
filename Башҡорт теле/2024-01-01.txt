@@ -1,9 +1,9 @@
-мин  ҡыйлайым
-һин  ҡыйлайһың
-ул   ҡыйлай
-беҙ  ҡыйлайбыҙ
-ҡыйлайһығыҙ
-ҡыйлайҙар
+мин  ҡыйлайым    I    am  littering
+һин  ҡыйлайһың   you  are littering
+ул   ҡыйлай      he   is  littering
+беҙ  ҡыйлайбыҙ   we   are littering
+һеҙ  ҡыйлайһығыҙ you  are littering
+улар ҡыйлайҙар   they are littering
 
 
 
@@ -45,12 +45,12 @@
 улар ҡыйлаһалар if they will litter
 
 
-мин  ҡыйлағым    килә
-һин  ҡыйлағың
-ул   ҡыйлағыһы
-беҙ  ҡыйлағыҡ
-һеҙ  ҡыйлағығыҙ
-улар ҡыйлағылары
+мин  ҡыйлағым    килә I    want  to litter
+һин  ҡыйлағың    килә you  want  to litter
+ул   ҡыйлағыһы   килә he   wants to litter
+беҙ  ҡыйлағыҡ    килә we   want  to litter
+һеҙ  ҡыйлағығыҙ  килә you  want  to litter
+улар ҡыйлағылары килә they want  to litter
 
 
 мин  ҡыйлармын   I    would litter
@@ -90,10 +90,10 @@
 улар ҡылағандар   they have litter
 
 
-мин  ҡыламағанмын   
-һин  ҡыламағанһың   
-ул   ҡыламаған      
-беҙ  ҡыламағанбыҙ   
-һеҙ  ҡыламағанһығыҙ 
-улар ҡыламағандар   
+мин  ҡыламағанмын   I    haven't litter
+һин  ҡыламағанһың   you  haven't litter
+ул   ҡыламаған      he   hasn't  litter
+беҙ  ҡыламағанбыҙ   we   haven't litter
+һеҙ  ҡыламағанһығыҙ you  haven't litter
+улар ҡыламағандар   they haven't litter
 

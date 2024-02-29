@@ -1,85 +1,85 @@
 көлөргә
 
-көләм
-көләһең
-көлә
-көләбеҙ
-көләһегеҙ
-көләләр
+мин  көләм     I    am  laughing
+һин  көләһең   you  are laughing
+ул   көлә      he   is  laughing
+беҙ  көләбеҙ   we   are laughing
+һеҙ  көләһегеҙ you  are laughing
+улар көләләр   they are laughing
 
-көлмәйем
-көлмәйһең
-көлмәй
-көлмәйбыҙ
-көлмәйһығыҙ
-көлмәйҙәр
+мин  көлмәйем    I    don't   laugh 
+һин  көлмәйһең   you  don't   laugh 
+ул   көлмәй      he   doesn't laugh 
+беҙ  көлмәйбыҙ   we   don't   laugh 
+һеҙ  көлмәйһығыҙ you  don't   laugh 
+улар көлмәйҙәр   they don't   laugh
 
-көлдөм
-көлдөң
-көлдө
-көлдөк
-көлдөгөҙ
-көлдөләр
+мин  көлдөм   I    have laugh
+һин  көлдөң   you  have laugh
+ул   көлдө    he   has  laugh
+беҙ  көлдөк   we   have laugh
+һеҙ  көлдөгөҙ you  have laugh
+улар көлдөләр they have laugh
 
-көлмәнем
-көлмәнең
-көлмәне
-көлмәнек
-көлмәнегеҙ
-көлмәнеләр
+мин  көлмәнем   I    haven't laugh
+һин  көлмәнең   you  haven't laugh 
+ул   көлмәне    he   hasn't  laugh
+беҙ  көлмәнек   we   haven't laugh
+һеҙ  көлмәнегеҙ you  haven't laugh
+улар көлмәнеләр they haven't laugh
 
-көлгәнмен
-көлгәнһең
-көлгән
-көлгәнбеҙ
-көлгәнһегеҙ
-көлгәндәр
+мин  көлгәнмен   I    laugh
+һин  көлгәнһең   you  laugh 
+ул   көлгән      he   laugh
+беҙ  көлгәнбеҙ   we   laugh
+һеҙ  көлгәнһегеҙ you  laugh
+улар көлгәндәр   they laugh
   
-көлмәгәнмен
-көлмәгәнһең
-көлмәгән
-көлмәгәнбеҙ
-көлмәгәнһегеҙ
-көлмәгәндәр
+мин  көлмәгәнмен   I    haven't laugh
+һин  көлмәгәнһең   you  haven't laugh
+ул   көлмәгән      he   hasn't  laugh
+беҙ  көлмәгәнбеҙ   we   haven't laugh
+һеҙ  көлмәгәнһегеҙ you  haven't laugh
+улар көлмәгәндәр   they haven't laugh
 
-көлһәм
-көлһәң
-көлһә
-көлһәк
-көлһәгеҙ
-көлһәләр
+мин  көлһәм   if I    will laugh
+һин  көлһәң   if you  will laugh 
+ул   көлһә    if he   will laugh 
+беҙ  көлһәк   if we   will laugh 
+һеҙ  көлһәгеҙ if you  will laugh 
+улар көлһәләр if they will laugh
 
-көлгөм    килә
-көлгөң
-көлгөһө
-көлгөк
-көлгөгөҙ
-көлгөләре
+мин  көлгөм    килә I    want  to laugh 
+һин  көлгөң    килә you  want  to laugh 
+ул   көлгөһө   килә he   wants to laugh 
+беҙ  көлгөк    килә we   want  to laugh 
+һеҙ  көлгөгөҙ  килә you  want  to laugh 
+улар көлгөләре килә they want  to laugh
 
-көлөрмөн
-көлөрһөң
-көлөр
-көлөрбөҙ
-көлөрһөгөҙ
-көлөрҙәр
+мин  көлөрмөн   I    would laugh 
+һин  көлөрһөң   you  would laugh
+ул   көлөр      he   would laugh
+беҙ  көлөрбөҙ   we   would laugh 
+һеҙ  көлөрһөгөҙ you  would laugh
+улар көлөрҙәр   they would laugh
 
-көлмәҫмен
-көлмәҫһең
-көлмәҫ
-көлмәҫбеҙ
-көлмәҫһегеҙ
-көлмөҫтәр
+мин  көлмәҫмен   I    wouldn't laugh
+һин  көлмәҫһең   you  wouldn't laugh 
+ул   көлмәҫ      he   wouldn't laugh 
+беҙ  көлмәҫбеҙ   we   wouldn't laugh 
+һеҙ  көлмәҫһегеҙ you  wouldn't laugh
+улар көлмөҫтәр   they wouldn't laugh
 
-көләсәкмен
-көләсәкһең
-көләсәк
-көләсәкбеҙ
-көләсәкһегеҙ
-көләсәктәр
+мин  көләсәкмен   I    will laugh
+һин  көләсәкһең   you  will laugh
+ул   көләсәк      he   will laugh
+беҙ  көләсәкбеҙ   we   will laugh
+һеҙ  көләсәкһегеҙ you  will laugh
+улар көләсәктәр   they will laugh
 
-көлмәйәсәкмен
-көлмәйәсәкһең
-көлмәйәсәк
-көлмәйәсәкбеҙ
-көлмәйәсәкһегеҙ
-көлмәйәсәктәр
+мин  көлмәйәсәкмен   I    won't laugh
+һин  көлмәйәсәкһең   you  won't laugh 
+ул   көлмәйәсәк      he   won't laugh
+беҙ  көлмәйәсәкбеҙ   we   won't laugh
+һеҙ  көлмәйәсәкһегеҙ you  won't laugh 
+улар көлмәйәсәктәр   they won't laugh

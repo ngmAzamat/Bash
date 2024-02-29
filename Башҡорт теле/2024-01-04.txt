@@ -1,92 +1,92 @@
 кер
 
 
-мин  керәм
-һин  керәһең
-ул   керә
-беҙ  керәбеҙ
-һеҙ  керәһегеҙ
-улар керәләр
+мин  керәм     I    am  entering
+һин  керәһең   you  are entering
+ул   керә      he   is  entering
+беҙ  керәбеҙ   we   are entering
+һеҙ  керәһегеҙ you  are entering
+улар керәләр   they are entering
 
-мин  кермәйем
-һин  кермәйһең
-ул   кермәй
-беҙ  кермәйбеҙ
-һеҙ  кермәйһегеҙ
-улар кермәйҙәр
+мин  кермәйем    I    don't   enter 
+һин  кермәйһең   you  don't   enter 
+ул   кермәй      he   doesn't enter 
+беҙ  кермәйбеҙ   we   don't   enter 
+һеҙ  кермәйһегеҙ you  don't   ebter
+улар кермәйҙәр   they don't   enter
 
-мин  керҙем
-һин  керҙең
-ул   керҙе
-беҙ  керҙек
-һеҙ  керҙегеҙ
-улар керҙеләр
+мин  керҙем   I    have enter
+һин  керҙең   you  have enter 
+ул   керҙе    he   has  enter 
+беҙ  керҙек   we   have enter
+һеҙ  керҙегеҙ you  have ebtnr
+улар керҙеләр they have enter
 
-мин  кермәнем
-һин  кермәнең
-ул   кермәне
-беҙ  кермәнек
-һеҙ  кермәнегеҙ
-улар кермәнеләр
+мин  кермәнем   I    haven't enter
+һин  кермәнең   you  haven't enter
+ул   кермәне    he   hasn't  enter
+беҙ  кермәнек   we   haven't enter
+һеҙ  кермәнегеҙ you  haven't enter
+улар кермәнеләр they haven't enter
 
-мин  кергәнмен
-һин  кергәнһең
-ул   кергән
-беҙ  кергәнбеҙ
-һеҙ  кергәнһегеҙ
-улар кергәндәр
+мин  кергәнмен   I    have enter
+һин  кергәнһең   you  have enter
+ул   кергән      he   has  enter
+беҙ  кергәнбеҙ   we   have enter 
+һеҙ  кергәнһегеҙ you  have enter 
+улар кергәндәр   they have enter
 
-мин  кермәгәнмен
-һин  кермәгәнһең
-ул   кермәгән
-беҙ  кермәгәнбеҙ
-һеҙ  кермәгәнһегеҙ
-улар кермәгәндәр
+мин  кермәгәнмен   I    haven't enter
+һин  кермәгәнһең   you  haven't enter
+ул   кермәгән      he   haven't enter
+беҙ  кермәгәнбеҙ   we   haven't enter
+һеҙ  кермәгәнһегеҙ you  haven't enter
+улар кермәгәндәр   they haven't enter
 
-мин  керермен
-һин  керерһең
-ул   керер
-беҙ  керербеҙ
-һеҙ  керерһегеҙ
-улар керерләр
+мин  керермен   I    would enter
+һин  керерһең   you  would enter
+ул   керер      he   would enter
+беҙ  керербеҙ   we   would enter
+һеҙ  керерһегеҙ you  would enter
+улар керерләр   they would enter
 
-мин  кермәҫмен
-һин  кермәҫһең
-ул   кермәҫ
-беҙ  кермәҫбеҙ
-һеҙ  кермәҫһегеҙ
-улар кермәҫтәр
+мин  кермәҫмен   I    wouldn't enter
+һин  кермәҫһең   you  wouldn't enter
+ул   кермәҫ      he   wouldn't enter
+беҙ  кермәҫбеҙ   we   wouldn't enter
+һеҙ  кермәҫһегеҙ you  wouldn't enter
+улар кермәҫтәр   they wouldn't enter
 
-мин  керәсәкмен
-һин  керәсәкһең
-ул   керәсәк
-беҙ  керәсәкбеҙ
-һеҙ  керәсәкһегеҙ
-улар керәсәктәр
+мин  керәсәкмен   I    will enter
+һин  керәсәкһең   you  will enter
+ул   керәсәк      he   will enter
+беҙ  керәсәкбеҙ   we   will enter
+һеҙ  керәсәкһегеҙ you  will enter
+улар керәсәктәр   they will enter
 
-мин  кермәйәсәкмен
-һин  кермәйәсәкһең
-ул   кермәйәсәк
-беҙ  кермәйәсәкбеҙ
-һеҙ  кермәйәсәкһегеҙ
-улар кермәйәсәктәр
-
-
-
-
-мин  керһәм
-һин  керһәң
-ул   керһә
-беҙ  керһәк
-һеҙ  керһәгеҙ
-улар керһәләр
+мин  кермәйәсәкмен   I    will not
+һин  кермәйәсәкһең   you  will not
+ул   кермәйәсәк      he   will not
+беҙ  кермәйәсәкбеҙ   we   will not
+һеҙ  кермәйәсәкһегеҙ you  will not
+улар кермәйәсәктәр   they will not
 
 
 
 
-кергем      килә
-кергең
-кергеһе
-кергек
-кергегеҙ
-кергеләре
+мин  керһәм   if I    will enter
+һин  керһәң   if you  will enter
+ул   керһә    if he   will enter
+беҙ  керһәк   if we   will enter
+һеҙ  керһәгеҙ if you  will enter
+улар керһәләр if they will enter
+
+
+
+
+кергем      килә I    want  to enter 
+кергең      килә you  want  to enter 
+кергеһе     килә he   wants to enter 
+кергек      килә we   want  to enter 
+кергегеҙ    килә you  want  to enter
+кергеләре   килә they want  to enter
