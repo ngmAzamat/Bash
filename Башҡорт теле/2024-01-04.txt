@@ -12,14 +12,14 @@
 һин  кермәйһең   you  don't   enter 
 ул   кермәй      he   doesn't enter 
 беҙ  кермәйбеҙ   we   don't   enter 
-һеҙ  кермәйһегеҙ you  don't   ebter
+һеҙ  кермәйһегеҙ you  don't   enter
 улар кермәйҙәр   they don't   enter
 
 мин  керҙем   I    have entered
 һин  керҙең   you  have entered
 ул   керҙе    he   has  entered
 беҙ  керҙек   we   have entered
-һеҙ  керҙегеҙ you  have ebtnred
+һеҙ  керҙегеҙ you  have entnred
 улар керҙеләр they have entered
 
 мин  кермәнем   I    haven't entered
@@ -38,7 +38,7 @@
 
 мин  кермәгәнмен   I    haven't entered
 һин  кермәгәнһең   you  haven't entered
-ул   кермәгән      he   haven't entered
+ул   кермәгән      he   hasn't  entered
 беҙ  кермәгәнбеҙ   we   haven't entered
 һеҙ  кермәгәнһегеҙ you  haven't entered
 улар кермәгәндәр   they haven't entered
@@ -64,12 +64,12 @@
 һеҙ  керәсәкһегеҙ you  will enter
 улар керәсәктәр   they will enter
 
-мин  кермәйәсәкмен   I    will not
-һин  кермәйәсәкһең   you  will not
-ул   кермәйәсәк      he   will not
-беҙ  кермәйәсәкбеҙ   we   will not
-һеҙ  кермәйәсәкһегеҙ you  will not
-улар кермәйәсәктәр   they will not
+мин  кермәйәсәкмен   I    will not enter
+һин  кермәйәсәкһең   you  will not enter
+ул   кермәйәсәк      he   will not enter
+беҙ  кермәйәсәкбеҙ   we   will not enter
+һеҙ  кермәйәсәкһегеҙ you  will not enter
+улар кермәйәсәктәр   they will not enter
 
 
 

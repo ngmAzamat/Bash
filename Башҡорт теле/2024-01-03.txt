@@ -28,12 +28,12 @@
 һеҙ  көлмәнегеҙ you  haven't laughed
 улар көлмәнеләр they haven't laughed
 
-мин  көлгәнмен   I    laughed
-һин  көлгәнһең   you  laughed
-ул   көлгән      he   laughed
-беҙ  көлгәнбеҙ   we   laughed
-һеҙ  көлгәнһегеҙ you  laughed
-улар көлгәндәр   they laughed
+мин  көлгәнмен   I    have laughed
+һин  көлгәнһең   you  have laughed
+ул   көлгән      he   has  laughed
+беҙ  көлгәнбеҙ   we   have laughed
+һеҙ  көлгәнһегеҙ you  have laughed
+улар көлгәндәр   they have laughed
   
 мин  көлмәгәнмен   I    haven't laughed
 һин  көлмәгәнһең   you  haven't laughed

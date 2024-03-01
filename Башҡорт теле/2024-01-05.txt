@@ -1,83 +1,84 @@
-мин  киләм        I    come
-һин  киләһең      you come
-ул   килә         he come
-беҙ  киләбеҙ      we come
-һеҙ  киләһегеҙ    you come
-улар киләләр      they come
+мин  киләм        I    am  coming
+һин  киләһең      you  are coming
+ул   килә         he   is  coming
+беҙ  киләбеҙ      we   are coming
+һеҙ  киләһегеҙ    you  are coming
+улар киләләр      they are coming
 
-мин  килмәйем     I come not
-һин  килмәйһең    you come not
-ул   килмәй       he come not
-беҙ  килмәйбеҙ    we come not
-һеҙ  килмәйһегеҙ  you come not
-улар килмәйҙәр    they come not
+мин  килмәйем     I    do not come
+һин  килмәйһең    you  do not come
+ул   килмәй       he   do not come
+беҙ  килмәйбеҙ    we   do not come
+һеҙ  килмәйһегеҙ  you  do not come
+улар килмәйҙәр    they do not come
 
-мин  килдем   I    come
-һин  килдең   you  come
-ул   килде    he   come
-беҙ  килдек   we   come
-һеҙ  килдегеҙ you  come
-улар килделәр they come
+мин  килдем   I    have come
+һин  килдең   you  have come
+ул   килде    he   has  come
+беҙ  килдек   we   have come
+һеҙ  килдегеҙ you  have come
+улар килделәр they have come
 
-мин  килмәнем   I    come 
-һин  килмәнең   you  come 
-ул   килмәне    he   come 
-беҙ  килмәнек   we   come 
-һеҙ  килмәнегеҙ you  come 
-улар килмәнеләр they come  
+мин  килмәнем   I    have come 
+һин  килмәнең   you  have come 
+ул   килмәне    he   has  come 
+беҙ  килмәнек   we   have come 
+һеҙ  килмәнегеҙ you  have come 
+улар килмәнеләр they have come 
 
-мин  килгәнмен   I    come
-һин  килгәнһең   you  come
-ул   килгән      he   come
-беҙ  килгәнбеҙ   we   come
-һеҙ  килгәнһегеҙ you  come
-улар килгәндәр   they come
+мин  килгәнмен   I    have come
+һин  килгәнһең   you  have come
+ул   килгән      he   has  come
+беҙ  килгәнбеҙ   we   have come
+һеҙ  килгәнһегеҙ you  have come
+улар килгәндәр   they have come
 
-мин  килмәгәнмен   I    come
-һин  килмәгәнһең   you  come
-ул   килмәгән      he   come
-беҙ  килмәгәнбеҙ   we   come
-һеҙ  килмәгәнһегеҙ you  come
-улар килмәгәндәр   they come
+мин  килмәгәнмен   I    haven't come
+һин  килмәгәнһең   you  haven't come
+ул   килмәгән      he   hasn't  come
+беҙ  килмәгәнбеҙ   we   haven't come
+һеҙ  килмәгәнһегеҙ you  haven't come
+улар килмәгәндәр   they haven't come
 
-мин  килермен   I    come
-һин  килерһең   you  come
-ул   килер      he   come
-беҙ  килербеҙ   we   come
-һеҙ  килерһегеҙ you  come
-улар килерҙәр   they come
+мин  килермен   I    would come
+һин  килерһең   you  would come
+ул   килер      he   would come
+беҙ  килербеҙ   we   would come
+һеҙ  килерһегеҙ you  would come
+улар килерҙәр   they would come
 
-мин  килмәҫмен   I    come
-һин  килмәҫһең   you  come
-ул   килмәҫ      he   come
-беҙ  килмәҫбеҙ   we   come
-һеҙ  килмәҫһегеҙ you  come
-улар килмәҫтәр   they come
+мин  килмәҫмен   I    wouldn't come
+һин  килмәҫһең   you  wouldn't come
+ул   килмәҫ      he   wouldn't come
+беҙ  килмәҫбеҙ   we   wouldn't come
+һеҙ  килмәҫһегеҙ you  wouldn't come
+улар килмәҫтәр   they wouldn't come
 
-мин  киләсәсәкмен   
-һин  киләсәсәкһең   
-ул   киләсәсәк      
-беҙ  киләсәсәкбеҙ   
-һеҙ  киләсәсәкһегеҙ 
-улар киләсәсәктәр   
+мин  киләсәсәкмен   I    will come
+һин  киләсәсәкһең   you  will come
+ул   киләсәсәк      he   will come
+беҙ  киләсәсәкбеҙ   we   will come
+һеҙ  киләсәсәкһегеҙ you  will come
+улар киләсәсәктәр   they will come
 
-мин  килмәйәсәкмен
-һин  килмәйәсәкһең
-ул   килмәйәсәк
-беҙ  килмәйәсәкбеҙ
-һеҙ  килмәйәсәкһегеҙ
-улар килмәйәсәктәр
+мин  килмәйәсәкмен   I    won't come
+һин  килмәйәсәкһең   you  won't come
+ул   килмәйәсәк      he   won't come
+беҙ  килмәйәсәкбеҙ   we   won't come
+һеҙ  килмәйәсәкһегеҙ you  won't come
+улар килмәйәсәктәр   they won't come
 
-мин  килһәм
-һин  килһәң
-ул   килһә
-беҙ  килһәк
-һеҙ  килһәгеҙ
-улар килһәләр
+мин  килһәм   if I    will come
+һин  килһәң   if you  will come
+ул   килһә    if he   will come
+беҙ  килһәк   if we   will come
+һеҙ  килһәгеҙ if you  will come
+улар килһәләр if they will come
 
-мин  килгем     килә
-һин  килгең
-ул   килгеһе
-беҙ  килгек
-һеҙ  килгегеҙ
-улар килгеләре
+мин  килгем    килә I    want  to come
+һин  килгең    килә you  want  to come
+ул   килгеһе   килә he   wants to come
+беҙ  килгек    килә we   want  to come
+һеҙ  килгегеҙ  килә you  want  to come
+улар килгеләре килә they want  to come
+
