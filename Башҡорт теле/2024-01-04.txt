@@ -15,33 +15,33 @@
 һеҙ  кермәйһегеҙ you  don't   ebter
 улар кермәйҙәр   they don't   enter
 
-мин  керҙем   I    have enter
-һин  керҙең   you  have enter 
-ул   керҙе    he   has  enter 
-беҙ  керҙек   we   have enter
-һеҙ  керҙегеҙ you  have ebtnr
-улар керҙеләр they have enter
+мин  керҙем   I    have entered
+һин  керҙең   you  have entered
+ул   керҙе    he   has  entered
+беҙ  керҙек   we   have entered
+һеҙ  керҙегеҙ you  have ebtnred
+улар керҙеләр they have entered
 
-мин  кермәнем   I    haven't enter
-һин  кермәнең   you  haven't enter
-ул   кермәне    he   hasn't  enter
-беҙ  кермәнек   we   haven't enter
-һеҙ  кермәнегеҙ you  haven't enter
-улар кермәнеләр they haven't enter
+мин  кермәнем   I    haven't entered
+һин  кермәнең   you  haven't entered
+ул   кермәне    he   hasn't  entered
+беҙ  кермәнек   we   haven't entered
+һеҙ  кермәнегеҙ you  haven't entered
+улар кермәнеләр they haven't entered
 
-мин  кергәнмен   I    have enter
-һин  кергәнһең   you  have enter
-ул   кергән      he   has  enter
-беҙ  кергәнбеҙ   we   have enter 
-һеҙ  кергәнһегеҙ you  have enter 
-улар кергәндәр   they have enter
+мин  кергәнмен   I    have entered
+һин  кергәнһең   you  have entered
+ул   кергән      he   has  entered
+беҙ  кергәнбеҙ   we   have entered
+һеҙ  кергәнһегеҙ you  have entered
+улар кергәндәр   they have entered
 
-мин  кермәгәнмен   I    haven't enter
-һин  кермәгәнһең   you  haven't enter
-ул   кермәгән      he   haven't enter
-беҙ  кермәгәнбеҙ   we   haven't enter
-һеҙ  кермәгәнһегеҙ you  haven't enter
-улар кермәгәндәр   they haven't enter
+мин  кермәгәнмен   I    haven't entered
+һин  кермәгәнһең   you  haven't entered
+ул   кермәгән      he   haven't entered
+беҙ  кермәгәнбеҙ   we   haven't entered
+һеҙ  кермәгәнһегеҙ you  haven't entered
+улар кермәгәндәр   they haven't entered
 
 мин  керермен   I    would enter
 һин  керерһең   you  would enter

@@ -15,7 +15,7 @@
 
 мин  ҡыйламайым    I    don't litter
 һин  ҡыйламайһың   you  don't litter
-ул   ҡыйламай      he   don't litter
+ул   ҡыйламай      he   doesn't litter
 беҙ  ҡыйламайбыҙ   we   don't litter
 һеҙ  ҡыйламайһығыҙ you  don't litter
 улар ҡыйламайҙар   they don't litter
@@ -23,19 +23,19 @@
 
 
 
-мин  ҡыйланым   I    have litter
-һин  ҡыйланың   you  have litter
-ул   ҡыйланы    he   has  litter
-беҙ  ҡыйланыҡ   we   have litter
-һеҙ  ҡыйланығыҙ you  have litter
-улар ҡыйланылар they have litter
+мин  ҡыйланым   I    have littered
+һин  ҡыйланың   you  have littered
+ул   ҡыйланы    he   has  littered
+беҙ  ҡыйланыҡ   we   have littered
+һеҙ  ҡыйланығыҙ you  have littered
+улар ҡыйланылар they have littered
 
-мин  ҡыйламаным   I    haven litter
-һин  ҡыйламаның   you  haven litter
-ул   ҡыйламаны    he   hasn  litter
-беҙ  ҡыйламаныҡ   we   haven litter
-һеҙ  ҡыйламанығыҙ you  haven litter
-улар ҡыйламанылар they haven litter
+мин  ҡыйламаным   I    haven't littered
+һин  ҡыйламаның   you  haven't littered
+ул   ҡыйламаны    he   hasn't  littered
+беҙ  ҡыйламаныҡ   we   haven't littered
+һеҙ  ҡыйламанығыҙ you  haven't littered
+улар ҡыйламанылар they haven't littered
 
 мин  ҡыйлаһам   if I    will litter
 һин  ҡыйлаһаң   if you  will litter
@@ -82,18 +82,18 @@
 улар ҡыйламаясактар   they won't litter
 
 
-мин  ҡылағанмын   I    have litter
-һин  ҡылағанһың   you  have litter
-ул   ҡылаған      he   has  litter
-беҙ  ҡылағанбыҙ   we   have litter
-һеҙ  ҡылағанһығыҙ you  have litter
-улар ҡылағандар   they have litter
+мин  ҡылағанмын   I    have littered
+һин  ҡылағанһың   you  have littered
+ул   ҡылаған      he   has  littered
+беҙ  ҡылағанбыҙ   we   have littered
+һеҙ  ҡылағанһығыҙ you  have littered
+улар ҡылағандар   they have littered
 
 
-мин  ҡыламағанмын   I    haven't litter
-һин  ҡыламағанһың   you  haven't litter
-ул   ҡыламаған      he   hasn't  litter
-беҙ  ҡыламағанбыҙ   we   haven't litter
-һеҙ  ҡыламағанһығыҙ you  haven't litter
-улар ҡыламағандар   they haven't litter
+мин  ҡыламағанмын   I    haven't littered
+һин  ҡыламағанһың   you  haven't littered
+ул   ҡыламаған      he   hasn't  littered
+беҙ  ҡыламағанбыҙ   we   haven't littered
+һеҙ  ҡыламағанһығыҙ you  haven't littered
+улар ҡыламағандар   they haven't littered
 

@@ -1,11 +1,11 @@
 кит
 
-мин   китәм     I    am  leaveing
-һиң   китәһең   you  are leaveing
-ул    китә      he   is  leaveing
-беҙ   китәбеҙ   we   are leaveing
-һеҙ   китәһегеҙ you  are leaveing
-улар  китәләр   they are leaveing
+мин   китәм     I    am  leaving
+һиң   китәһең   you  are leaving
+ул    китә      he   is  leaving
+беҙ   китәбеҙ   we   are leaving
+һеҙ   китәһегеҙ you  are leaving
+улар  китәләр   they are leaving
 
 мин   китмәйем    I    don't   leave
 һиң   китмәйһең   you  don't   leave
@@ -85,34 +85,43 @@
 һеҙ   киткегеҙ   килә you  want  to leave
 улар  киткеләре  килә they want  to leave
 
-leave
-leave
-leave
-leave
-leave
-leave
 
-leave
-leave
-leave
-leave
-leave
-leave
 
-leave
-leave
-leave
-leave
-leave
-leave
 
-leave
-leave
-leave
-leave
-leave
-leave
 
-leave
-leave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -14,33 +14,33 @@
 һеҙ  көлмәйһығыҙ you  don't   laugh 
 улар көлмәйҙәр   they don't   laugh
 
-мин  көлдөм   I    have laugh
-һин  көлдөң   you  have laugh
-ул   көлдө    he   has  laugh
-беҙ  көлдөк   we   have laugh
-һеҙ  көлдөгөҙ you  have laugh
-улар көлдөләр they have laugh
+мин  көлдөм   I    have laughed
+һин  көлдөң   you  have laughed
+ул   көлдө    he   has  laughed
+беҙ  көлдөк   we   have laughed
+һеҙ  көлдөгөҙ you  have laughed
+улар көлдөләр they have laughed
 
-мин  көлмәнем   I    haven't laugh
-һин  көлмәнең   you  haven't laugh 
-ул   көлмәне    he   hasn't  laugh
-беҙ  көлмәнек   we   haven't laugh
-һеҙ  көлмәнегеҙ you  haven't laugh
-улар көлмәнеләр they haven't laugh
+мин  көлмәнем   I    haven't laughed
+һин  көлмәнең   you  haven't laughed
+ул   көлмәне    he   hasn't  laughed
+беҙ  көлмәнек   we   haven't laughed
+һеҙ  көлмәнегеҙ you  haven't laughed
+улар көлмәнеләр they haven't laughed
 
-мин  көлгәнмен   I    laugh
-һин  көлгәнһең   you  laugh 
-ул   көлгән      he   laugh
-беҙ  көлгәнбеҙ   we   laugh
-һеҙ  көлгәнһегеҙ you  laugh
-улар көлгәндәр   they laugh
+мин  көлгәнмен   I    laughed
+һин  көлгәнһең   you  laughed
+ул   көлгән      he   laughed
+беҙ  көлгәнбеҙ   we   laughed
+һеҙ  көлгәнһегеҙ you  laughed
+улар көлгәндәр   they laughed
   
-мин  көлмәгәнмен   I    haven't laugh
-һин  көлмәгәнһең   you  haven't laugh
-ул   көлмәгән      he   hasn't  laugh
-беҙ  көлмәгәнбеҙ   we   haven't laugh
-һеҙ  көлмәгәнһегеҙ you  haven't laugh
-улар көлмәгәндәр   they haven't laugh
+мин  көлмәгәнмен   I    haven't laughed
+һин  көлмәгәнһең   you  haven't laughed
+ул   көлмәгән      he   hasn't  laughed
+беҙ  көлмәгәнбеҙ   we   haven't laughed
+һеҙ  көлмәгәнһегеҙ you  haven't laughed
+улар көлмәгәндәр   they haven't laughed
 
 мин  көлһәм   if I    will laugh
 һин  көлһәң   if you  will laugh 
