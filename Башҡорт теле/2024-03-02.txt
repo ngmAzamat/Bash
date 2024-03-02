@@ -35,48 +35,57 @@
 һеҙ  һаҡлағанһығыҙ you  have kept
 улар һаҡлағандар   they have kept
 
-мин  һаҡла
-һин  һаҡла
-ул   һаҡла
-беҙ  һаҡла
-һеҙ  һаҡла
-улар һаҡла
+мин  һаҡламағанмын   I    haven't kept
+һин  һаҡламағанһың   you  haven't kept
+ул   һаҡламаған      he   hasn't  kept
+беҙ  һаҡламағанбыҙ   we   haven't kept
+һеҙ  һаҡламағанһығыҙ you  haven't kept
+улар һаҡламағандар   they haven't kept
 
+мин  һаҡлармын   I    would keep
+һин  һаҡларһың   you  would keep
+ул   һаҡлар      he   would keep
+беҙ  һаҡларбыҙ   we   would keep
+һеҙ  һаҡларһығыҙ you  would keep
+улар һаҡларбыҙ   they would keep
 
-мин  һаҡла
-һин  һаҡла
-ул   һаҡла
-беҙ  һаҡла
-һеҙ  һаҡла
-улар һаҡла
-
-мин  һаҡла
-һин  һаҡла
-ул   һаҡла
-беҙ  һаҡла
-һеҙ  һаҡла
-улар һаҡла
-
-
+мин  һаҡламаҫмын   I    wouldn't keep
+һин  һаҡламаҫһың   you  wouldn't keep
+ул   һаҡламаҫ      he   wouldn't keep
+беҙ  һаҡламаҫбыҙ   we   wouldn't keep
+һеҙ  һаҡламаҫһығыҙ you  wouldn't keep
+улар һаҡламаҫтар   they wouldn't keep
 
 
 
 
+мин  һаҡлаясакмын   I    will keep
+һин  һаҡлаясакһың   you  will keep
+ул   һаҡлаясак      he   will keep
+беҙ  һаҡлаясакбыҙ   we   will keep
+һеҙ  һаҡлаясакһығыҙ you  will keep
+улар һаҡлаясактар   they will keep
 
+мин  һаҡламаясаҡмын   I    won't keep
+һин  һаҡламаясаҡһың   you  won't keep
+ул   һаҡламаясаҡ      he   won't keep
+беҙ  һаҡламаясаҡбыҙ   we   won't keep
+һеҙ  һаҡламаясаҡһығыҙ you  won't keep
+улар һаҡламаясаҡктар   they won't keep
 
+мин  һаҡлаһам   if I    will keep
+һин  һаҡлаһаң   if you  will keep
+ул   һаҡлаһа    if he   will keep
+беҙ  һаҡлаһаҡ   if we   will keep
+һеҙ  һаҡлаһағыҙ if you  will keep
+улар һаҡлаһалар if they will keep
 
-
-
-
-
-
-
-
-
-
-
-
-
+мин  һаҡлағым    килә I    want  to keep
+һин  һаҡлағың    килә you  want  to keep
+ул   һаҡлағыһы   килә he   wants to keep
+беҙ  һаҡлағыҡ    килә we   want  to keep
+һеҙ  һаҡлағығыҙ  килә you  want  to keep
+улар һаҡлағылары килә they want  to keep
 
 
 
