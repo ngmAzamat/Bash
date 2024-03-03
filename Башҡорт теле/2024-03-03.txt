@@ -1,0 +1,165 @@
+мин  I    am  catching I    am  holding
+һин  you  are catching you  are holding
+ул   he   is  catching he   is  holding
+беҙ  we   are catching we   are holding
+һеҙ  you  are catching you  are holding
+улар they are catching they are holding
+
+мин  I    don't   catch I    don't   hold
+һин  you  don't   catch you  don't   hold
+ул   he   doesn't catch he   doesn't hold
+беҙ  we   don't   catch we   don't   hold
+һеҙ  you  don't   catch you  don't   hold
+улар they don't   catch they don't   hold
+
+мин  I    have caught I    have held
+һин  you  have caught you  have held
+ул   he   has  caught he   has  held
+беҙ  we   have caught we   have held
+һеҙ  you  have caught you  have held
+улар they have caught they have held
+
+мин  I    haven't caught I    haven't held
+һин  you  haven't caught you  haven't held
+ул   he   hasn't  caught he   hasn't  held
+беҙ  we   haven't caught we   haven't held
+һеҙ  you  haven't caught you  haven't held
+улар they haven't caught they haven't held
+
+мин  I    have caught I    have held
+һин  you  have caught you  have held
+ул   he   has  caught he   has  held
+беҙ  we   have caught we   have held
+һеҙ  you  have caught you  have held
+улар they have caught they have held
+
+мин  I    haven't caught I    haven't held
+һин  you  haven't caught you  haven't held
+ул   he   hasn't  caught he   hasn't  held
+беҙ  we   haven't caught we   haven't held
+һеҙ  you  haven't caught you  haven't held
+улар they haven't caught they haven't held
+
+мин  I    would catch I    would hold
+һин  you  would catch you  would hold
+ул   he   would catch we   would hold
+беҙ  we   would catch he   would hold
+һеҙ  you  would catch you  would hold
+улар they would catch they would hold
+
+
+
+
+
+
+
+мин  I    wouldn't catch I    wouldn't hold
+һин  you  wouldn't catch you  wouldn't hold
+ул   he   wouldn't catch we   wouldn't hold
+беҙ  we   wouldn't catch he   wouldn't hold
+һеҙ  you  wouldn't catch you  wouldn't hold
+улар they wouldn't catch they wouldn't hold
+
+
+
+мин  I    will catch I    will hold
+һин  you  will catch you  will hold
+ул   he   will catch we   will hold
+беҙ  we   will catch he   will hold
+һеҙ  you  will catch you  will hold
+улар they will catch they will hold
+
+мин  I    won't catch I    won't hold
+һин  you  won't catch you  won't hold
+ул   he   won't catch he   won't hold
+беҙ  we   won't catch we   won't hold
+һеҙ  you  won't catch you  won't hold
+улар they won't catch they won't hold
+
+мин  if I    will catch if I    will hold
+һин  if you  will catch if you  will hold
+ул   if he   will catch if he   will hold
+беҙ  if we   will catch if we   will hold
+һеҙ  if you  will catch if you  will hold
+улар if they will catch if they will hold
+
+мин  I    want  to catch
+һин  you  want  to catch
+ул   he   wants to catch
+беҙ  we   want  to catch
+һеҙ  you  want  to catch
+улар they want  to catch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
