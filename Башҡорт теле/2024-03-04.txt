@@ -1,0 +1,103 @@
+мин  түләйем    I    am  paying
+һин  түләйһең   you  are paying
+ул   түләй      he   is  paying
+беҙ  түләйбеҙ   we   are paying
+һеҙ  түләйһегеҙ you  are paying
+улар түләйҙәр   they are paying
+
+мин  түләмәйем    I    don't   pay
+һин  түләмәйһең   you  don't   pay
+ул   түләмәй      he   doesn't pay
+беҙ  түләмәйбеҙ   we   don't   pay
+һеҙ  түләмәйһегеҙ you  don't   pay
+улар түләмәйҙәр   they don't   pay
+
+мин  түләнем   I    have paid
+һин  түләнең   you  have paid
+ул   түләне    he   has  paid
+беҙ  түләнек   we   have paid
+һеҙ  түләнеғыҙ you  have paid
+улар түләнеләр they have paid
+
+мин  түләмәнем   I    haven't paid
+һин  түләмәнең   you  haven't paid
+ул   түләмәне    he   hasn't  paid
+беҙ  түләмәнеҡ   we   haven't paid
+һеҙ  түләмәнеғыҙ you  haven't paid
+улар түләмәнелар they haven't paid
+
+мин  түләгәнмен   I    have paid
+һин  түләгәнһең   you  have paid
+ул   түләгән      he   has  paid
+беҙ  түләгәнбеҙ   we   have paid
+һеҙ  түләгәнһегеҙ you  have paid
+улар түләгәндәр   they have paid
+
+мин  түләмәгәнмен   I    haven't paid
+һин  түләмәгәнһең   you  haven't paid
+ул   түләмәгән      he   hasn't  paid
+беҙ  түләмәгәнбеҙ   we   haven't paid
+һеҙ  түләмәгәнһегеҙ you  haven't paid
+улар түләмәгәндәр   they haven't paid
+
+мин  түләрмен   I    would pay
+һин  түләрһең   you  would pay
+ул   түләр      he   would pay
+беҙ  түләрбеҙ   we   would pay
+һеҙ  түләрһегеҙ you  would pay
+улар түләрҙәр   they would pay
+
+мин  түләмәҫмен   I    wouldn't pay
+һин  түләмәҫһең   you  wouldn't pay
+ул   түләмәҫ      he   wouldn't pay
+беҙ  түләмәҫбеҙ   we   wouldn't pay
+һеҙ  түләмәҫһегеҙ you  wouldn't pay
+улар түләмәҫтәр   they wouldn't pay
+
+
+
+мин  түләйәсәкмен   I    will pay
+һин  түләйәсәкһең   you  will pay
+ул   түләйәсәк      he   will pay
+беҙ  түләйәсәкбеҙ   we   will pay
+һеҙ  түләйәсәкһегеҙ you  will pay
+улар түләйәсәктәр   they will pay
+
+мин  түләмәйәсәкмен   I    won't pay
+һин  түләмәйәсәкһең   you  won't pay
+ул   түләмәйәсәк      he   won't pay
+беҙ  түләмәйәсәкбеҙ   we   won't pay
+һеҙ  түләмәйәсәкһегеҙ you  won't pay
+улар түләмәйәсәктәр   they won't pay
+
+мин  түләһәм   if I    will pay
+һин  түләһәң   if you  will pay
+ул   түләһә    if he   will pay
+беҙ  түләһәк   if we   will pay
+һеҙ  түләһәгеҙ if you  will pay
+улар түләһәләр if they will pay
+
+мин  түләгем    килә I    want  to pay
+һин  түләгең    килә you  want  to pay
+ул   түләгеһе   килә he   wants to pay
+беҙ  түләгек    килә we   want  to pay
+һеҙ  түләгегеҙ  килә you  want  to pay
+улар түләгеләре килә they want  to pay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
