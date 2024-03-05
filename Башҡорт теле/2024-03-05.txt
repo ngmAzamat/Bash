@@ -1,0 +1,96 @@
+мин  ябам     I    am  shuting
+һин  ябаһың   you  are shuting
+ул   яба      he   is  shuting
+беҙ  ябабыҙ   we   are shuting
+һеҙ  ябаһығыҙ you  are shuting
+улар ябалар   they are shuting
+
+мин  япмайым    I    don't   shut
+һин  япмайһың   you  don't   shut
+ул   япмай      he   doesn't shut
+беҙ  ямайбыҙ    we   don't   shut
+һеҙ  япмайһығыҙ you  don't   shut
+улар япмайҙар   they don't   shut
+
+
+
+мин  яптым   I    have shut
+һин  яптың   you  have shut
+ул   япты    he   has  shut
+беҙ  яптыҡ   we   have shut
+һеҙ  яптығыҙ you  have shut
+улар яптылар they have shut
+
+мин  япманым   I    haven't shut
+һин  япманың   you  haven't shut
+ул   япманы    he   hasn't  shut
+беҙ  япманыҡ   we   haven't shut
+һеҙ  япманығыҙ you  haven't shut
+улар япманылар they haven't shut
+
+мин  япҡанмын   I    have shut
+һин  япҡанһың   you  have shut
+ул   япҡан      he   has  shut
+беҙ  япҡанбыҙ   we   have shut
+һеҙ  япҡанһығыҙ you  have shut
+улар япҡандар   they have shut
+
+мин  япмағанмын   I    haven't shut
+һин  япмағанһың   you  haven't shut
+ул   япмаған      he   hasn't  shut
+беҙ  япмағанбыҙ   we   haven't shut
+һеҙ  япмағанһығыҙ you  haven't shut
+улар япмағандар   they haven't shut
+
+мин  ябырмын   I    would shut
+һин  ябырһың   you  would shut
+ул   ябыр      he   would shut
+беҙ  ябырбыҙ   we   would shut
+һеҙ  ябырһығыҙ you  would shut
+улар ябырҙар   they would shut
+
+мин  япмаҫмын   I    wouldn't shut
+һин  япмаҫһың   you  wouldn't shut
+ул   япмаҫ      he   wouldn't shut
+беҙ  япмаҫбыҙ   we   wouldn't shut
+һеҙ  япмаҫһығыҙ you  wouldn't shut
+улар япмаҫтар   they wouldn't shut
+
+мин  ябасаҡмын   I    will shut
+һин  ябасаҡһың   you  will shut
+ул   ябасаҡ      he   will shut
+беҙ  ябасаҡбыҙ   we   will shut
+һеҙ  ябасаҡһығыҙ you  will shut
+улар ябасаҡтар   they will shut
+
+мин  япмаясаҡмын   I    won't shut
+һин  япмаясаҡһың   you  won't shut
+ул   япмаясаҡ      he   won't shut
+беҙ  япмаясаҡбыҙ   we   won't shut
+һеҙ  япмаясаҡһығыҙ you  won't shut
+улар япмаясаҡтар   they won't shut
+
+мин  япһам   if I    will shut
+һин  япһаң   if you  will shut
+ул   япһа    if he   will shut
+беҙ  япһаҡ   if we   will shut
+һеҙ  япһағыҙ if you  will shut
+улар япһалар if they will shut
+
+мин  япҡым    килә I    want  to shut
+һин  япҡың    килә you  want  to shut
+ул   япҡыһы   килә he   wants to shut
+беҙ  япҡыҡ    килә we   want  to shut
+һеҙ  япҡығыҙ  килә you  want  to shut
+улар япҡылары килә they want  to shut
+
+
+
+
+
+
+
+
+
+
+
