@@ -1,0 +1,90 @@
+мин  өшөйөм    I    am  freezeing
+һин  өшөйһөң   you  are freezeing
+ул   өшөй      he   is  freezeing
+беҙ  өшөйбеҙ   we   are freezeing
+һеҙ  өшөйһөгөҙ you  are freezeing
+улар өшөйҙәр   they are freezeing
+
+мин  өшөмәймен   I    don't   freeze
+һин  өшөмәйһең   you  don't   freeze
+ул   өшөмәй      he   doesn't freeze
+беҙ  өшөмәйбеҙ   we   don't   freeze
+һеҙ  өшөмәйһегеҙ you  don't   freeze
+улар өшөмәйҙәр   they don't   freeze
+
+мин  өшөнем   I    have frozen
+һин  өшөнең   you  have frozen
+ул   өшөне    he   has  frozen
+беҙ  өшөнеҡ   we   have frozen
+һеҙ  өшөнеғыҙ you  have frozen
+улар өшөнеләр they have frozen
+
+мин  өшөмәнем   I    haven't frozen
+һин  өшөмәнең   you  haven't frozen
+ул   өшөмәне    he   hasn't  frozen
+беҙ  өшөмәнеҡ   we   haven't frozen
+һеҙ  өшөмәнеғеҙ you  haven't frozen
+улар өшөмәнеләр they haven't frozen
+
+мин  өшөгәнмен   I    have frozen
+һин  өшөгәнһең   you  have frozen
+ул   өшөгән      he   has  frozen
+беҙ  өшөгәнбеҙ   we   have frozen
+һеҙ  өшөгәнһегеҙ you  have frozen
+улар өшөгәндәр   they have frozen
+
+мин  өшөмәгәнмен   I    haven't frozen
+һин  өшөмәгәнһең   you  haven't frozen
+ул   өшөмәгән      he   hasn't  frozen
+беҙ  өшөмәгәнбеҙ   we   haven't frozen
+һеҙ  өшөмәгәнһегеҙ you  haven't frozen
+улар өшөмәгәндәр   they haven't frozen
+
+мин  өшөрмөн   I    would freeze
+һин  өшөрһөң   you  would freeze
+ул   өшөр      he   would freeze
+беҙ  өшөрбеҙ   we   would freeze
+һеҙ  өшөрһегеҙ you  would freeze
+улар өшөрҙәр   they would freeze
+
+мин  өшөмәҫмен   I    wouldn't freeze
+һин  өшөмәҫһең   you  wouldn't freeze
+ул   өшөмәҫ      he   wouldn't freeze
+беҙ  өшөмәҫбеҙ   we   wouldn't freeze
+һеҙ  өшөмәҫһегеҙ you  wouldn't freeze
+улар өшөмәҫтәр   they wouldn't freeze
+
+мин  өшөйәсәкмен   I    will freeze
+һин  өшөйәсәкһең   you  will freeze
+ул   өшөйәсәк      he   will freeze
+беҙ  өшөйәсәкбеҙ   we   will freeze
+һеҙ  өшөйәсәкһегеҙ you  will freeze
+улар өшөйәсәктәр   they will freeze
+
+мин  өшөмәйәсәкмен   I    will not freeze
+һин  өшөмәйәсәкһең   you  will not freeze
+ул   өшөмәйәсәк      he   will not freeze
+беҙ  өшөмәйәсәкбеҙ   we   will not freeze
+һеҙ  өшөмәйәсәкһегеҙ you  will not freeze
+улар өшөмәйәсәктәр   they will not freeze
+
+мин  өшөһәм   if I    will freeze
+һин  өшөһәң   if you  will freeze
+ул   өшөһә    if he   will freeze
+беҙ  өшөһәк   if we   will freeze
+һеҙ  өшөһәгеҙ if you  will freeze
+улар өшөһәләр if they will freeze
+
+мин  өшөгөм    килә I    want  to freeze
+һин  өшөгөң    килә you  want  to freeze
+ул   өшөгө     килә he   want  to freeze
+беҙ  өшөгөк    килә we   want  to freeze
+һеҙ  өшөгөгөҙ  килә you  want  to freeze
+улар өшөгөләре килә they want  to freeze
+
+
+
+
+
+
+
