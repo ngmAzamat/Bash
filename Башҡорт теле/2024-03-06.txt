@@ -1,29 +1,29 @@
-мин  өшөйөм    I    am  freezeing
-һин  өшөйһөң   you  are freezeing
-ул   өшөй      he   is  freezeing
-беҙ  өшөйбеҙ   we   are freezeing
-һеҙ  өшөйһөгөҙ you  are freezeing
-улар өшөйҙәр   they are freezeing
+мин  өшөйөм    I    am  freezing
+һин  өшөйһөң   you  are freezing
+ул   өшөй      he   is  freezing
+беҙ  өшөйбөҙ   we   are freezing
+һеҙ  өшөйһөгөҙ you  are freezing
+улар өшөйҙәр   they are freezing
 
-мин  өшөмәймен   I    don't   freeze
+мин  өшөмәйем    I    don't   freeze
 һин  өшөмәйһең   you  don't   freeze
 ул   өшөмәй      he   doesn't freeze
 беҙ  өшөмәйбеҙ   we   don't   freeze
 һеҙ  өшөмәйһегеҙ you  don't   freeze
 улар өшөмәйҙәр   they don't   freeze
 
-мин  өшөнем   I    have frozen
-һин  өшөнең   you  have frozen
-ул   өшөне    he   has  frozen
-беҙ  өшөнеҡ   we   have frozen
-һеҙ  өшөнеғыҙ you  have frozen
-улар өшөнеләр they have frozen
+мин  өшөнөм   I    have frozen
+һин  өшөнөң   you  have frozen
+ул   өшөнө    he   has  frozen
+беҙ  өшөнөҡ   we   have frozen
+һеҙ  өшөнөғөҙ you  have frozen
+улар өшөнөләр they have frozen
 
 мин  өшөмәнем   I    haven't frozen
 һин  өшөмәнең   you  haven't frozen
 ул   өшөмәне    he   hasn't  frozen
-беҙ  өшөмәнеҡ   we   haven't frozen
-һеҙ  өшөмәнеғеҙ you  haven't frozen
+беҙ  өшөмәнек   we   haven't frozen
+һеҙ  өшөмәнегеҙ you  haven't frozen
 улар өшөмәнеләр they haven't frozen
 
 мин  өшөгәнмен   I    have frozen
@@ -43,8 +43,8 @@
 мин  өшөрмөн   I    would freeze
 һин  өшөрһөң   you  would freeze
 ул   өшөр      he   would freeze
-беҙ  өшөрбеҙ   we   would freeze
-һеҙ  өшөрһегеҙ you  would freeze
+беҙ  өшөрбөҙ   we   would freeze
+һеҙ  өшөрһөгөҙ you  would freeze
 улар өшөрҙәр   they would freeze
 
 мин  өшөмәҫмен   I    wouldn't freeze
@@ -77,7 +77,7 @@
 
 мин  өшөгөм    килә I    want  to freeze
 һин  өшөгөң    килә you  want  to freeze
-ул   өшөгө     килә he   want  to freeze
+ул   өшөгө     килә he   wantы to freeze
 беҙ  өшөгөк    килә we   want  to freeze
 һеҙ  өшөгөгөҙ  килә you  want  to freeze
 улар өшөгөләре килә they want  to freeze
