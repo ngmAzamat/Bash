@@ -1,0 +1,93 @@
+мин  ятам     I    am  lying
+һин  ятаһың   you  are lying
+ул   ята      he   is  lying
+беҙ  ятабыҙ   we   are lying
+һеҙ  ятаһығыҙ you  are lying
+улар яталар   they are lying
+
+мин  ятмаймын   I    don't   lie
+һин  ятмайһың   you  don't   lie
+ул   ятмай      he   doesn't lie
+беҙ  ятмайбыҙ   we   don't   lie
+һеҙ  ятмайһығыҙ you  don't   lie
+улар ятмайҙар   they don't   lie
+
+мин  яттым   I    have lain
+һин  яттың   you  have lain
+ул   ятты    he   has  lain
+беҙ  яттыҡ   we   have lain
+һеҙ  яттығыҙ you  have lain
+улар яттылар they have lain
+
+мин  ятманым   I    haven't lain
+һин  ятманың   you  haven't lain
+ул   ятманы    he   hasn't  lain
+беҙ  ятманыҡ   we   haven't lain
+һеҙ  ятманығыҙ you  haven't lain
+улар ятманылар they haven't lain
+
+мин  ятҡанмын   I    have lain
+һин  ятҡанһың   you  have lain
+ул   ятҡан      he   has  lain
+беҙ  ятҡанбыҙ   we   have lain
+һеҙ  ятҡанһығыҙ you  have lain
+улар ятҡандар   they have lain
+
+мин  ятмағанмын   I    haven't lain
+һин  ятмағанһың   you  haven't lain
+ул   ятмаған      he   hasn't  lain
+беҙ  ятмағанбыҙ   we   haven't lain
+һеҙ  ятмағанһығыҙ you  haven't lain
+улар ятмағандар   they haven't lain
+
+мин  ятырмын   I    would lie
+һин  ятырһың   you  would lie
+ул   ятыр      he   would lie
+беҙ  ятырбыҙ   we   would lie
+һеҙ  ятырһығыҙ you  would lie
+улар ятырҙар   they would lie
+
+мин  ятмаҫмын   I    wouldn't lie
+һин  ятмаҫһың   you  wouldn't lie
+ул   ятмаҫ      he   wouldn't lie
+беҙ  ятмаҫбыҙ   we   wouldn't lie
+һеҙ  ятмаҫһығыҙ you  wouldn't lie
+улар ятмаҫтар   they wouldn't lie
+
+
+
+
+мин  ятасакмын   I    will lie
+һин  ятасакһың   you  will lie
+ул   ятасак      he   will lie
+беҙ  ятасакбыҙ   we   will lie
+һеҙ  ятасакһығыҙ you  will lie
+улар ятасактар   they will lie
+
+мин  ятмаясакмын   I    won't lie
+һин  ятмаясакһың   you  won't lie
+ул   ятмаясак      he   won't lie
+беҙ  ятмаясакбыҙ   we   won't lie
+һеҙ  ятмаясакһығыҙ you  won't lie
+улар ятмаясакҙар   they won't lie
+
+мин  ятһам   if I    will lie
+һин  ятһаң   if you  will lie
+ул   ятһа    if he   will lie
+беҙ  ятһаҡ   if we   will lie
+һеҙ  ятһағыҙ if you  will lie
+улар ятһалар if they will lie
+
+мин  ятҡым    килә I    want  to lie
+һин  ятҡың    килә you  want  to lie
+ул   ятҡыһы   килә he   wants to lie
+беҙ  ятҡыҡ    килә we   want  to lie
+һеҙ  ятҡығыҙ  килә you  want  to lie
+улар ятҡылары килә they want  to lie
+
+
+
+
+
+
+

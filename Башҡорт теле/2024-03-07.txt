@@ -1,0 +1,113 @@
+мин  үҫәм     I    am  growing
+һин  үҫәһең   you  are growing
+ул   үҫә      he   is  growing
+беҙ  үҫәбеҙ   we   are growing
+һеҙ  үҫәһегеҙ you  are growing
+улар үҫәләр   they are growing
+
+мин  үҫмәйем    I    don't   grow
+һин  үҫмәйһең   you  don't   grow
+ул   үҫмәй      he   doesn't grow
+беҙ  үҫмәйбеҙ   we   don't   grow
+һеҙ  үҫмәйһегеҙ you  don't   grow
+улар үҫмәйҙәр   they don't   grow
+
+мин  үҫтем   I    have grown
+һин  үҫтең   you  have grown
+ул   үҫте    he   has  grown
+беҙ  үҫтек   we   have grown
+һеҙ  үҫтегеҙ you  have grown
+улар үҫтеләр they have grown
+
+мин  үҫмәнем   I    haven't grown
+һин  үҫмәнең   you  haven't grown
+ул   үҫмәне    he   hasn't  grown
+беҙ  үҫмәнек   we   haven't grown
+һеҙ  үҫмәнегеҙ you  haven't grown
+улар үҫмәнеләр they haven't grown
+
+мин  үҫкәнмен   I    have grown
+һин  үҫкәнһең   you  have grown
+ул   үҫкән      he   has  grown
+беҙ  үҫкәнбеҙ   we   have grown
+һеҙ  үҫкәнһегеҙ you  have grown
+улар үҫкәндәр   they have grown
+
+мин  үҫмәгәнмен   I    haven't grown
+һин  үҫмәгәнһең   you  haven't grown
+ул   үҫмәгән      he   hasn't  grown
+беҙ  үҫмәгәнбеҙ   we   haven't grown
+һеҙ  үҫмәгәнһегеҙ you  haven't grown
+улар үҫмәгәндәр   they haven't grown
+
+мин  үҫермен   I    would grow
+һин  үҫерһең   you  would grow
+ул   үҫер      he   would grow
+беҙ  үҫербеҙ   we   would grow
+һеҙ  үҫерһегеҙ you  would grow
+улар үҫерҙәр   they would grow
+
+мин  үҫмәҫмен   I    would grow
+һин  үҫмәҫһең   you  would grow
+ул   үҫмәҫ      he   would grow
+беҙ  үҫмәҫбеҙ   we   would grow
+һеҙ  үҫмәҫһегеҙ you  would grow
+улар үҫмәҫтәр   they would grow
+
+мин  үҫәсәкмен   I    will grow
+һин  үҫәсәкһең   you  will grow
+ул   үҫәсәк      he   will grow
+беҙ  үҫәсәкбеҙ   we   will grow
+һеҙ  үҫәсәкһегеҙ you  will grow
+улар үҫәсәктәр   they will grow
+
+
+
+
+мин  үҫмәйәсәкмен   I    won't growing
+һин  үҫмәйәсәкһең   you  won't growing
+ул   үҫмәйәсәк      he   won't growing
+беҙ  үҫмәйәсәкбеҙ   we   won't growing
+һеҙ  үҫмәйәсәкһегеҙ you  won't growing
+улар үҫмәйәсәктәр   they won't growing
+
+мин  үҫһәм   if I    will grow
+һин  үҫһәң   if you  will grow
+ул   үҫһә    if he   will grow
+беҙ  үҫһәк   if we   will grow
+һеҙ  үҫһәгеҙ if you  will grow
+улар үҫһәләр if they will grow
+
+мин  үҫкем    килә I    want  to grow
+һин  үҫкең    килә you  want  to grow
+ул   үҫкеһе   килә he   wants to grow
+беҙ  үҫкек    килә we   want  to grow
+һеҙ  үҫкегеҙ  килә you  want  to grow
+улар үҫкеләре килә they want  to grow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

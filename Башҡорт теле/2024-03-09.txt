@@ -1,0 +1,91 @@
+мин  һуғам     I    am  hitting
+һин  һуғаһың   you  are hitting
+ул   һуға      he   is  hitting
+беҙ  һуғабыҙ   we   are hitting
+һеҙ  һуғаһығыҙ you  are hitting
+улар һуғалар   they are hitting
+
+мин  һуҡмайым    I    don't   hit
+һин  һуҡмайһың   you  don't   hit
+ул   һуҡмай      he   doesn't hit
+беҙ  һуҡмайбыҙ   we   don't   hit
+һеҙ  һуҡмайһығыҙ you  don't   hit
+улар һуҡмайҙар   they don't   hit
+
+мин  һуҡтым   I    have hit
+һин  һуҡтың   you  have hit
+ул   һуҡты    he   has  hit
+беҙ  һуҡтыҡ   we   have hit
+һеҙ  һуҡтығыҙ you  have hit
+улар һуҡтылар they have hit
+
+мин  һуҡманым   I    haven't hit
+һин  һуҡманың   you  haven't hit
+ул   һуҡманы    he   hasn't  hit
+беҙ  һуҡманыҡ   we   haven't hit
+һеҙ  һуҡманығыҙ you  haven't hit
+улар һуҡманылар they haven't hit
+
+
+мин  һуҡҡанмын   I    have hit
+һин  һуҡҡанһың   you  have hit
+ул   һуҡҡан      he   has  hit
+беҙ  һуҡҡанбыҙ   we   have hit
+һеҙ  һуҡҡанһығыҙ you  have hit
+улар һуҡҡандар   they have hit
+
+мин  һуҡмағанмын   I    haven't hit
+һин  һуҡмағанһың   you  haven't hit
+ул   һуҡмаған      he   hasn't  hit
+беҙ  һуҡмағанбыҙ   we   haven't hit
+һеҙ  һуҡмағанһығыҙ you  haven't hit
+улар һуҡмағандар   they haven't hit
+
+мин  һуғырмын   I    would hit
+һин  һуғырһың   you  would hit
+ул   һуғыр      he   would hit
+беҙ  һуғырбыҙ   we   would hit
+һеҙ  һуғырһығыҙ you  would hit
+улар һуғырҙар   they would hit
+
+мин  һуҡмаҫмын   I    wouldn't hit
+һин  һуҡмаҫһың   you  wouldn't hit
+ул   һуҡмаҫ      he   wouldn't hit
+беҙ  һуҡмаҫбыҙ   we   wouldn't hit
+һеҙ  һуҡмаҫһығыҙ you  wouldn't hit
+улар һуҡмаҫтар   they wouldn't hit
+
+
+
+мин  һуғасаҡмын   I    will hit
+һин  һуғасаҡһың   you  will hit
+ул   һуғасаҡ      he   will hit
+беҙ  һуғасаҡбыҙ   we   will hit
+һеҙ  һуғасаҡһығыҙ you  will hit
+улар һуғасаҡтар   they will hit
+
+мин  һуҡмаясакмын   I    won't hit
+һин  һуҡмаясакһың   you  won't hit
+ул   һуҡмаясак      he   won't hit
+беҙ  һуҡмаясакбыҙ   we   won't hit
+һеҙ  һуҡмаясакһығыҙ you  won't hit
+улар һуҡмаясактар   they won't hit
+
+мин  һуҡһам   if I    will hit
+һин  һуҡһаң   if you  will hit
+ул   һуҡһа    if he   will hit
+беҙ  һуҡһаҡ   if we   will hit
+һеҙ  һуҡһағыҙ if you  will hit
+улар һуҡһалар if they will hit
+
+мин  һуҡҡым    I    want  to hit
+һин  һуҡҡың    you  want  to hit
+ул   һуҡҡыһы   he   wants to hit
+беҙ  һуҡҡыҡ    we   want  to hit
+һеҙ  һуҡҡығыҙ  you  want  to hit
+улар һуҡҡылары they want  to hit
+
+
+
+
+

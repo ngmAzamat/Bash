@@ -1,0 +1,108 @@
+
+мин  осратам     I    am  meet
+һин  осратаһың   you  are meet
+ул   осрата      he   is  meet
+беҙ  осратабыҙ   we   are meet
+һеҙ  осратаһығыҙ you  are meet
+улар осраталар   they are meet
+
+мин  осратмайым    I    don't   meet
+һин  осратмайһың   you  don't   meet
+ул   осратмай      he   doesn't meet
+беҙ  осратмайбыҙ   we   don't   meet
+һеҙ  осратмайһығыҙ you  don't   meet
+улар осратмайҙәр   they don't   meet
+
+мин  осраттым   I    have met
+һин  осраттың   you  have met
+ул   осратты    he   has  met
+беҙ  осраттыҡ   we   have met
+һеҙ  осраттығыҙ you  have met
+улар осраттыдар they have met
+
+мин  осратманым   I    haven't met
+һин  осратманың   you  haven't met
+ул   осратманы    he   hasn't  met
+беҙ  осратманыҡ   we   haven't met
+һеҙ  осратманығыҙ you  haven't met
+улар осратманылар they haven't met
+
+мин  осратҡанмын   I    have met
+һин  осратҡанһың   you  have met
+ул   осратҡан      he   has  met
+беҙ  осратҡанбыҙ   we   have met
+һыҙ  осратҡанһығыҙ you  have met
+улар осратҡандар   they have met
+
+мин  осратмағанмын   I    haven't met
+һин  осратмағанһың   you  haven't met
+ул   осратмаған      he   hasn't  met
+беҙ  осратмағанбыҙ   we   haven't met
+һеҙ  осратмағанһығыҙ you  haven't met
+улар осратмағандар   they haven't met
+
+мин  осратырмын   I    would meet
+һин  осратырһың   you  would meet
+ул   осратыр      he   would meet
+беҙ  осратырбыҙ   we   would meet
+һеҙ  осратырһығыҙ you  would meet
+улар осратырдар   they would meet
+
+мин  осратмаҫмын   I    wouldn't meet
+һин  осратмаҫһың   you  wouldn't meet
+ул   осратмаҫ      he   wouldn't meet
+беҙ  осратмаҫбыҙ   we   wouldn't meet
+һеҙ  осратмаҫһығыҙ you  wouldn't meet
+улар осратмаҫтар   they wouldn't meet
+
+мин  осратасакмын   I    will meet
+һин  осратасакһың   you  will meet
+ул   осратасак      he   will meet
+беҙ  осратасакбыҙ   we   will meet
+һеҙ  осратасакһығыҙ you  will meet
+улар осратасактар   they will meet
+
+мин  осратмаясакмын   I    won't meet
+һин  осратмаясакһың   you  won't meet
+ул   осратмаясак      he   won't meet
+беҙ  осратмаясакбыҙ   we   won't meet
+һеҙ  осратмаясакһығыҙ you  won't meet
+улар осратмаясактар   they won't meet
+ 
+мин  осратһам   if I    will meet
+һин  осратһаң   if you  will meet
+ул   осратһа    if he   will meet
+беҙ  осратһаҡ   if we   will meet
+һеҙ  осратһағыҙ if you  will meet
+улар осратһалар if they will meet
+
+мин  осратҡым    килә I    want  to meet
+һин  осратҡың    килә you  want  to meet
+ул   осратҡыһы   килә he   wants to meet
+беҙ  осратҡы     килә we   want  to meet
+һеҙ  осратҡығыҙ  килә you  want  to meet
+улар осратҡылары килә they want  to meet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
