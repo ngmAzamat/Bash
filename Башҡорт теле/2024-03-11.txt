@@ -1,0 +1,116 @@
+мин  һөйләшәм     I    am  chatting
+һин  һөйләшәһең   you  are chatting
+ул   һөйләшә      he   is  chatting
+беҙ  һөйләшәбеҙ   we   are chatting
+һеҙ  һөйләшәһегеҙ you  are chatting
+улар һөйләшәҙәр   they are chatting
+
+мин  һөйләшмәйем    I    don't   chat
+һин  һөйләшмәйһең   you  don't   chat
+ул   һөйләшмәй      he   doesn't chat
+беҙ  һөйләшмәйбеҙ   we   don't   chat
+һеҙ  һөйләшмәйһегеҙ you  don't   chat
+улар һөйләшмәйҙәр   they don't   chat
+
+мин  һөйләштем   I    have chatted
+һин  һөйләштең   you  have chatted
+ул   һөйләште    he   has  chatted
+беҙ  һөйләштек   we   have chatted
+һеҙ  һөйләштегеҙ you  have chatted
+улар һөйләштеләр they have chatted
+
+мин  һөйләшмәнем   I    haven't chatted
+һин  һөйләшмәнең   you  haven't chatted
+ул   һөйләшмәне    he   hasn't  chatted
+беҙ  һөйләшмәнек   we   haven't chatted
+һеҙ  һөйләшмәнегеҙ you  haven't chatted
+улар һөйләшмәнеләр they haven't chatted
+
+мин  һөйләшкәнмен   I    have chatted
+һин  һөйләшкәнһең   you  have chatted
+ул   һөйләшкән      he   has  chatted
+беҙ  һөйләшкәнбеҙ   we   have chatted
+һеҙ  һөйләшкәнһегеҙ you  have chatted
+улар һөйләшкәндәр   they have chatted
+
+мин  һөйләшмәгәнмен   I    haven't chatted
+һин  һөйләшмәгәнһең   you  haven't chatted
+ул   һөйләшмәгән      he   hasn't  chatted
+беҙ  һөйләшмәгәнбеҙ   we   haven't chatted
+һеҙ  һөйләшмәгәнһегеҙ you  haven't chatted
+улар һөйләшмәгәндәр   they haven't chatted
+
+мин  һөйләшермен   I    would chat
+һин  һөйләшерһең   you  would chat
+ул   һөйләшер      he   would chat
+беҙ  һөйләшербеҙ   we   would chat
+һеҙ  һөйләшерһегеҙ you  would chat
+улар һөйләшерҙәр   they would chat
+
+
+
+
+мин  һөйләшмәҫмен   I    wouldn't chat
+һин  һөйләшмәҫһең   you  wouldn't chat
+ул   һөйләшмәҫ      he   wouldn't chat
+беҙ  һөйләшмәҫбеҙ   we   wouldn't chat
+һеҙ  һөйләшмәҫһегеҙ you  wouldn't chat
+улар һөйләшмәҫтәр   they wouldn't chat
+
+мин  һөйләшәсәкмен   I    will chat
+һин  һөйләшәсәкһең   you  will chat
+ул   һөйләшәсәк      he   will chat
+беҙ  һөйләшәсәкбеҙ   we   will chat
+һеҙ  һөйләшәсәкһегеҙ you  will chat
+улар һөйләшәсәктәр   they will chat
+
+мин  һөйләшмәйәсәкмен   I    won't chat
+һин  һөйләшмәйәсәкһең   you  won't chat
+ул   һөйләшмәйәсәк      he   won't chat
+беҙ  һөйләшмәйәсәкбеҙ   we   won't chat
+һеҙ  һөйләшмәйәсәкһегеҙ you  won't chat
+улар һөйләшмәйәсәктәр   they won't chat
+
+мин  һөйләшһәм   if I    will chat
+һин  һөйләшһәң   if you  will chat
+ул   һөйләшһә    if he   will chat
+беҙ  һөйләшһәк   if we   will chat
+һеҙ  һөйләшһәгеҙ if you  will chat
+улар һөйләшһәләр if they will chat
+
+мин  һөйләшкем    килә I    want  to chat
+һин  һөйләшкең    килә you  want  to chat
+ул   һөйләшкеһе   килә he   wants to chat
+беҙ  һөйләшкек    килә we   want  to chat
+һеҙ  һөйләшкегеҙ  килә you  want  to chat
+улар һөйләшкеләре килә they want  to chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
