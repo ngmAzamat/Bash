@@ -1,0 +1,92 @@
+мин  күрһәтәм     I    am  showing
+һин  күрһәтәһең   you  are showing
+ул   күрһәтә      he   is  showing
+беҙ  күрһәтәбеҙ   we   are showing
+һеҙ  күрһәтәһегеҙ you  are showing
+улар күрһәтәләр  they are showing
+
+мин  күрһәтмәйем    I    don't   show
+һин  күрһәтмәйһең   you  don't   show
+ул   күрһәтмәй      he   doesn't show
+беҙ  күрһәтмәйбеҙ   we   don't   show
+һеҙ  күрһәтмәйһегеҙ you  don't   show
+улар күрһәтмәйҙәр   they don't   show
+
+мин  күрһәттем   I    have shown
+һин  күрһәттең   you  have shown
+ул   күрһәтте    he   has  shown
+беҙ  күрһәттек   we   have shown
+һеҙ  күрһәттегеҙ you  have shown
+улар күрһәттеләр they have shown
+
+мин  күрһәтмәнем   I    haven't show
+һин  күрһәтмәнең   you  haven't show
+ул   күрһәтмәне    he   hasn't  show
+беҙ  күрһәтмәнек   we   haven't show
+һеҙ  күрһәтмәнегеҙ you  haven't show
+улар күрһәтмәнеләр they haven't show
+
+мин  күрһәткәнмен   I    have shown
+һин  күрһәткәнһең   you  have shown
+ул   күрһәткән      he   has  shown
+беҙ  күрһәткәнбеҙ   we   have shown
+һеҙ  күрһәткәнһегеҙ you  have shown
+улар күрһәткәндәр   they have shown
+
+мин  күрһәтмәгәнмен   I    haven't shown
+һин  күрһәтмәгәнһең   you  haven't shown
+ул   күрһәтмәгән      he   hasn't  shown
+беҙ  күрһәтмәгәнбеҙ   we   haven't shown
+һеҙ  күрһәтмәгәнһегеҙ you  haven't shown
+улар күрһәтмәгәндәр   they haven't shown
+
+
+мин  күрһәтермен   I    would show
+һин  күрһәтерһең   you  would show
+ул   күрһәтер      he   would show
+беҙ  күрһәтербеҙ   we   would show
+һеҙ  күрһәтерһегеҙ you  would show
+улар күрһәтерҙәр   they would show
+
+мин  күрһәтмәҫмен   I    wouldn't show
+һин  күрһәтмәҫһең   you  wouldn't show
+ул   күрһәтмәҫ      he   wouldn't show
+беҙ  күрһәтмәҫбеҙ   we   wouldn't show
+һеҙ  күрһәтмәҫһегеҙ you  wouldn't show
+улар күрһәтмәҫтәр   they wouldn't show
+
+мин  күрһәтәсәкмен   I    will show
+һин  күрһәтәсәкһең   you  will show
+ул   күрһәтәсәк      he   will show
+беҙ  күрһәтәсәкбеҙ   we   will show
+һеҙ  күрһәтәсәкһегеҙ you  will show
+улар күрһәтәсәктәр   they will show
+
+мин  күрһәтмәйәсәкмен   I    won't show
+һин  күрһәтмәйәсәкһең   you  won't show
+ул   күрһәтмәйәсәк      he   won't show
+беҙ  күрһәтмәйәсәкбеҙ   we   won't show
+һеҙ  күрһәтмәйәсәкһегеҙ you  won't show
+улар күрһәтмәйәсәктәр   they won't show
+
+
+
+мин  күрһәтһәм   if I    will show
+һин  күрһәтһәң   if you  will show
+ул   күрһәтһә    if he   will show
+беҙ  күрһәтһәк   if we   will show
+һеҙ  күрһәтһәгеҙ if you  will show
+улар күрһәтһәләр if they will show
+
+
+мин  күрһәткем    килә I    want  to show
+һин  күрһәткең    килә you  want  to show
+ул   күрһәткеһе   килә he   wants to show
+беҙ  күрһәткек    килә we   want  to show
+һеҙ  күрһәткегеҙ  килә you  want  to show
+улар күрһәткеләре килә they want  to show
+
+
+
+
+
