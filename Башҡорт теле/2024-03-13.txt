@@ -1,0 +1,91 @@
+мин  йөҙәм     I    am  swiming
+һин  йөҙәһең   you  are swiming
+ул   йөҙә      he   is  swiming
+беҙ  йөҙәбеҙ   we   are swiming
+һеҙ  йөҙәһегеҙ you  are swiming
+улар йөҙәҙәр   they are swiming
+
+мин  йөҙмәйем    I    don't   swim
+һин  йөҙмәйһең   you  don't   swim
+ул   йөҙмәй      he   doesn't swim
+беҙ  йөҙмәйбеҙ   we   don't   swim
+һеҙ  йөҙмәйһегеҙ you  don't   swim
+улар йөҙмәйҙәр   they don't   swim
+
+мин  йөҙҙөм   I    have swum
+һин  йөҙҙөң   you  have swum
+ул   йөҙҙө    he   has  swum
+беҙ  йөҙҙөк   we   have swum
+һеҙ  йөҙҙөгеҙ you  have swum
+улар йөҙҙөләр they have swum
+
+мин  йөҙмәнем   I    haven't swim
+һин  йөҙмәнең   you  haven't swim
+ул   йөҙмәне    he   hasn't  swim
+беҙ  йөҙмәнек   we   haven't swim
+һеҙ  йөҙмәнегеҙ you  haven't swim
+улар йөҙмәнеләр they haven't swim
+
+мин  йөҙгәнмен   I    have swum
+һин  йөҙгәнһең   you  have swum
+ул   йөҙгән      he   has  swum
+беҙ  йөҙгәнбеҙ   we   have swum
+һеҙ  йөҙгәнһегеҙ you  have swum
+улар йөҙгәндәр   they have swum
+
+мин  йөҙмәгәнмен   I    haven't swum
+һин  йөҙмәгәнһең   you  haven't swum
+ул   йөҙмәгән      he   hasn't  swum
+беҙ  йөҙмәгәнбеҙ   we   haven't swum
+һеҙ  йөҙмәгәнһегеҙ you  haven't swum
+улар йөҙмәгәндәр   they haven't swum
+
+мин  йөҙөрмен   I    would swim
+һин  йөҙөрһең   you  would swim
+ул   йөҙөр      he   would swim
+беҙ  йөҙөрбеҙ   we   would swim
+һеҙ  йөҙөрһегеҙ you  would swim
+улар йөҙөрҙәр   they would swim
+
+мин  йөҙмәҫмен   I    wouldn't swim
+һин  йөҙмәҫһең   you  wouldn't swim
+ул   йөҙмәҫ      he   wouldn't swim
+беҙ  йөҙмәҫбеҙ   we   wouldn't swim
+һеҙ  йөҙмәҫһегеҙ you  wouldn't swim
+улар йөҙмәҫтәр   they wouldn't swim
+
+
+мин  йөҙәсәкмен   I    will swim
+һин  йөҙәсәкһең   you  will swim
+ул   йөҙәсәк      he   will swim
+беҙ  йөҙәсәкбеҙ   we   will swim
+һеҙ  йөҙәсәкһегеҙ you  will swim
+улар йөҙәсәктәр   they will swim
+
+
+
+
+мин  йөҙмәйәсәкмен   I    won't swim
+һин  йөҙмәйәсәкһең   you  won't swim
+ул   йөҙмәйәсәк      he   won't swim
+беҙ  йөҙмәйәсәкбеҙ   we   won't swim
+һеҙ  йөҙмәйәсәкһегеҙ you  won't swim
+улар йөҙмәйәсәктәр   they won't swim
+
+мни  йөҙһәм   if I    will swim
+һин  йөҙһәң   if you  will swim
+ул   йөҙһә    if he   will swim
+беҙ  йөҙһәк   if we   will swim
+һеҙ  йөҙһәгеҙ if you  will swim
+улар йөҙһәләр if they will swim
+
+
+
+мин  йөҙгем    килә I    want  to swim
+һин  йөҙгең    килә you  want  to swim
+ул   йөҙгеһе   килә he   wants to swim
+беҙ  йөҙгек    килә we   want  to swim
+һеҙ  йөҙгегеҙ  килә you  want  to swim
+улар йөҙгеләре килә they want  to swim
+
+
