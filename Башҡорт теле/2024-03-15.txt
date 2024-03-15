@@ -1,0 +1,110 @@
+мин  йырлайым    I    am  singing
+һин  йырлайһың   you  are singing
+ул   йырлай      he   is  singing
+беҙ  йырлайбыҙ   we   are singing
+һеҙ  йырлайһығыҙ you  are singing
+улар йырлайҙар   they are singing
+
+мин  йырламайым    I    don't   sing
+һин  йырламайһың   you  don't   sing
+ул   йырламай      he   doesn't sing
+беҙ  йырламайбыҙ   we   don't   sing
+һеҙ  йырламайһығыҙ you  don't   sing
+улар йырламайҙар   they don't   sing
+
+мин  йырланым   I    have sung
+һин  йырланың   you  have sung
+ул   йырланы    he   has  sung
+беҙ  йырланыҡ   we   have sung
+һеҙ  йырланығыҙ you  have sung
+улар йырланылар they have sung
+
+мин  йырламаным   I    haven't sung
+һин  йырламаның   you  haven't sung
+ул   йырламаны    he   hasn't  sung
+беҙ  йырламаныҡ   we   haven't sung
+һеҙ  йырламанығыҙ you  haven't sung
+улар йырламанылар they haven't sung
+
+мин  йырлағанмын   I    have sung
+һин  йырлағанһың   you  have sung
+ул   йырлаған      he   has  sung
+беҙ  йырлағанбыҙ   we   have sung
+һеҙ  йырлағанһығыҙ you  have sung
+улар йырлағандар   they have sung
+
+мин  йырламағанмын   I    haven't sung
+һин  йырламағанһың   you  haven't sung
+ул   йырламаған      he   hasn't  sung
+беҙ  йырламағанбыҙ   we   haven't sung
+һеҙ  йырламағанһығыҙ you  haven't sung
+улар йырламағандар   they haven't sung
+
+мин  йырлармын   I    would sing
+һин  йырларһың   you  would sing
+ул   йырлар      he   would sing
+беҙ  йырларбыҙ   we   would sing
+һеҙ  йырларһығыҙ you  would sing
+улар йырларҙар   they would sing
+
+мин  йырламаҫмын   I    wouldn't sing
+һин  йырламаҫһың   you  wouldn't sing
+ул   йырламаҫ      he   wouldn't sing
+беҙ  йырламаҫбыҙ   we   wouldn't sing
+һеҙ  йырламаҫһығыҙ you  wouldn't sing
+улар йырламаҫтар   they wouldn't sing
+
+мин  йырлаясаҡмын   I    will sing
+һин  йырлаясаҡһың   you  will sing
+ул   йырлаясаҡ      he   will sing
+беҙ  йырлаясаҡбыҙ   we   will sing
+һеҙ  йырлаясаҡһығыҙ you  will sing
+улар йырлаясаҡтар   they will sing
+
+мин  йырламаясаҡмын   I    won't sing
+һин  йырламаясаҡһың   you  won't sing
+ул   йырламаясаҡ      he   won't sing
+беҙ  йырламаясаҡбыҙ   we   won't sing
+һеҙ  йырламаясаҡһығыҙ you  won't sing
+улар йырламаясаҡтар   they won't sing
+
+
+
+мин  йырлаһам   if I    will sing
+һин  йырлаһаң   if you  will sing
+ул   йырлаһа    if he   will sing
+беҙ  йырлаһаҡ   if we   will sing
+һеҙ  йырлаһағыҙ if you  will sing
+улар йырлаһалар if they will sing
+
+мин  йырлағым    килә I    want  to sing
+һин  йырлағың    килә you  want  to sing
+ул   йырлағыһы   килә he   wants to sing
+беҙ  йырлағыҡ    килә we   want  to sing
+һеҙ  йырлағығыҙ  килә you  want  to sing
+улар йырлағылары килә they want  to sing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
