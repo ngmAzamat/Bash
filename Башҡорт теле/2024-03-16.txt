@@ -1,4 +1,4 @@
-мин  аңлаймын   I    am  understanding
+мин  аңлайым    I    am  understanding
 һин  аңлайһың   you  are understanding
 ул   аңлай      he   is  understanding
 беҙ  аңлайбыҙ   we   are understanding
@@ -12,47 +12,47 @@
 һеҙ  аңламайһығыҙ you  don't   understand
 улар аңламайҙар   they don't   understand
 
-мин  аңланым   I    have understan
-һин  аңланың   you  have understan
-ул   аңланы    he   has  understan
-беҙ  аңланыҡ   we   have understan
-һеҙ  аңланығыҙ you  have understan
-улар аңланылар they have understan
+мин  аңланым   I    have understood
+һин  аңланың   you  have understood
+ул   аңланы    he   has  understood
+беҙ  аңланыҡ   we   have understood
+һеҙ  аңланығыҙ you  have understood 
+улар аңланылар they have understood 
 
-мин  аңламаным   I    haven't understoond
-һин  аңламаның   you  haven't understoond
-ул   аңламаны    he   hasn't  understoond
-беҙ  аңламаныҡ   we   haven't understoond
-һеҙ  аңламанығыҙ you  haven't understoond
-улар аңламанылар they haven't understoond
+мин  аңламаным   I    haven't understood
+һин  аңламаның   you  haven't understood
+ул   аңламаны    he   hasn't  understood
+беҙ  аңламаныҡ   we   haven't understood
+һеҙ  аңламанығыҙ you  haven't understood
+улар аңламанылар they haven't understood
 
-мин  аңлағанмын   I    have understoond
-һин  аңлағанһың   you  have understoond
-ул   аңлаған      he   has  understoond
-беҙ  аңлағанбыҙ   we   have understoond
-һеҙ  аңлағанһығыҙ you  have understoond
-улар аңлағандар   they have understoond
+мин  аңлағанмын   I    have understood
+һин  аңлағанһың   you  have understood
+ул   аңлаған      he   has  understood
+беҙ  аңлағанбыҙ   we   have understood
+һеҙ  аңлағанһығыҙ you  have understood
+улар аңлағандар   they have understood
 
-мин  аңламағанмын   I    haven't understoond
-һин  аңламағанһың   you  haven't understoond
-ул   аңламаған      he   hasn't  understoond
-беҙ  аңламағанбыҙ   we   haven't understoond
-һеҙ  аңламағанһығыҙ you  haven't understoond
-улар аңламағанҙар   they haven't understoond
+мин  аңламағанмын   I    haven't understood
+һин  аңламағанһың   you  haven't understood
+ул   аңламаған      he   hasn't  understood
+беҙ  аңламағанбыҙ   we   haven't understood
+һеҙ  аңламағанһығыҙ you  haven't understood
+улар аңламағанҙар   they haven't understood
 
-мин  аңлармын   I    would understad
-һин  аңларһың   you  would understad
-ул   аңлар      he   would understad
-беҙ  аңларбыҙ   we   would understad
-һеҙ  аңларһығыҙ you  would understad
-улар аңларҙар   they would understad
+мин  аңлармын   I    would understand
+һин  аңларһың   you  would understand
+ул   аңлар      he   would understand
+беҙ  аңларбыҙ   we   would understand
+һеҙ  аңларһығыҙ you  would understand
+улар аңларҙар   they would understand
 
-мин  аңламәҫмен   I    wouldn't understand
-һин  аңламәҫһең   you  wouldn't understand
-ул   аңламәҫ      he   wouldn't understand
-беҙ  аңламәҫбеҙ   we   wouldn't understand
-һеҙ  аңламәҫһегеҙ you  wouldn't understand
-улар аңламәҫтәр   they wouldn't understand
+мин  аңламаҫмен   I    wouldn't understand
+һин  аңламаҫһең   you  wouldn't understand
+ул   аңламаҫ      he   wouldn't understand
+беҙ  аңламаҫбеҙ   we   wouldn't understand
+һеҙ  аңламаҫһегеҙ you  wouldn't understand
+улар аңламаҫтәр   they wouldn't understand
 
 мин  аңлаясаҡмын   I    will understand
 һин  аңлаясаҡһың   you  will understand
@@ -69,12 +69,12 @@
 улар аңламаясаҡтар   they won't understand
 
 
-мин  аңлаһам   if I    will understad
-һин  аңлаһаң   if you  will understad
-ул   аңлаһа    if he   will understad
-беҙ  аңлаһаҡ   if we   will understad
-һеҙ  аңлаһағыҙ if you  will understad
-улар аңлаһалар if they will understad
+мин  аңлаһам   if I    will understand
+һин  аңлаһаң   if you  will understand
+ул   аңлаһа    if he   will understand
+беҙ  аңлаһаҡ   if we   will understand
+һеҙ  аңлаһағыҙ if you  will understand
+улар аңлаһалар if they will understand
 
 мин  аңлағым    килә I    want  to understand
 һин  аңлағың    килә you  want  to understand
