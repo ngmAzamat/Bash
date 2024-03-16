@@ -1,0 +1,102 @@
+мин  аңлаймын   I    am  understanding
+һин  аңлайһың   you  are understanding
+ул   аңлай      he   is  understanding
+беҙ  аңлайбыҙ   we   are understanding
+һеҙ  аңлайһығыҙ you  are understanding
+улар аңлайҙар   they are understanding
+
+мин  аңламайым    I    don't   understand
+һин  аңламайһың   you  don't   understand
+ул   аңламай      he   doesn't understand
+беҙ  аңламайбыҙ   we   don't   understand
+һеҙ  аңламайһығыҙ you  don't   understand
+улар аңламайҙар   they don't   understand
+
+мин  аңланым   I    have understan
+һин  аңланың   you  have understan
+ул   аңланы    he   has  understan
+беҙ  аңланыҡ   we   have understan
+һеҙ  аңланығыҙ you  have understan
+улар аңланылар they have understan
+
+мин  аңламаным   I    haven't understoond
+һин  аңламаның   you  haven't understoond
+ул   аңламаны    he   hasn't  understoond
+беҙ  аңламаныҡ   we   haven't understoond
+һеҙ  аңламанығыҙ you  haven't understoond
+улар аңламанылар they haven't understoond
+
+мин  аңлағанмын   I    have understoond
+һин  аңлағанһың   you  have understoond
+ул   аңлаған      he   has  understoond
+беҙ  аңлағанбыҙ   we   have understoond
+һеҙ  аңлағанһығыҙ you  have understoond
+улар аңлағандар   they have understoond
+
+мин  аңламағанмын   I    haven't understoond
+һин  аңламағанһың   you  haven't understoond
+ул   аңламаған      he   hasn't  understoond
+беҙ  аңламағанбыҙ   we   haven't understoond
+һеҙ  аңламағанһығыҙ you  haven't understoond
+улар аңламағанҙар   they haven't understoond
+
+мин  аңлармын   I    would understad
+һин  аңларһың   you  would understad
+ул   аңлар      he   would understad
+беҙ  аңларбыҙ   we   would understad
+һеҙ  аңларһығыҙ you  would understad
+улар аңларҙар   they would understad
+
+мин  аңламәҫмен   I    wouldn't understand
+һин  аңламәҫһең   you  wouldn't understand
+ул   аңламәҫ      he   wouldn't understand
+беҙ  аңламәҫбеҙ   we   wouldn't understand
+һеҙ  аңламәҫһегеҙ you  wouldn't understand
+улар аңламәҫтәр   they wouldn't understand
+
+мин  аңлаясаҡмын   I    will understand
+һин  аңлаясаҡһың   you  will understand
+ул   аңлаясаҡ      he   will understand
+беҙ  аңлаясаҡбыҙ   we   will understand
+һеҙ  аңлаясаҡһығыҙ you  will understand
+улар аңлаясаҡтар   they will understand
+
+мин  аңламаясаҡмын   I    won't understand
+һин  аңламаясаҡһың   you  won't understand
+ул   аңламаясаҡ      he   won't understand
+беҙ  аңламаясаҡбыҙ   we   won't understand
+һеҙ  аңламаясаҡһығыҙ you  won't understand
+улар аңламаясаҡтар   they won't understand
+
+
+мин  аңлаһам   if I    will understad
+һин  аңлаһаң   if you  will understad
+ул   аңлаһа    if he   will understad
+беҙ  аңлаһаҡ   if we   will understad
+һеҙ  аңлаһағыҙ if you  will understad
+улар аңлаһалар if they will understad
+
+мин  аңлағым    килә I    want  to understand
+һин  аңлағың    килә you  want  to understand
+ул   аңлағыһы   килә he   wants to understand
+беҙ  аңлағыҡ    килә we   want  to understand
+һеҙ  аңлағығыҙ  килә you  want  to understand
+улар аңлағылары килә they want  to understand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
