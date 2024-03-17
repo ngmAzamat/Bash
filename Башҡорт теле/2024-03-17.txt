@@ -1,0 +1,92 @@
+мин  һелкетәмен   I    am  shaking
+һин  һелкетәһең   you  are shaking
+ул   һелкетә      he   is  shaking
+беҙ  һелкетәбеҙ   we   are shaking
+һеҙ  һелкетәһегеҙ you  are shaking
+улар һелкетәләр   they are shaking
+
+мин  һелкетмәйем    I    don't   shake
+һин  һелкетмәйһең   you  don't   shake
+ул   һелкетмәй      he   doesn't shake
+беҙ  һелкетмәйбеҙ   we   don't   shake
+һеҙ  һелкетмәйһегеҙ you  don't   shake
+улар һелкетмәйҙәр   they don't   shake
+
+мин  һелкеттем   I    have shaked
+һин  һелкеттең   you  have shaked
+ул   һелкетте    he   has  shaked
+беҙ  һелкеттек   we   have shaked
+һеҙ  һелкеттегеҙ you  have shaked
+улар һелкеттеләр they have shaked
+
+мин  һелкетмәнем   I    haven't shaked
+һин  һелкетмәнең   you  haven't shaked
+ул   һелкетмәне    he   hasn't  shaked
+беҙ  һелкетмәнек   we   haven't shaked
+һеҙ  һелкетмәнегеҙ you  haven't shaked
+улар һелкетмәнеләр they haven't shaked
+
+мин  һеклеткәнмен   I    have shaked
+һин  һеклеткәнһең   you  have shaked
+ул   һеклеткән      he   has  shaked
+беҙ  һеклеткәнбеҙ   we   have shaked
+һеҙ  һеклеткәнһегеҙ you  have shaked
+улар һеклеткәндәр   they have shaked
+
+
+мин  һеклетмәгәнмен   I    haven't shaked
+һин  һеклетмәгәнһең   you  haven't shaked
+ул   һеклетмәгән      he   hasn't  shaked
+беҙ  һеклетмәгәнбеҙ   we   haven't shaked
+һеҙ  һеклетмәгәнһегеҙ you  haven't shaked
+улар һеклетмәгәндәр   they haven't shaked
+
+мин  һеклетермен   I    would shake
+һин  һеклетерһең   you  would shake
+ул   һеклетер      he   would shake
+беҙ  һеклетербеҙ   we   would shake
+һеҙ  һеклетерһегеҙ you  would shake
+улар һеклетерҙәр   they would shake
+
+
+мин  һеклетмәҫмен   I    wouldn't shake
+һин  һеклетмәҫһең   you  wouldn't shake
+ул   һеклетмәҫ      he   wouldn't shake
+беҙ  һеклетмәҫбеҙ   we   wouldn't shake
+һеҙ  һеклетмәҫһегеҙ you  wouldn't shake
+улар һеклетмәҫтәр   they wouldn't shake
+
+
+
+мин  һеклетәсәкмен   I    will shake
+һин  һеклетәсәкһең   you  will shake
+ул   һеклетәсәк      he   will shake
+беҙ  һеклетәсәкбеҙ   we   will shake
+һеҙ  һеклетәсәкһегеҙ you  will shake
+улар һеклетәсәктәр   they will shake
+
+
+мин  һеклетмәйәсәкмен   I    won't shake
+һин  һеклетмәйәсәкһең   you  won't shake
+ул   һеклетмәйәсәк      he   won't shake
+беҙ  һеклетмәйәсәкбеҙ   we   won't shake
+һеҙ  һеклетмәйәсәкһегеҙ you  won't shake
+улар һеклетмәйәсәктәр   they won't shake
+
+
+мин  һеклетһәм   if I    will shake
+һин  һеклетһәң   if you  will shake
+ул   һеклетһә    if he   will shake
+беҙ  һеклетһәк   if we   will shake
+һеҙ  һеклетһәгеҙ if you  will shake
+улар һеклетһәләр if they will shake
+
+
+
+мин  һеклеткем   килә I    want  to shake
+һин  һеклеткең   килә you  want  to shake
+ул   һеклетке    килә he   wants to shake
+беҙ  һеклеткек   килә we   want  to shake
+һеҙ  һеклеткегеҙ килә you  want  to shake
+улар һеклеткеләр килә they want  to shake
+
