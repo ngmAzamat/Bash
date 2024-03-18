@@ -1,9 +1,9 @@
-мин  йөҙәм     I    am  swiming
-һин  йөҙәһең   you  are swiming
-ул   йөҙә      he   is  swiming
-беҙ  йөҙәбеҙ   we   are swiming
-һеҙ  йөҙәһегеҙ you  are swiming
-улар йөҙәҙәр   they are swiming
+мин  йөҙәм     I    am  swimming
+һин  йөҙәһең   you  are swimming
+ул   йөҙә      he   is  swimming
+беҙ  йөҙәбеҙ   we   are swimming
+һеҙ  йөҙәһегеҙ you  are swimming
+улар йөҙәләр   they are swimming
 
 мин  йөҙмәйем    I    don't   swim
 һин  йөҙмәйһең   you  don't   swim
@@ -40,11 +40,11 @@
 һеҙ  йөҙмәгәнһегеҙ you  haven't swum
 улар йөҙмәгәндәр   they haven't swum
 
-мин  йөҙөрмен   I    would swim
-һин  йөҙөрһең   you  would swim
+мин  йөҙөрмөн   I    would swim
+һин  йөҙөрһөң   you  would swim
 ул   йөҙөр      he   would swim
-беҙ  йөҙөрбеҙ   we   would swim
-һеҙ  йөҙөрһегеҙ you  would swim
+беҙ  йөҙөрбөҙ   we   would swim
+һеҙ  йөҙөрһөгөҙ you  would swim
 улар йөҙөрҙәр   they would swim
 
 мин  йөҙмәҫмен   I    wouldn't swim
