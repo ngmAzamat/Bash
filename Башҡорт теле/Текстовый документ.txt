@@ -1,86 +1,86 @@
-мин  илайым
-һин  илайһың
-ул   илай
-беҙ  илайбыҙ
-һеҙ  илайһығыҙ
-улар илайҙар
+мин  илайым    I    am  weeping
+һин  илайһың   you  are weeping
+ул   илай      he   is  weeping
+беҙ  илайбыҙ   we   are weeping
+һеҙ  илайһығыҙ you  are weeping
+улар илайҙар   they are weeping
 
-мин  иламайым
-һин  иламайһың
-ул   иламай
-беҙ  иламайбыҙ
-һеҙ  иламайһығыҙ
-улар иламайҙар
+мин  иламайым    I    don't   weep
+һин  иламайһың   you  don't   weep
+ул   иламай      he   doesn't weep
+беҙ  иламайбыҙ   we   don't   weep
+һеҙ  иламайһығыҙ you  don't   weep
+улар иламайҙар   they don't   weep
 
-мин  ила
-һин  ила
-ул   ила
-беҙ  ила
-һеҙ  ила
-улар ила
+мин  иланым   I    have wept
+һин  иланың   you  have wept
+ул   иланы    he   has  wept
+беҙ  иланыҡ   we   have wept
+һеҙ  иланығыҙ you  have wept
+улар иланылар they have wept
 
-мин  иламаным
-һин  иламаның
-ул   иламаны
-беҙ  иламаныҡ
-һеҙ  иламанығыҙ
-улар иламанылар
+мин  иламаным   I    haven't wept
+һин  иламаның   you  haven't wept
+ул   иламаны    he   hasn't  wept
+беҙ  иламаныҡ   we   haven't wept
+һеҙ  иламанығыҙ you  haven't wept
+улар иламанылар they haven't wept
 
-мин  ила
-һин  ила
-ул   ила
-беҙ  ила
-һеҙ  ила
-улар ила
+мин  илағанмын   I    have wept
+һин  илағанһың   you  have wept
+ул   илаған      he   has  wept
+беҙ  илағанбыҙ   we   have wppt
+һеҙ  илағанһығыҙ you  have wept
+улар илағандар   they have wept
 
-мин  ила
-һин  ила
-ул   ила
-беҙ  ила
-һеҙ  ила
-улар ила
+мин  иламағанмын   I    haven't wept
+һин  иламағанһың   you  haven't wept
+ул   иламаған      he   hasn't  wept
+беҙ  иламағанбыҙ   we   haven't wept
+һеҙ  иламағанһығыҙ you  haven't wept
+улар иламағандар   they haven't wept
 
-мин  ила
-һин  ила
-ул   ила
-беҙ  ила
-һеҙ  ила
-улар ила
+мин  илармын   I    would weep
+һин  иларһың   you  would weep
+ул   илар      he   would weep
+беҙ  иларбыҙ   we   would weep
+һеҙ  иларһығыҙ you  would weep
+улар иларҙар   they would weep
 
-мин  ила
-һин  ила
-ул   ила
-беҙ  ила
-һеҙ  ила
-улар ила
+мин  иламаҫмын   I    wouldn't weep
+һин  иламаҫһың   you  wouldn't weep
+ул   иламаҫ      he   wouldn't weep
+беҙ  иламаҫбыҙ   we   wouldn't weep
+һеҙ  иламаҫһығыҙ you  wouldn't weep
+улар иламаҫтар   they wouldn't weep
 
-мин  илаясаҡмын
-һин  илаясаҡһың
-ул   илаясаҡ
-беҙ  илаясаҡыбыҙ
-һеҙ  илаясаҡһығыҙ
-улар илаясаҡтар
+мин  илаясаҡмын   I    will weep
+һин  илаясаҡһың   you  will weep
+ул   илаясаҡ      he   will weep
+беҙ  илаясаҡыбыҙ  we   will weep
+һеҙ  илаясаҡһығыҙ you  will weep
+улар илаясаҡтар   they will weep
 
-мин  иламаясаҡмын
-һин  иламаясаҡһың
-ул   иламаясаҡ
-беҙ  иламаясаҡбыҙ
-һеҙ  иламаясаҡһығыҙ
-улар иламаясаҡтар
+мин  иламаясаҡмын   I    won't weep
+һин  иламаясаҡһың   you  won't weep
+ул   иламаясаҡ      he   won't weep
+беҙ  иламаясаҡбыҙ   we   won't weep
+һеҙ  иламаясаҡһығыҙ you  won't weep
+улар иламаясаҡтар   they won't weep
 
-мин  илаһам
-һин  илаһаң
-ул   илаһа
-беҙ  илаһаҡ
-һеҙ  илаһағыҙ
-улар илаһалар
+мин  илаһам   if I    will weep
+һин  илаһаң   if you  will weep
+ул   илаһа    if he   will weep
+беҙ  илаһаҡ   if we   will weep
+һеҙ  илаһағыҙ if you  will weep
+улар илаһалар if they will weep
 
-мин  илағым
-һин  илағың
-ул   илағыһы
-беҙ  илағыҡ
-һеҙ  илағығыҙ
-улар илағылары
+мин  илағым    килә I    want  to weep
+һин  илағың    килә you  want  to weep
+ул   илағыһы   килә he   wants to weep
+беҙ  илағыҡ    килә we   want  to weep
+һеҙ  илағығыҙ  килә you  want  to weep
+улар илағылары килә they want  to weep
 
 
 
