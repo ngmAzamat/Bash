@@ -1,0 +1,101 @@
+мин  кейәм     I    am  wearing
+һин  кейәһең   you  are wearing
+ул   кейә      he   is  wearing
+беҙ  кейәбеҙ   we   are wearing
+һеҙ  кейәһегеҙ you  are wearing
+улар кейәләр   they are wearing
+
+мин  кеймәйем    I    don't   wear
+һин  кеймәйһең   you  don't   wear
+ул   кеймәй      he   doesn't wear
+беҙ  кеймәйбеҙ   we   don't   wear
+һеҙ  кеймәйһегеҙ you  don't   wear
+улар кеймәйҙәр   they don't   wear
+
+мин  кейҙем   I    have worn
+һин  кейҙең   you  have worn
+ул   кейҙе    he   has  worn
+беҙ  кейҙек   we   have worn
+һеҙ  кейҙегеҙ you  have worn
+улар кейҙеләр they have worn
+
+
+мин  кеймәнем   I    have worn
+һин  кеймәнең   you  have worn
+ул   кеймәне    he   has  worn
+беҙ  кеймәнек   we   have worn
+һеҙ  кеймәнегеҙ you  have worn
+улар кеймәнеләр they have worn
+
+мин  кейгәнмен   I    have worn
+һин  кейгәнһең   you  have worn
+ул   кейгән      he   has  worn
+беҙ  кейгәнбеҙ   we   have worn
+һеҙ  кейгәнһегеҙ you  have worn
+улар кейгәндәр   they have worn
+
+мин  кеймәгәнмен   I    have worn
+һин  кеймәгәнһең   you  have worn
+ул   кеймәгән      he   has  worn
+беҙ  кеймәгәнбеҙ   we   have worn
+һеҙ  кеймәгәнһегеҙ you  have worn
+улар кеймәгәндәр   they have worn
+
+мин  кейермен   I    would wear
+һин  кейерһең   you  would wear
+ул   кейер      he   would wear
+беҙ  кейербеҙ   we   would wear
+һеҙ  кейерһегеҙ you  would wear
+улар кейерҙәр   they would wear
+
+мин  кеймәҫмен   I    wouldn't wear
+һин  кеймәҫһең   you  wouldn't wear
+ул   кеймәҫ      he   wouldn't wear
+беҙ  кеймәҫбеҙ   we   wouldn't wear
+һеҙ  кеймәҫһегеҙ you  wouldn't wear
+улар кеймәҫтәр   they wouldn't wear
+
+мин  кейәсәкмен   I    will wear
+һин  кейәсәкһең   you  will wear
+ул   кейәсәк      he   will wear
+беҙ  кейәсәкбеҙ   we   will wear
+һеҙ  кейәсәкһегеҙ you  will wear
+улар кейәсәктәр   they will wear
+
+
+
+мин  кеймәйәсәкмен   I    will not wear
+һин  кеймәйәсәкһең   you  will not wear
+ул   кеймәйәсәк      he   will not wear
+беҙ  кеймәйәсәкбеҙ   we   will not wear
+һеҙ  кеймәйәсәкһегеҙ you  will not wear
+улар кеймәйәсәктәр   they will not wear
+
+мин  кейһәм   if I    will wear
+һин  кейһәң   if you  will wear
+ул   кейһә    if he   will wear
+беҙ  кейһәк   if we   will wear
+һеҙ  кейһәгеҙ if you  will wear
+улар кейһәләр if they will wear
+
+мин  кейгем    килә I    want  to wear
+һин  кейгең    килә you  want  to wear
+ул   кейгеһе   килә he   wants to wear
+беҙ  кейгек    килә we   want  to wear
+һеҙ  кейгегеҙ  килә you  want  to wear
+улар кейгеләре килә they want  to wear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
