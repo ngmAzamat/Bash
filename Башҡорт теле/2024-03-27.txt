@@ -1,0 +1,86 @@
+мин  һуғышам
+һин  һуғышаһың
+ул   һуғыша
+беҙ  һуғышабыҙ
+һеҙ  һуғышаһығыҙ
+улар һуғышалар
+
+мин  һуғышмайым    I    don't   fight
+һин  һуғышмайһың   you  don't   fight
+ул   һуғышмай      he   doesn't fight
+беҙ  һуғышмайбыҙ   we   don't   fight
+һеҙ  һуғышмайһығыҙ you  don't   fight
+улар һуғышмайҙар   they don't   fight
+
+
+мин  һуғыштым   I    have fought
+һин  һуғыштың   you  have fought
+ул   һуғышты    he   has  fought
+беҙ  һуғыштыҡ   we   have fought
+һеҙ  һуғыштығыҙ you  have fought
+улар һуғыштылар they have fought
+
+мин  һуғышманым   I    haven't fought
+һин  һуғышманың   you  haven't fought
+ул   һуғышманы    he   hasn't  fought
+беҙ  һуғышманыҡ   we   haven't fought
+һеҙ  һуғышманығыҙ you  haven't fought
+улар һуғышманылар they haven't fought
+
+мин  һуғышҡанмын   I    have fought
+һин  һуғышҡанһың   you  have fought
+ул   һуғышҡан      he   has  fought
+беҙ  һуғышҡанбыҙ   we   have fought
+һеҙ  һуғышҡанһығыҙ you  have fought
+улар һуғышҡандар   they have fought
+
+
+мин  һуғышмағанмын   I    haven't fought
+һин  һуғышмағанһың   you  haven't fought
+ул   һуғышмаған      he   hasn't  fought
+беҙ  һуғышмағанбыҙ   we   haven't fought
+һеҙ  һуғышмағанһығыҙ you  haven't fought
+улар һуғышмағандар   they haven't fought
+
+мин  һуғышырмын   I    would fight
+һин  һуғышырһың   you  would fight
+ул   һуғышыр      he   would fight
+беҙ  һуғышырбыҙ   we   would fight
+һеҙ  һуғышырһығыҙ you  would fight
+улар һуғышырҙар   they would fight
+
+мин  һуғышмаҫмын   I    wouldn't fighit
+һин  һуғышмаҫһың   you  wouldn't fighit
+ул   һуғышмаҫ      he   wouldn't fighit
+беҙ  һуғышмаҫбыҙ   we   wouldn't fighit
+һеҙ  һуғышмаҫһығыҙ you  wouldn't fighit
+улар һуғышмаҫтар   they wouldn't fighit
+
+
+мин  һуғышасакмын   I    will fight
+һин  һуғышасакһың   you  will fight
+ул   һуғышасак      he   will fight
+беҙ  һуғышасакбыҙ   we   will fight
+һеҙ  һуғышасакһығыҙ you  will fight
+улар һуғышасактар   they will fight
+
+мин  һуғышмаясакмын   I    won't fight
+һин  һуғышмаясакһың   you  won't fight
+ул   һуғышмаясак      he   won't fight
+беҙ  һуғышмаясакбыҙwe we   won't fight
+һеҙ  һуғышмаясакһығыҙ you  won't fight
+улар һуғышмаясактар   they won't fight
+
+мин  һуғышһам   I    will fight
+һин  һуғышһаң   you  will fight
+ул   һуғышһа    he   will fight
+беҙ  һуғышһаҡ   we   will fight
+һеҙ  һуғышһағыҙ you  will fight
+улар һуғышһалар they will fight
+
+мин  һуғышҡым    килә I    want  to fight
+һин  һуғышҡың    килә you  want  to fight
+ул   һуғышҡыһы   килә he   wants to fight
+беҙ  һуғышҡыҡ    килә we   want  to fight
+һеҙ  һуғышҡығыҙ  килә you  want  to fight
+улар һуғышҡылары килә they want  to fight

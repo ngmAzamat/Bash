@@ -1,0 +1,83 @@
+мин  ҡайтам     I    am  returning
+һин  ҡайтаһың   you  are returning
+ул   ҡайта      he   is  returning
+беҙ  ҡайтабыҙ   we   are returning
+һеҙ  ҡайтаһығыҙ you  are returning
+улар ҡайталар   they are returning
+
+мин  ҡайтмайым    I    don't    return
+һин  ҡайтмайһың   you  don't    return
+ул   ҡайтмай      he   donesn't return
+беҙ  ҡайтмайбыҙ   we   don't    return
+һеҙ  ҡайтмайһығыҙ you  don't    return
+улар ҡайтмайҙар   they don't    return
+
+мин  ҡайттым   I    have returned
+һин  ҡайттың   you  have returned
+ул   ҡайтты    he   has  returned
+беҙ  ҡайттыҡ   we   have returned
+һеҙ  ҡайттығыҙ you  have returned
+улар ҡайттылар they have returned
+
+мин  ҡайтманым   I    haven't returned
+һин  ҡайтманың   you  haven't returned
+ул   ҡайтманы    he   haven't returned
+беҙ  ҡайтманыҡ   we   haven't returned
+һеҙ  ҡайтманығыҙ you  haven't returned
+улар ҡайтманылар they haven't returned
+
+мин  ҡайтҡанмын   I    have returned
+һин  ҡайтҡанһың   you  have returned
+ул   ҡайтҡан      he   has  returned
+беҙ  ҡайтҡанбыҙ   we   have returned
+һеҙ  ҡайтҡанһығыҙ you  have returned
+улар ҡайтҡандар   they have returned
+
+мин  ҡайтмағанмын   I    haven't returned
+һин  ҡайтмағанһың   you  haven't returned
+ул   ҡайтмаған      he   hasn't  returned
+беҙ  ҡайтмағанбыҙ   we   haven't returned
+һеҙ  ҡайтмағанһығыҙ you  haven't returned
+улар ҡайтмағандар   they haven't returned
+
+мин  ҡайтырмын   I    would return
+һин  ҡайтырһың   you  would return
+ул   ҡайтыр      he   would return
+беҙ  ҡайтырбыҙ   we   would return
+һеҙ  ҡайтырһығыҙ you  would return
+улар ҡайтырҙар   they would return
+
+мин  ҡайтмаҫмын   I    wouldn't return
+һин  ҡайтмаҫһың   you  wouldn't return
+ул   ҡайтмаҫ      he   wouldn't return
+беҙ  ҡайтмаҫбыҙ   we   wouldn't return
+һеҙ  ҡайтмаҫһығыҙ you  wouldn't return
+улар ҡайтмаҫтар   they wouldn't return
+
+мин  ҡайтасаҡмын   I    will return
+һин  ҡайтасаҡһың   you  will return
+ул   ҡайтасаҡ      he   will return
+беҙ  ҡайтасаҡбыҙ   we   will return
+һеҙ  ҡайтасаҡһығыҙ you  will return
+улар ҡайтасаҡтар   they will return
+
+мин  ҡайтмаясаҡмын   I    will not return
+һин  ҡайтмаясаҡһың   you  will not return
+ул   ҡайтмаясаҡ      he   will not return
+беҙ  ҡайтмаясаҡбыҙ   we   will not return
+һеҙ  ҡайтмаясаҡһығыҙ you  will not return
+улар ҡайтмаясаҡтар   they will not return
+
+мин  ҡайтһам   if I    will return
+һин  ҡайтһаң   if you  will return
+ул   ҡайтһа    if he   will return
+беҙ  ҡайтһаҡ   if we   will return
+һеҙ  ҡайтһағыҙ if you  will return
+улар ҡайтһалар if they will return
+
+мин  ҡайтҡым    килә I    want  to return
+һин  ҡайтҡың    килә you  want  to return
+ул   ҡайтҡыһы   килә he   wants to return
+беҙ  ҡайтҡыҡ    килә we   want  to return
+һеҙ  ҡайтҡығыҙ  килә you  want  to return
+улар ҡайтҡылары килә they want  to return

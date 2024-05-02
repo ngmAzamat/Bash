@@ -1,0 +1,99 @@
+мин  бөгәм     I    am  bend
+һин  бөгәһең   you  are bend
+ул   бөгә      he   is  bend
+беҙ  бөгәбеҙ   we   are bend
+һеҙ  бөгәһегеҙ you  are bend
+улар бөгәләр   they are bend
+
+мин  бөкмәйем    I    don't   bend
+һин  бөкмәйһең   you  don't   bend
+ул   бөкмәй      he   doesn't bend
+беҙ  бөкмәйбеҙ   we   don't   bend
+һеҙ  бөкмәйһегеҙ you  don't   bend
+улар бөкмәйҙәр   they don't   bend
+
+мин  бөктөм   I    have bent
+һин  бөктөң   you  have bent
+ул   бөктө    he   has  bent
+беҙ  бөктөк   we   have bent
+һеҙ  бөктөгөҙ you  have bent
+улар бөктөләр they have bent
+
+мин  бөкмәнем   I    haven't bent
+һин  бөкмәнең   you  haven't bent
+ул   бөкмәне    he   hasn't  bent
+беҙ  бөкмәнек   we   haven't bent
+һеҙ  бөкмәнегеҙ you  haven't bent
+улар бөкмәнедәр they haven't bent
+
+
+мин  бөккәнмен   I    have bent
+һин  бөккәнһең   you  have bent
+ул   бөккән      he   has  bent
+беҙ  бөккәнбеҙ   we   have bent
+һеҙ  бөккәнһегеҙ you  have bent
+улар бөккәндәр   they have bent
+
+мин  бөкмәгәнмен   I    haven't bent
+һин  бөкмәгәнһең   you  haven't bent
+ул   бөкмәгән      he   hasn't  bent
+беҙ  бөкмәгәнбеҙ   we   haven't bent
+һеҙ  бөкмәгәнһегеҙ you  haven't bent
+улар бөкмәгәндәр   they haven't bent
+
+
+мин  бөгөрмөн   I    would bend
+һин  бөгөрһөң   you  would bend
+ул   бөгөр      he   would bend
+беҙ  бөгөрбөҙ   we   would bend
+һеҙ  бөгөрһөгөҙ you  would bend
+улар бөгөрҙәр   they would bend
+
+мин  бөкмәҫмен   I    wouldn't bend
+һин  бөкмәҫһең   you  wouldn't bend
+ул   бөкмәҫ      he   wouldn't bend
+беҙ  бөкмәҫбеҙ   we   wouldn't bend
+һеҙ  бөкмәҫһегеҙ you  wouldn't bend
+улар бөкмәҫтәр   they wouldn't bend
+
+
+мин  бөгәсәкмен   I    will bend
+һин  бөгәсәкһең   you  will bend
+ул   бөгәсәк      he   will bend
+беҙ  бөгәсәкбеҙ   we   will bend
+һеҙ  бөгәсәкһегеҙ you  will bend
+улар бөгәсәктәр   they will bend
+
+мин  бөкмәйәсәкмен   I    won't bend
+һин  бөкмәйәсәкһең   you  won't bend
+ул   бөкмәйәсәк      he   won't bend
+беҙ  бөкмәйәсәкбеҙ   we   won't bend
+һеҙ  бөкмәйәсәкһегеҙ you  won't bend
+улар бөкмәйәсәктәр   they won't bend
+
+мин  бөкһәм   if I    will bend
+һин  бөкһәң   if you  will bend
+ул   бөкһә    if he   will bend
+беҙ  бөкһәк   if we   will bend
+һеҙ  бөкһәгеҙ if you  will bend
+улар бөкһәләр if they will bend
+
+
+
+мин  бөккөм    килә I    want  to bend
+һин  бөккөң    килә you  want  to bend
+ул   бөккөһө   килә he   wants to bend
+беҙ  бөккөк    килә we   want  to bend
+һеҙ  бөккөгөҙ  килә you  want  to bend
+улар бөккөләре килә they want  to bend
+
+
+
+
+
+
+
+
+
+
+
