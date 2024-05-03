@@ -1,0 +1,87 @@
+мин  аптырайым    I    am  suprised
+һин  аптырайһың   you  are suprised
+ул   аптырай      he   is  suprised
+беҙ  аптырайбыҙ   we   are suprised
+һеҙ  аптырайһығыҙ you  are suprised
+улар аптырайҙар   they are suprised
+
+мин  аптыртамайым    I    amn't  suprised
+һин  аптыртамайһың   you  aren't suprised
+ул   аптыртамай      he   isn't  suprised
+беҙ  аптыртамайбыҙ   we   aren't suprised
+һеҙ  аптыртамайһығыҙ you  aren't suprised
+улар аптыртамайҙар   they aren't suprised
+
+мин  аптыраным   I    have been supsrised
+һин  аптыраның   you  have been supsrised
+ул   аптыраны    he   has  been supsrised
+беҙ  аптыраныҡ   we   have been supsrised
+һеҙ  аптыранығыҙ you  have been supsrised
+улар аптыранылар they have been supsrised
+
+мин  аптыраманым   I    haven't been suprised
+һин  аптыраманың   you  haven't been suprised
+ул   аптыраманы    he   hasn't  been suprised
+беҙ  аптыраманыҡ   we   haven't been suprised
+һеҙ  аптыраманығыҙ you  haven't been suprised
+улар аптыраманылар they haven't been suprised
+
+мин  аптырағанмын   I    have been suprised
+һин  аптырағанһың   you  have been suprised
+ул   аптыраған      he   has  been suprised
+беҙ  аптырағанбыҙ   we   have been suprised
+һеҙ  аптырағанһығыҙ you  have been suprised
+улар аптырағандар   they have been suprised
+
+мин  аптырамағанмын   I    haven't been suprised
+һин  аптырамағанһың   you  haven't been suprised
+ул   аптырамаған      he   hasn't  been suprised
+беҙ  аптырамағанбыҙ   we   haven't been suprised
+һеҙ  аптырамағанһығыҙ you  haven't been suprised
+улар аптырамағандар   they haven't been suprised
+
+
+мин  аптырармын   I    would be suprised
+һин  аптырарһың   you  would be suprised
+ул   аптырар      he   would be suprised
+беҙ  аптырарбыҙ   we   would be suprised
+һеҙ  аптырарһығыҙ you  would be suprised
+улар аптырарҙар   they would be suprised
+
+мин  аптырамаҫмын   I    wouldn't be suprised
+һин  аптырамаҫһың   you  wouldn't be suprised
+ул   аптырамаҫ      he   wouldn't be suprised
+беҙ  аптырамаҫбыҙ   we   wouldn't be suprised
+һеҙ  аптырамаҫһығыҙ you  wouldn't be suprised
+улар аптырамаҫтар   they wouldn't be suprised
+
+мин  аптырайасакмын   I    will be suprised
+һин  аптырайасакһың   you  will be suprised
+ул   аптырайасак      he   will be suprised
+беҙ  аптырайасакбыҙ   we   will be suprised
+һеҙ  аптырайасакһығыҙ you  will be suprised
+улар аптырайасактар   they will be suprised
+
+мин  аптырамаясаҡмын   I    won't be suprised
+һин  аптырамаясаҡһың   you  won't be suprised
+ул   аптырамаясаҡ      he   won't be suprised
+беҙ  аптырамаясаҡбыҙ   we   won't be suprised
+һеҙ  аптырамаясаҡһығыҙ you  won't be suprised
+улар аптырамаясаҡтар   they won't be suprised
+
+мин  аптыраһам   if I    will be suprised
+һин  аптыраһаң   if you  will be suprised
+ул   аптыраһа    if he   will be suprised
+беҙ  аптыраһаҡ   if we   will be suprised
+һеҙ  аптыраһағыҙ if you  will be suprised
+улар аптыраһалар if they will be suprised
+
+мин  аптырағым    килә I    want  to be suprised
+һин  аптырағың    килә you  want  to be suprised
+ул   аптырағыһы   килә he   wants to be suprised
+беҙ  аптырағыҡ    килә we   want  to be suprised
+һеҙ  аптырағығыҙ  килә you  want  to be suprised
+улар аптырағылары килә they want  to be suprised
+
+
+
