@@ -1,0 +1,86 @@
+мин  күренәм     I    am  seen
+һин  күренәһең   you  are seen
+ул   күренә      he   is  seen
+беҙ  күренәбеҙ   we   are seen
+һеҙ  күренәһегеҙ you  are seen
+улар күренәләр   they are seen
+
+мин  күренмәйем    I    am't   seen
+һин  күренмәйһең   you  aren't seen
+ул   күренмәй      he   isn't  seen
+беҙ  күренмәйбеҙ   we   aren't seen
+һеҙ  күренмәйһегеҙ you  aren't seen
+улар күренмәйҙәр   they aren't seen
+
+мин  күрендем   I    have been seen
+һин  күрендең   you  have been seen
+ул   күренде    he   has  been seen
+беҙ  күрендек   we   have been seen
+һеҙ  күрендегеҙ you  have been seen
+улар күренделәр they have been seen
+
+мин  күренмәнем   I    have not been seen
+һин  күренмәнең   you  have not been seen
+ул   күренмәне    he   has  not been seen
+беҙ  күренмәнек   we   have not been seen
+һеҙ  күренмәнегеҙ you  have not been seen
+улар күренмәнеләр they have not been seen
+
+мин  күренгәнмен   I    have been seen
+һин  күренгәнһең   you  have been seen
+ул   күренгән      he   have been seen
+беҙ  күренгәнбеҙ   we   have been seen
+һеҙ  күренгәнһегеҙ you  have been seen
+улар күренгәндәр   they have been seen
+
+мин  күренмәгәнмен   I    have not been seen
+һин  күренмәгәнһең   you  have not been seen
+ул   күренмәгән      he   has  not been seen
+беҙ  күренмәгәнбеҙ   we   have not been seen
+һеҙ  күренмәгәнһегеҙ you  have not been seen
+улар күренмәгәндәр   they have not been seen
+
+мин  күренермен   I    would be seen
+һин  күренерһең   you  would be seen
+ул   күренер      he   would be seen
+беҙ  күренербеҙ   we   would be seen
+һеҙ  күренерһегеҙ you  would be seen
+улар күренерҙәр   they would be seen
+
+мин  күренмәҫмен   I    wouldn't be seen
+һин  күренмәҫһең   you  wouldn't be seen
+ул   күренмәҫ      he   wouldn't be seen
+беҙ  күренмәҫбеҙ   we   wouldn't be seen
+һеҙ  күренмәҫһегеҙ you  wouldn't be seen
+улар күренмәҫтәр   they wouldn't be seen
+
+мин  күренәсәкмен   I    will be seen
+һин  күренәсәкһең   you  will be seen
+ул   күренәсәк      he   will be seen
+беҙ  күренәсәкбеҙ   we   will be seen
+һеҙ  күренәсәкһегеҙ you  will be seen
+улар күренәсәктәр   they will be seen
+
+мин  күренмәйәсәкмен   I    won't be seen
+һин  күренмәйәсәкһең   you  won't be seen
+ул   күренмәйәсәк      he   won't be seen
+беҙ  күренмәйәсәкбеҙ   we   won't be seen
+һеҙ  күренмәйәсәкһегеҙ you  won't be seen
+улар күренмәйәсәктәр   they won't be seen
+
+мин  күренһәм   if I    will be seen
+һин  күренһәң   if you  will be seen
+ул   күренһә    if he   will be seen
+беҙ  күренһәк   if we   will be seen
+һеҙ  күренһәгеҙ if you  will be seen
+улар күренһәләр if they will be seen
+
+мин  күренгем    килә I    want  to be seen
+һин  күренгең    килә you  want  to be seen
+ул   күренгеһе   килә he   wants to be seen
+беҙ  күренгек    килә we   want  to be seen
+һеҙ  күренгегеҙ  килә you  want  to be seen
+улар күренгеләре килә they want  to be seen
+
+
+
