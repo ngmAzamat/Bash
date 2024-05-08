@@ -1,0 +1,87 @@
+мин  уйлайым    I    am  thinking
+һин  уйлайһың   you  are thinking
+ул   уйлай      he   is  thinking
+беҙ  уйлайбыҙ   we   are thinking
+һеҙ  уйлайһығыҙ you  are thinking
+улар уйлайҙар   they are thinking
+
+мин  уйламайым    I    don't   think
+һин  уйламайһың   you  don't   think
+ул   уйламай      he   doesn't think
+беҙ  уйламайбыҙ   we   don't   think
+һеҙ  уйламайһығыҙ you  don't   think
+улар уйламайҙар   they don't   think
+
+мин  уйланым   I    have thought
+һин  уйланың   you  have thought
+ул   уйланы    he   has  thought
+беҙ  уйланыҡ   we   have thought
+һеҙ  уйланығыҙ you  have thought
+улар уйланылар they have thought
+
+мин  уйламаным   I    haven't thought
+һин  уйламаның   you  haven't thought
+ул   уйламаны    he   hasn't  thought
+беҙ  уйламаныҡ   we   haven't thought
+һеҙ  уйламанығыҙ you  haven't thought
+улар уйламанылар they haven't thought
+
+мин  уйлағанмын   I    have thought
+һин  уйлағанһың   you  have thought
+ул   уйлаған      he   has  thought
+беҙ  уйлағанбыҙ   we   have thought
+һеҙ  уйлағанһығыҙ you  have thought
+улар уйлағандар   they have thought
+
+мин  уйламағанмын   I    haven't thought
+һин  уйламағанһың   you  haven't thought
+ул   уйламаған      he   hasn't  thought
+беҙ  уйламағанбыҙ   we   haven't thought
+һеҙ  уйламағанһығыҙ you  haven't thought
+улар уйламағандар   they haven't thought
+
+мин  уйлармын   I    would think
+һин  уйларһың   you  would think
+ул   уйлар      he   would think
+беҙ  уйларбыҙ   we   would think
+һеҙ  уйларһығыҙ you  would think
+улар уйлартар   they would think
+
+мин  уйламаҫмен   I    wouldn't think
+һин  уйламаҫһең   you  wouldn't think
+ул   уйламаҫ      he   wouldn't think
+беҙ  уйламаҫбыҙ   we   wouldn't think
+һеҙ  уйламаҫһығыҙ you  wouldn't think
+улар уйламаҫтар   they wouldn't think
+
+мин  уйлаясакмын   I    will think
+һин  уйлаясакһың   you  will think
+ул   уйлаясак      he   will think
+беҙ  уйлаясакбыҙ   we   will think
+һеҙ  уйлаясакһығыҙ you  will think
+улар уйлаясактар   they will think
+
+
+мин  уйламаясакмен   I    won't think
+һин  уйламаясакһең   you  won't think
+ул   уйламаясак      he   won't think
+беҙ  уйламаясакбыҙ   we   won't think
+һеҙ  уйламаясакһығыҙ you  won't think
+улар уйламаясактар   they won't think
+
+мин  уйлаһам   if I    will think
+һин  уйлаһаң   if you  will think
+ул   уйлаһа    if he   will think
+беҙ  уйлаһаҡ   if we   will think
+һеҙ  уйлаһағыҙ if you  will think
+улар уйлаһалар if they will think
+
+мин  уйлағым    килә I    want  to think
+һин  уйлағың    килә you  want  to think
+ул   уйлағы     килә he   wants to think
+беҙ  уйлағыҡ    килә we   want  to think
+һеҙ  уйлағығыҙ  килә you  want  to think
+улар уйлағылары килә they want  to think
+
+
+
